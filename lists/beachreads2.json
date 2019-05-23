@@ -2,14 +2,14 @@
  "description": "Taken from ALA American Libraries Direct, Susie Dumond picks the Best Beach Reads of 2019 just in time for your vacation, also includes ebook and eaudio editions.",
  "list":
  [
- {
+   {
     "label":"Daisy Jones and the Six",
     "isbns": [
      "9781524798635",
      "9781524798628",
      "9781984845320"
      ]
-  },
+    },
   {
      "label":"Ayesha at Last",
      "isbns": [
@@ -102,6 +102,6 @@
          "9780812995701",
          "9780525639961"
          ]
-      }
+     }
  ]
 }
