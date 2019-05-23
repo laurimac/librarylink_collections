@@ -4,7 +4,7 @@ also includes ebook and eaudio editions.",
 "rank":true,
 "list":[
  {
-    "label":"Daisy Jones and the Six"
+    "label":"Daisy Jones and the Six",
     "isbns": [
      "9781524798635",
      "9781524798628",
@@ -12,26 +12,26 @@ also includes ebook and eaudio editions.",
      ]
   },
   {
-     "label":"Ayesha at Last"
+     "label":"Ayesha at Last",
      "isbns": [
      "9781984802798"
      ]
   },
   {
-     "label":"From scratch"
+     "label":"From scratch",
      "isbns":[
      "9781501187674",
      "9781501187650"
       ]
    },
    {
-     "label":"The wedding party"
+     "label":"The Wedding Party",
      "isbns":[
      "9781984802194"
      ]
    },
    {
-     "label":"Karamo : my story of embracing purpose, healing, and hope"
+     "label":"Karamo : My story of embracing purpose, healing, and hope",
      "isbns":[
      "9781982111984",
      "9781508286226",
@@ -39,13 +39,13 @@ also includes ebook and eaudio editions.",
      ]
    },
    { 
-     "label":"Red, White & Royal Blue"
+     "label":"Red, White & Royal Blue",
      "isbns":[
      "9781250316776"
     ]
   },
   {
-    "label":"Professor Chandra follows his bliss : a novel"
+    "label":"Professor Chandra follows his Bliss : a novel",
     "isbns":[
     "9780525511380",
     "9780525511397",
@@ -53,44 +53,44 @@ also includes ebook and eaudio editions.",
     ]
    },
    {
-     "label":"Lock Every Door"
+     "label":"Lock Every Door",
      "isbns":[
-     "9781524745141"
-     "9781984891051",
+     "9781524745141",
+     "9781984891051"
      ]
    },
    {
-    "label":"When We Left Cuba"
+    "label":"When We Left Cuba",
     "isbns":[
-      "9780451490865"
+     "9780451490865",
      "9781982550417",
      "9780451490872",
      "9781683690962"
      ]
     },
     {
-      "label":"Princess and the Fangirl"
+      "label":"Princess and the Fangirl",
       "isbns":[
-       "9781683690962"
-      "9781524748135"
+       "9781683690962",
+       "9781524748135"
        ]
     },
     {
-      "label":"Figuring"
+      "label":"Figuring",
       "isbns":[
       "9781524748135",
       "9781524748142",
-      "9781984844767",
+      "9781984844767"
        ]
     },
     {
-       "label":"I Wanna Be Where You Are"
+       "label":"I Wanna Be Where You Are",
        "isbns":[
         "9781250294883"
        ]
     },
     {
-       "label":"The Bride Test"
+       "label":"The Bride Test",
        "isbns":[
        "9780451490827",
        "9781974926688",
@@ -98,9 +98,9 @@ also includes ebook and eaudio editions.",
         ]
      },
      {
-        "label":"Dreyer's English an utterly correct guide to clarity and style"
+        "label":"Dreyer's English : an utterly correct guide to clarity and style",
         "isbns":[
-         "9780812995701"
+         "9780812995701",
          "9780525639961"
          ]
       }
