@@ -1,6 +1,7 @@
- {"label": "2019 Beach Reads",
-"description": "Taken from ALA American Libraries Direct, Susie Dumond picks the Best Beach Reads of 2019 just in time for your vacation, also includes ebook and eaudio editions.",
-"list":[
+{"label": "2019 Beach Reads",
+ "description": "Taken from ALA American Libraries Direct, Susie Dumond picks the Best Beach Reads of 2019 just in time for your vacation, also includes ebook and eaudio editions.",
+ "list":
+ [
  {
     "label":"Daisy Jones and the Six",
     "isbns": [
@@ -101,6 +102,6 @@
          "9780812995701",
          "9780525639961"
          ]
-      }
-     ]
+      },
+ ]
 }
