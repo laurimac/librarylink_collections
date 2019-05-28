@@ -4,9 +4,9 @@
   "lists":
   [
     {
-      "label":"Lets Talk About Race"
+      "label":"Lets Talk About Race",
        "isbns": [
-       "0060285966",
+       "0060285966"
       ]
      },
      {
@@ -26,7 +26,7 @@
        "label": "Lies my teacher told me : everything your American history textbook got wrong",
        "isbns":[
        "9781595583260",
-       "9781620974698",
+       "9781620974698"
        ]
      },
      {
@@ -45,7 +45,7 @@
          "label": "Between the world and me",
          "isbns":[
          "9780812993547",
-         "9780679645986"
+         "9780679645986",
          "9780451482211",
          "9781410485847"
          ]
@@ -65,11 +65,11 @@
           ]
         },
         {
-          "label": 'The hate u give",
+          "label": "The hate u give",
           "isbns": [
           "9780062498533",
           "9781470827137"
-          [
+          ]
         },
         {
           "label": "The color of law : a forgotten history of how our government segregated America",
