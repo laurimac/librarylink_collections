@@ -1,0 +1,125 @@
+{
+  "label": "Equity",
+  "description": "Spokane PL Collection, structured list.",
+  "lists":
+  [
+    {
+      "label":"Let's Talk About Race"
+       "isbns": [
+       "0060285966",
+      ]
+     },
+     {
+       "label":"A People's History of the United States",
+       "isbns":[
+        "9780060838652"
+        ]
+     },
+     {
+       "label":"The new Jim Crow : mass incarceration in the age of colorblindness",
+       "isbns":[
+       "9781595586438",
+       "9781595588197"
+       ]
+     },
+     {
+       "label": "Lies my teacher told me : everything your American history textbook got wrong",
+       "isbns":[
+       "9781595583260",
+       "9781620974698",
+       ]
+     },
+     {
+       "label": "Blindspot : hidden biases of good people",
+       "isbns":[
+       "9780553804645"
+       ]
+     },
+     {
+        "label": "The absolutely true diary of a part-time Indian",
+        "isbns": [
+        "9780316280372"
+        ]
+      },
+      {
+         "label": "Between the world and me",
+         "isbns":[
+         "9780812993547",
+         "9780679645986"
+         "9780451482211",
+         "9781410485847"
+         ]
+       },
+       {
+          "label":"Evicted : poverty and profit in the American city",
+          "isbns": [
+          "9780553447439",
+          "9780553447446",
+          "9781432843137"
+          ]
+       },
+       {
+          "label": "Stamped from the beginning : the definitive history of racist ideas in America",
+          "isbns": [
+          "9781568584638"
+          ]
+        },
+        {
+          "label": 'The hate u give",
+          "isbns": [
+          "9780062498533",
+          "9781470827137"
+          [
+        },
+        {
+          "label": "The color of law : a forgotten history of how our government segregated America",
+          "isbns": [
+          "9781631492853"
+          ]
+        },
+        {
+           "label": "Can I touch your hair? : poems of race, mistakes, and friendship",
+           "isbns":[
+           "9781512404425"
+           ]
+        },
+        {
+           "label": "Marley Dias gets it done : and so can you!",
+           "isbns":[
+           "9781338136890"
+           ]
+       },
+       {
+           "label": "There there",
+           "isbns": [
+           "9780525520375",
+           "9780525635567",
+           "9780525633013"
+          
+           ]
+       },
+       {
+           "label": "The big umbrella",
+           "isbns": [
+           "9781534406582"
+           ]
+        },
+        {
+           "label": "White fragility : why it's so hard to talk to white people about racism",
+           "isbns": [
+           "9780807047415",
+           "9781974923403"
+           "
+           ]
+        },
+        {
+          "label": "The heartbeat of Wounded Knee : native America from 1890 to the present",
+          "isbns":[  
+           "9781594633157",
+           "9781974923403"
+           ]
+         },
+         {
+  ]
+}
+© 2019 GitHub, Inc.
