@@ -1,0 +1,56 @@
+{
+	"label": "Books on children's rights",
+	"description": "A selection of new titles on children's rights available in hardcopy from the European Parliament Library.",
+	"list": [{
+			"label": "Incorporating the UN Convention on the Rights of the Child into national law",
+			"isbns": [
+				"9781780689920"
+			]
+		},
+		{
+			"label": "Safeguarding children's rights in immigration law",
+			"isbns": [
+				"9781780689494"
+			]
+		},
+		{
+			"label": "The UN Convention on the Rights of the Child : a commentary",
+			"isbns": [
+				"9780198262657"
+			]
+		},
+
+		{
+			"label": "Parental imprisonment and children's rights",
+			"isbns": [
+				"9781138283473"
+			]
+		},
+		{
+			"label": "A Magna Carta for children?  rethinking children's rights",
+			"isbns": [
+				"9781107152823",
+				"9781316606674"
+			]
+		},
+		{
+			"label": "Human rights monitoring and implementation: How to make rights 'real' in children's lives",
+			"isbns": [
+				"9780367520694"
+			]
+		},
+		{
+			"label": "European Yearbook on Human Rights 2020",
+			"isbns": [
+				"9783708313429",
+				"9781780689722"
+			]
+		},
+		{
+			"label": "The Routledge handbook of global child welfare",
+			"isbns": [
+				"9781138942752"
+			]
+		}
+	]
+}
