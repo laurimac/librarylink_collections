@@ -1,0 +1,10 @@
+{
+	"label": "Name",
+	"description": "description ",
+	"isbns": [
+		"ISBN",
+		"ISBN",
+		"ISBN"
+		
+	]
+}
