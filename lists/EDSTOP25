@@ -2,175 +2,177 @@
 	"label": "EBSCO's Top 25 EBooks 2022",
 	"description": "EBSCO's eBooks top 25 by usage in 2022 ",
 	"list": [{
-				"label": "Healthcare in the United States: Clinical, Financial, and Operational Dimensions",
-				"isbns": [
-					"9781640551459",
-					"9781640551466"
-				]
-			},
-			{
-				"label": "Management of Healthcare Organizations: An Introduction, Third Edition",
-				"isbns": [
-					"9781640550438",
-					"9781640551466"
-				]
-			},
-			{
-				"label": "Information Technology for Healthcare Managers, Ninth Edition",
-				"isbns": [
-					"9781640551916",
-					"9781640551923"
-				]
-			},
-			{
-				"label": "This Book Will Make You Kinder: An Empathy Handbook",
-				"isbns": [
-					"9780143135593",
-					"9780525507246"
-				]
-			},
-			{
-				"label": "The ASPEN Adult Nutrition Support Core Curriculum, 3rd Edition",
-				"isbns": [
-					"9781889622316",
-					"9781889622323",
-					{
-						"label": "Organization Development: Principles, Processes, Performance",
-						"isbns": [
-							"9781576753132",
-							"9781605093345"
-						]
-					},
-					{
-						"label": "Freeing Shakespeare's Voice: The Actor's Guide to Talking the Text",
-						"isbns": [
-							"9781559360319",
-							"9781559366380"
-						]
-					},
-					{
-						"label": "The Oxford Textbook of Clinical Research Ethics",
-						"isbns": [
-							"9780195168655",
-							"9780199721665"
-						]
-					},
-					{
-						"label": "Stumbling on Happiness",
-						"isbns": [
-							"9781400042661",
-							"9780307265302"
-						]
-					},
-					{
-						"label": "Red",
-						"isbns": [
-							"9781840029444",
-							"9781849432214"
-						]
-					},
-					{
-						"label": "What Color Is Your Parachute? 2021: Your Guide to a Lifetime of Meaningful Work and Career Success",
-						"isbns": [
-							"9781984857866",
-							"9781984857880"
-						]
-					},
-					{
-						"label": "Nursing Home Administration",
-						"isbns": [
-							"9780826128546",
-							"9780826128553"
-						]
-					},
-					{
-						"label": "Contemporary Issues in Healthcare Law and Ethics",
-						"isbns": [
-							"9781567936377",
-							"9781567936384"
-						]
-					},
-					{
-						"label": "Training Design Basics, 2nd Edition",
-						"isbns": [
-							"9781607285007"
-						]
-					},
-					{
-						"label": "Play Therapy: The Art of the Relationship",
-						"isbns": [
-							"9780415886819",
-							"9781136854484"
-						]
-					},
-					{
-						"label": "Clinical Pathology for Athletic Trainers: Recognizing Systemic Disease, Third Edition",
-						"isbns": [
-							"9781617110917",
-							"9781630919023"
-						]
-					},
-					{
-						"label": "Healthcare Operations Management, Second Edition",
-						"isbns": [
-							"9781567934441",
-							"9781567935455"
-						]
-					},
-					{
-						"label": "Accounting Fundamentals for Health Care Management",
-						"isbns": [
-							"9781449645281",
-							"9781449645298"
-						]
-					},
-					{
-						"label": "Drawing Ideas: A Hand-Drawn Approach for Better Design",
-						"isbns": [
-							"9780385344623",
-							"9780385344524"
-						]
-					},
-					{
-						"label": "Davis's Drug Guide for Nursing",
-						"isbns": [
-							"9780803657052",
-							"9780803657793"
-						]
-					},
-					{
-						"label": "Marketing Scales Handbook: Multi-Item Measures for Consumer Insight Research, Volume 9",
-						"isbns": [
-							"9780692845936"
-						]
-					},
-					{
-						"label": "Evidence-Based Strategies for Effective Classroom Management",
-						"isbns": [
-							"9781462531752",
-							"9781462531776"
-						]
-					},
-					{
-						"label": "Literature for Young Adults: Books (and More) for Contemporary Readers",
-						"isbns": [
-							"9781138478688",
-							"9781351067157"
-						]
-					},
-					{
-						"label": "Research Methods in Crime and Justice",
-						"isbns": [
-							"9781138124226",
-							"9781317300670"
-						]
-					},
-					{
-						"label": "Why Race and Culture Matter in Schools: Closing the Achievement Gap in America's Classrooms",
-						"isbns": [
-							"9780807750711",
-							"9780807772195"
+			"label": "Healthcare in the United States: Clinical, Financial, and Operational Dimensions",
+			"isbns": [
+				"9781640551459",
+				"9781640551466"
 			]
-		}	
+		},
+		{
+			"label": "Management of Healthcare Organizations: An Introduction, Third Edition",
+			"isbns": [
+				"9781640550438",
+				"9781640551466"
+			]
+		},
+		{
+			"label": "Information Technology for Healthcare Managers, Ninth Edition",
+			"isbns": [
+				"9781640551916",
+				"9781640551923"
+			]
+		},
+		{
+			"label": "This Book Will Make You Kinder: An Empathy Handbook",
+			"isbns": [
+				"9780143135593",
+				"9780525507246"
+			]
+		},
+		{
+			"label": "The ASPEN Adult Nutrition Support Core Curriculum, 3rd Edition",
+			"isbns": [
+				"9781889622316",
+				"9781889622323"
+			]
+		},
+		{
+			"label": "Organization Development: Principles, Processes, Performance",
+			"isbns": [
+				"9781576753132",
+				"9781605093345"
+			]
+		},
+		{
+			"label": "Freeing Shakespeare's Voice: The Actor's Guide to Talking the Text",
+			"isbns": [
+				"9781559360319",
+				"9781559366380"
+			]
+		},
+		{
+			"label": "The Oxford Textbook of Clinical Research Ethics",
+			"isbns": [
+				"9780195168655",
+				"9780199721665"
+			]
+		},
+		{
+			"label": "Stumbling on Happiness",
+			"isbns": [
+				"9781400042661",
+				"9780307265302"
+			]
+		},
+		{
+			"label": "Red",
+			"isbns": [
+				"9781840029444",
+				"9781849432214"
+			]
+		},
+		{
+			"label": "What Color Is Your Parachute? 2021: Your Guide to a Lifetime of Meaningful Work and Career Success",
+			"isbns": [
+				"9781984857866",
+				"9781984857880"
+			]
+		},
+		{
+			"label": "Nursing Home Administration",
+			"isbns": [
+				"9780826128546",
+				"9780826128553"
+			]
+		},
+		{
+			"label": "Contemporary Issues in Healthcare Law and Ethics",
+			"isbns": [
+				"9781567936377",
+				"9781567936384"
+			]
+		},
+		{
+			"label": "Training Design Basics, 2nd Edition",
+			"isbns": [
+				"9781607285007"
+			]
+		},
+		{
+			"label": "Play Therapy: The Art of the Relationship",
+			"isbns": [
+				"9780415886819",
+				"9781136854484"
+			]
+		},
+		{
+			"label": "Clinical Pathology for Athletic Trainers: Recognizing Systemic Disease, Third Edition",
+			"isbns": [
+				"9781617110917",
+				"9781630919023"
+			]
+		},
+		{
+			"label": "Healthcare Operations Management, Second Edition",
+			"isbns": [
+				"9781567934441",
+				"9781567935455"
+			]
+		},
+		{
+			"label": "Accounting Fundamentals for Health Care Management",
+			"isbns": [
+				"9781449645281",
+				"9781449645298"
+			]
+		},
+		{
+			"label": "Drawing Ideas: A Hand-Drawn Approach for Better Design",
+			"isbns": [
+				"9780385344623",
+				"9780385344524"
+			]
+		},
+		{
+			"label": "Davis's Drug Guide for Nursing",
+			"isbns": [
+				"9780803657052",
+				"9780803657793"
+			]
+		},
+		{
+			"label": "Marketing Scales Handbook: Multi-Item Measures for Consumer Insight Research, Volume 9",
+			"isbns": [
+				"9780692845936"
+			]
+		},
+		{
+			"label": "Evidence-Based Strategies for Effective Classroom Management",
+			"isbns": [
+				"9781462531752",
+				"9781462531776"
+			]
+		},
+		{
+			"label": "Literature for Young Adults: Books (and More) for Contemporary Readers",
+			"isbns": [
+				"9781138478688",
+				"9781351067157"
+			]
+		},
+		{
+			"label": "Research Methods in Crime and Justice",
+			"isbns": [
+				"9781138124226",
+				"9781317300670"
+			]
+		},
+		{
+			"label": "Why Race and Culture Matter in Schools: Closing the Achievement Gap in America's Classrooms",
+			"isbns": [
+				"9780807750711",
+				"9780807772195"
+			]
+		}
 	]
 }
