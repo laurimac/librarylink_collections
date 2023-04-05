@@ -1,0 +1,277 @@
+{
+	"label": "Neurodiversity Awareness",
+	"description": "This collection contains eBooks on topics related to ADHD, Autism, Dyslexia, and Neurodiversity. Content is aimed at an adult public library audience,as well as academic audiences.Libraries can purchase this collection using EBSCOhost Collection Manager.",
+	"list": [{
+			"label": "What to Say Next : Successful Communication in Work, Life, and Love—with Autism Spectrum Disorder",
+			"isbns": [
+				"9781982138202",
+				"9781982138219"
+			]
+		},
+		{
+			"label": "Living on the Spectrum : Autism and Youth in Community",
+			"isbns": [
+				"9781479864355",
+				"9781479873005"
+
+			]
+		},
+		{
+			"label": "ADHD 2.0 : New Science and Essential Strategies for Thriving with Distraction--from Childhood Through Adulthood",
+			"isbns": [
+				"9780399178733",
+				"9780399178757"
+			]
+		},
+		{
+			"label": "We're Not Broken : Changing the Autism Conversation",
+			"isbns": [
+				"9781328587848",
+				"9781328587879"
+			]
+		},
+		{
+			"label": "How to Be Human : An Autistic Man's Guide to Life",
+			"isbns": [
+				"9781501180507",
+				"9781501180514"
+			]
+		}, {
+			"label": "Sincerely, Your Autistic Child : What People on the Autism Spectrum Wish Their Parents Knew About Growing Up, Acceptance, and Identity",
+			"isbns": [
+				"9780807025680",
+				"9780807025697"
+			]
+		}, {
+
+			"label": "Understanding ADHD : A Guide to Symptoms, Management and Treatment",
+			"isbns": [
+				"9780367193232",
+				"9780429201738"
+			]
+		}, {
+			"label": "Unraveling : Remaking Personhood in a Neurodiverse Age",
+			"isbns": [
+				"9781517909147",
+				"9781452963310"
+			]
+		}, {
+			"label": "The Autistic Trans Guide to Life",
+			"isbns": [
+				"9781787753914",
+				"9781787753921"
+			]
+		}, {
+			"label": "Coaching Parents of Young Children with Autism : Promoting Connection, Communication, and Learning",
+			"isbns": [
+				"9781462545728",
+				"9781462545766"
+			]
+		}, {
+			"label": "The Subtle Spectrum: An Honest Account of Autistic Discovery, Relationships and Identity",
+			"isbns": [
+				"9780367709228",
+				"9781000390773"
+			]
+		}, {
+			"label": "Autism Working : A Seven-Stage Plan to Thriving at Work",
+			"isbns": [
+				"9781787759831",
+				"9781787759848"
+			]
+		}, {
+			"label": "Neurodiversity : From Phenomenology to Neurobiology and Enhancing Technologies",
+			"isbns": [
+				"9781615373024",
+				"9781615373956"
+			]
+		}, {
+			"label": "Letters To My Weird Sisters : On Autism and Feminism",
+			"isbns": [
+				"9781838950057",
+				"9781838950064"
+			]
+		}, {
+			"label": "Late Bloomer : How an Autism Diagnosis Changed My Life",
+			"isbns": [
+				"9781743796009",
+				"9781743587560"
+			]
+		}, {
+			"label": "Centered : Autism, Basketball, and One Athlete's Dreams",
+			"isbns": [
+				"9781684351534",
+				"9781684351527"
+			]
+		}, {
+			"label": "Unmasking Autism : Discovering the New Faces of Neurodiversity",
+			"isbns": [
+				"9780593235232",
+				"9780593235249"
+			]
+		}, {
+			"label": "Autism and Masking : How and Why People Do It, and the Impact It Can Have",
+			"isbns": [
+				"9781787755796",
+				"9781787755802"
+			]
+		}, {
+			"label": "Designing Mind-Friendly Environments : Architecture and Design for Everyone",
+			"isbns": [
+				"9781785921421",
+				"9781784504144"
+			]
+		}, {
+			"label": "Taking Charge of Adult ADHD : Proven Strategies to Succeed at Work, at Home, and in Relationships",
+			"isbns": [
+				"9781462547524",
+				"9781462547548"
+			]
+		}, {
+			"label": "A Practical Guide to Autism : What Every Parent, Family Member, and Teacher Needs to Know",
+			"isbns": [
+				"9781119685678",
+				"9781119685791"
+			]
+		}, {
+			"label": "College Success for Students With Learning Disabilities : A Planning and Advocacy Guide for Teens With LD, ADHD, ASD, and More",
+			"isbns": [
+				"9781646320455",
+				"9781000491180"
+			]
+		}, {
+			"label": "A Thousand Ways to Pay Attention : Discovering the Beauty of My ADHD Mind—A Memoir",
+			"isbns": [
+				"9781615198801",
+				"9781615198818"
+			]
+		}, {
+			"label": "The Autism and Neurodiversity Self Advocacy Handbook : Developing the Skills to Determine Your Own Future",
+			"isbns": [
+				"9781787755758",
+				"9781787755765"
+			]
+		}, {
+			"label": "The #ActuallyAutistic Guide to Advocacy : Step-by-Step Advice on How to Ally and Speak Up with Autistic People and the Autism Community",
+			"isbns": [
+				"9781787759732",
+				"9781787759749"
+			]
+		}, {
+			"label": "The Adult Side of Dyslexia",
+			"isbns": [
+				"9781787754751",
+				"9781787754768"
+			]
+		}, {
+			"label": "Wired Differently – 30 Neurodivergent People You Should Know",
+			"isbns": [
+				"9781787758421",
+				"9781787758438"
+			]
+		}, {
+			"label": "Autism in Film and Television : On the Island",
+			"isbns": [
+				"9781477324912",
+				"9781477324936"
+			]
+		}, {
+			"label": "ADHD: The Facts",
+			"isbns": [
+				"9780198867371",
+				"9780192637284"
+			]
+		}, {
+			"label": "Still Distracted After All These Years : Help and Support for Older Adults with ADHD",
+			"isbns": [
+				"9780306828911",
+				"9780306828935"
+			]
+		}, {
+			"label": "Self-Care for People with ADHD : 100+ Ways to Recharge, De-Stress, and Prioritize You!",
+			"isbns": [
+				"9781507219430",
+				"9781507219447"
+			]
+		}, {
+			"label": "Fearlessly Different : An Autistic Actor's Journey to Broadway's Biggest Stage",
+			"isbns": [
+				"9781538163122",
+				"9781538163139"
+			]
+		}, {
+			"label": "I Have Been Buried Under Years of Dust : A Memoir of Autism and Hope",
+			"isbns": [
+				"9780062984340",
+				"9780062984364"
+			]
+		}, {
+			"label": "Straight Talk About ADHD in Girls : How to Help Your Daughter Thrive",
+			"isbns": [
+				"9781462549696",
+				"9781462549702"
+			]
+		}, {
+			"label": "Sensory: Life on the Spectrum : An Autistic Comics Anthology",
+			"isbns": [
+				"9781524874766",
+				"9781524881757"
+			]
+		}, {
+			"label": "Dyslexia and Me : How to Survive and Thrive If You’re Neurodivergent",
+			"isbns": [
+				"9781787759442",
+				"9781787759459"
+			]
+		}, {
+			"label": "Supporting Autistic Children at Home : A Practical Guide for Parents and Caregivers",
+			"isbns": [
+				"9780367641184",
+				"9781000689037"
+			]
+		}, {
+			"label": "Succeeding With Adult ADHD : Daily Strategies to Help You Achieve Your Goals and Manage Your Life",
+			"isbns": [
+				"9781433838743",
+				"9781433838750"
+			]
+		}, {
+			"label": "The Pocket Guide to Neurodiversity",
+			"isbns": [
+				"9781839970146",
+				"9781839970153"
+			]
+		}, {
+			"label": "Academic Writing and Dyslexia : A Visual Guide to Writing at University",
+			"isbns": [
+				"9781032040066",
+				"9781000624212"
+			]
+		}, {
+			"label": "Black, Brilliant and Dyslexic : Neurodivergent Heroes Tell Their Stories",
+			"isbns": [
+				"9781839971334",
+				"9781839971341"
+			]
+		}, {
+			"label": "Dyslexia Advocate! Second Edition : How to Advocate for a Child with Dyslexia Within the Public Education System",
+			"isbns": [
+				"9781839971709",
+				"9781839971716"
+			]
+		}, {
+			"label": "Autism Spectrum Disorders Sourcebook, Fifth Edition",
+			"isbns": [
+				"9780780820067",
+				"9780780820074"
+			]
+		}, {
+			"label": "Dyslexia : A History",
+			"isbns": [
+				"9780228014355",
+				"9780228015390"
+			]
+		}
+
+	]
+}
