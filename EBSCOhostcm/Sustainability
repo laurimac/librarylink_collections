@@ -1,0 +1,429 @@
+{
+	"label": "Sustainability",
+	"description": "This collection contains eBooks that focus on sustainable goals and solutions as they relate to business & economics, sociology, technology, and the environment. Topics include City planning, Climatic changes, Environmental responsibility, Green technology, Renewable energy sources, urban ecology. ",
+	"list": [{
+			"label": "Chemistry and Chemical Engineering for Sustainable Development : Best Practices and Research Directions",
+			"isbns": [
+				"9781771888707",
+				"9781000727531"
+			]
+		},
+		{
+			"label": "Sustainable Food Production : An Earth Institute Sustainability Primer",
+			"isbns": [
+				"9780231548441"
+
+			]
+		},
+		{
+			"label": "Developing Ecological Consciousness : Becoming Fully Human",
+
+			"isbns": [
+				"9781538116685",
+				"9781538116708"
+			]
+		},
+		{
+			"label": "What Really Counts : The Case for a Sustainable and Equitable Economy",
+			"isbns": [
+				"9780231549189"
+			]
+		},
+		{
+			"label": "The Sustainable City",
+			"isbns": [
+				"9780231551700"
+			]
+		},
+		{
+			"label": "Sustainable Manufacturing and Design",
+			"isbns": [
+				"9780128221242",
+				"9780128221617"
+			]
+		},
+		{
+			"label": "Under a White Sky : The Nature of the Future",
+			"isbns": [
+				"9780593136270",
+				"9780593136294"
+			]
+		},
+		{
+			"label": "Ecopedagogy : Critical Environmental Teaching for Planetary Justice and Global Sustainable Development",
+			"isbns": [
+				"9781350083790",
+				"9781350083806"
+			]
+		},
+		{
+			"label": " Learning, Environment and Sustainable Development: A History of Ideas",
+			"isbns": [
+				"9780367221928",
+				"9781000207965"
+			]
+		},
+		{
+			"label": "Clan and Tribal Perspectives on Social, Economic and Environmental Sustainability : Indigenous Stories From Around the Globe",
+			"isbns": [
+				"9781789733662",
+				"9781789733655"
+			]
+		},
+		{
+			"label": "Electric Mountains : Climate, Power, and Justice in an Energy Transition",
+			"isbns": [
+				"9781978820685",
+				"9781978820708"
+			]
+		},
+		{
+			"label": "The Routledge Handbook of Waste, Resources and the Circular Economy",
+			"isbns": [
+				"9780367364649",
+				"9781000259599"
+			]
+		},
+		{
+			"label": "Biophilic Urbanism : Designing Resilient Communities for the Future",
+			"isbns": [
+				"9780367473266",
+				"9781000297164"
+			]
+		},
+		{
+			"label": "Sustainability Principles and Practice",
+
+			"isbns": [
+				"9780367365196",
+				"9781000299977"
+			]
+		},
+		{
+			"label": "Sustainable Marketing : How to Drive Profits with Purpose",
+			"isbns": [
+				"9781472979131",
+				"9781472979124"
+			]
+		},
+		{
+			"label": "Process Intensification and Integration for Sustainable Design",
+			"isbns": [
+				"9783527345472",
+				"9783527818709"
+			]
+		},
+		{
+			"label": "Gray to Green Communities : A Call to Action on the Housing and Climate Crises",
+			"isbns": [
+				"9781642831283",
+				"9781642831290"
+			]
+		},
+		{
+			"label": "Sustainable Material Solutions for Solar Energy Technologies : Processing Techniques and Applications",
+			"isbns": [
+				"9780128215920",
+				"9780128215937"
+			]
+		},
+		{
+			"label": "Sustainable Energy Management : Planning, Implementation, Control, and Security",
+			"isbns": [
+				"9780128210864",
+				"9780128220658"
+			]
+		},
+		{
+			"label": "Emerging Governance of a Green Economy : Cases of European Implementation",
+			"isbns": [
+				"9781108490436",
+				"9781108800242"
+			]
+		},
+		{
+			"label": "Local Content and Sustainable Development in Global Energy Markets",
+			"isbns": [
+				"9781108495370",
+				"9781108852326"
+			]
+		},
+		{
+			"label": "Implementing City Sustainability : Overcoming Administrative Silos to Achieve Functional Collective Action",
+			"isbns": [
+				"9781439919200",
+				"9781439919224"
+			]
+		},
+		{
+			"label": "Sustainability : What Everyone Needs to Know®",
+			"isbns": [
+				"9780190883232",
+				"9780190883256"
+			]
+		},
+		{
+			"label": "Sustainability Beyond Technology : Philosophy, Critique, and Implications for Human Organization",
+			"isbns": [
+				"9780198864929",
+				"9780192634061"
+			]
+		},
+		{
+			"label": "The Economics and Business of Sustainability",
+			"isbns": [
+				"9780367773090",
+				"9781000440171"
+			]
+		},
+		{
+			"label": "Environmental Justice in the Anthropocene : From (Un)Just Presents to Just Futures",
+			"isbns": [
+				"9780367902889",
+				"9781000396584"
+			]
+		},
+		{
+			"label": "Sustainable Engineering for Life Tomorrow",
+			"isbns": [
+				"9781793625014",
+				"9781793625021"
+			]
+		},
+		{
+			"label": "Sustainable Planet: Issues and Solutions for Our Environment's Future [2 Volumes]",
+			"isbns": [
+				"9781440855702",
+				"9781440855719"
+			]
+		},
+		{
+			"label": "Circular Economy : Challenges and Opportunities for Ethical and Sustainable Business",
+			"isbns": [
+				"9780367418649",
+				"9780367816650"
+			]
+		},
+		{
+			"label": "Sustainability : A Key Idea for Business and Society",
+			"isbns": [
+				"9780367077013",
+				"9780429022173"
+			]
+		},
+		{
+			"label": "Nature-Based Solutions for More Sustainable Cities : A Framework Approach for Planning and Evaluation",
+			"isbns": [
+				"9781800436374",
+				"9781800436367"
+			]
+		},
+		{
+			"label": "Dreams of Disconnection : From the Autonomous House to Self-sufficient Territories",
+			"isbns": [
+				"9781526146892",
+				"9781526146885"
+			]
+		},
+		{
+			"label": "Ultrasocial : The Evolution of Human Nature and the Quest for a Sustainable Future",
+			"isbns": [
+				"9781108838269",
+				"9781108976350"
+			]
+		},
+		{
+			"label": "Global Im-Possibilities : Exploring the Paradoxes of Just Sustainabilities",
+			"isbns": [
+				"9781786999542",
+				"9781786999511"
+			]
+		},
+		{
+			"label": "Sustainable Infrastructure for Cities and Societies",
+			"isbns": [
+				"9780367340247",
+				"9780429323508"
+			]
+		},
+		{
+			"label": "Beyond Sustainability : A Thriving Environment, 2d Ed.",
+			"isbns": [
+				"9781476682365",
+				"9781476644295"
+			]
+		},
+		{
+			"label": "Cities in the Anthropocene : New Ecology and Urban Politics",
+			"isbns": [
+				"9780745341491",
+				"9781786807540"
+			]
+		},
+		{
+			"label": "Practical Sustainability : A Guide to a More Sustainable Life",
+			"isbns": [
+				"9783030737818",
+				"9783030737825"
+			]
+		},
+		{
+			"label": "Prosperity in the Fossil-Free Economy : Cooperatives and the Design of Sustainable Businesses",
+			"isbns": [
+				"9780300253993",
+				"9780300262919"
+			]
+		},
+		{
+			"label": "SDG12 - Sustainable Consumption and Production : A Revolutionary Challenge for the 21st Century",
+			"isbns": [
+				"9781789731026",
+				"9781789730999"
+			]
+		},
+		{
+			"label": "Building Something Better : Environmental Crises and the Promise of Community Change",
+			"isbns": [
+				"9781978823686",
+				"9781978823723"
+			]
+		},
+		{
+			"label": "Unsustainable : The Urgent Need to Transform Society and Reverse Climate Change",
+			"isbns": [
+				"9781529218022",
+				"9781529218046"
+			]
+		},
+		{
+			"label": "The Three Sustainabilities : Energy, Economy, Time",
+			"isbns": [
+				"9781517908188",
+				"9781452961972"
+			]
+		},
+		{
+			"label": "Breakthrough : The Promise of Frontier Technologies for Sustainable Development",
+			"isbns": [
+				"9780815739654",
+				"9780815739661"
+			]
+		},
+		{
+			"label": "Urban Ecology for Citizens and Planners",
+			"isbns": [
+				"9781683402527",
+				"9781683402794"
+			]
+		},
+		{
+			"label": "Artificial Intelligence and Internet of Things for Renewable Energy Systems",
+			"isbns": [
+				"9783110713794",
+				"9783110714043"
+			]
+		},
+		{
+			"label": "The Sustainable Business Handbook : A Guide to Becoming More Innovative, Resilient and Successful",
+			"isbns": [
+				"9781398604049",
+				"9781398604056"
+			]
+		},
+		{
+			"label": "Science for a Green New Deal : Connecting Climate, Economics, and Social Justice",
+			"isbns": [
+				"9781421444345",
+				"9781421444352"
+			]
+		},
+		{
+			"label": "Ethics in Action for Sustainable Development",
+			"isbns": [
+				"9780231554756"
+			]
+		},
+		{
+			"label": "The Sustainable Manifesto : A Commitment to Individual, Economical, and Political Change",
+			"isbns": [
+				"9781032232492",
+				"9781000581539"
+			]
+		},
+		{
+			"label": "Age of Auto Electric : Environment, Energy, and the Quest for the Sustainable Car",
+			"isbns": [
+				"9780262544573",
+				"9780262372039"
+			]
+		},
+		{
+			"label": "Plastics and Sustainability : Practical Approaches",
+			"isbns": [
+				"9780128244890",
+				"9780323852869"
+			]
+		},
+		{
+			"label": "Making Healthy Places, Second Edition : Designing and Building for Well-Being, Equity, and Sustainability",
+			"isbns": [
+				"9781642831573",
+				"9781642831580"
+			]
+		},
+		{
+			"label": "Climatenomics : Washington, Wall Street and the Economic Battle to Save Our Planet",
+			"isbns": [
+				"9781538168882",
+				"9781538168899"
+			]
+		},
+		{
+			"label": "Polar Shift: The Arctic Sustained",
+			"isbns": [
+				"9781839983283",
+				"9781839983306"
+			]
+		},
+		{
+			"label": "The City Is an Ecosystem : Sustainable Education, Policy, and Practice",
+
+			"isbns": [
+				"9781032108643",
+				"9781000622690"
+			]
+		},
+		{
+			"label": "Sustainable Places : Addressing Social Inequality and Environmental Crisis",
+
+			"isbns": [
+				"9781032117911",
+				"9781000644517"
+			]
+		},
+		{
+			"label": "Environmental Sociology : Risk and Sustainability in Modernity",
+
+			"isbns": [
+				"9781666911503",
+				"9781666911510"
+			]
+		},
+		{
+			"label": "Green Chemistry : And UN Sustainability Development Goals",
+
+			"isbns": [
+				"9783110723861",
+				"9783110723960"
+			]
+		},
+		{
+			"label": "Redefining Development: The Extraordinary Genesis of the Sustainable Development Goals",
+
+			"isbns": [
+				"9781955055253",
+				"9781955055475"
+			]
+		}
+	]
+}
