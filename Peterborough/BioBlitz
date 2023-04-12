@@ -1,7 +1,7 @@
 {
 	"label": "BioBlitz Books at Ptbo Library",
 	"description": "A list of resources to help identify local species in Peterborough",
-	"ISBNS": [
+	"isbns": [
 		"9781647552237",
 		"9781638190066",
 		"9781638190059",
