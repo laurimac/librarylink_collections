@@ -2,19 +2,53 @@
 	"label": "The EU Budget",
 	"description": "A selection of titles on the EU Budget available from the European Parliament Library.",
 	"list": [{
-		"isbns": [
-			"9783658363383",
-			"9781032118901",
-			"9781000578300",
-			"9783031047473",
-			"9783031047459",
-			"9781003168331",
-			"9781108830096",
-			"9781108905886",
-			"9783848756667",
-			"9783845298115",
-			"9781788971911",
-			"9781788971928"
-		]
-	}]
+			"label": "Der Haushalt der Europäischen Union und die deutsche Europapolitik",
+			"isbns": [
+				"9783658363383",
+				"9783658363390"
+			]
+		},
+		{
+			"label": "Public Financial Management in the European Union : Public Finance and Global Crises",
+			"isbns": [
+				"9781032118901",
+				"9781000578300"
+			]
+		},
+		{
+			"label": "Public Sector Accounting, Financial Accountability and Viability in Times of Crisis",
+			"isbns": [
+				"9783031047473",
+				"9783031047459"
+			]
+		},
+		{
+			"label": "Accountability and the Law",
+			"isbns": [
+				"9781003168331"
+			]
+		},
+		{
+			"label": "The Constitutional Boundaries of European Fiscal Federalism",
+			"isbns": [
+				"9781108830096",
+				"9781108905886"
+			]
+		},
+		{
+			"label": "The European Union Budget in Times of Crises",
+			"isbns": [
+				"9783845298115",
+				"9783848756667"
+
+			]
+		},
+		{
+			"label": "Features and Challenges of the EU Budget",
+			"isbns": [
+				"9781788971911",
+				"9781788971928"
+			]
+		}
+	]
 }
