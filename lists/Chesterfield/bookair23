@@ -1,0 +1,26 @@
+{
+	"label": "Bon Air Bookies",
+	"description": "Bon Air Bookies",
+	"list": [
+		{"label":"September | Harlem Shuffle",
+		"isbns":["9780385545136"]},
+		{"label":"October | The Personal Librarian",
+		"isbns":["9780593101537"]},
+		{"label":"November | There There",
+		"isbns":["9780525520375"]},
+		{"label":"December | The Thursday Murder Club",
+		"isbns":["9781984880963"]}
+		{"label":"January - Yellow Wife",
+	"isbns":["9781982149109"],}
+	{"label":"February - The Death of Mrs. Westaway",
+	"isbns":["9781501156212"],}
+	{"label":"March - Educated: A Memoir",
+	"isbns":["9780399590504"],}
+	{"label":"April - Kindred",
+	"isbns":["9780807006924"],}
+	{"label":"May - Oh William!,
+	"isbns":["9780812989434"],}
+	{"label":"June - Bloomsbury Girls",
+	"isbns":["9781250276698"],}
+]
+}
