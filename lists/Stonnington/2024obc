@@ -1,0 +1,43 @@
+{
+    "label": "Stonnington 2024 Bookclub",
+    "description": "The 2024 Online Book Club season will read the following books.  ",
+    "list": [
+        {
+            "label": "Songbirds",
+            "isbns": [
+                "9781786580825",
+                "9781867554622"
+            ]
+        },
+        {
+            "label": "Klara and the Sun",
+            "isbns": [
+                "9780593396568",
+                "9780571364886",
+                "9781004035557"
+            ]
+        },
+        {
+            "label": "The Last Migration",
+            "isbns": [
+                "9781760893316",
+                "9781760899691"
+            ]
+        },
+        {
+            "label": "The Bluffs",
+            "isbns": [
+                "9780369354426",
+                "9781760895679"
+            ]
+        },
+        {
+            "label": "Horse",
+            "isbns": [
+                "9780733639678",
+                "9780593556481",
+                "9780369385956"
+            ]
+        }
+    ]
+}
