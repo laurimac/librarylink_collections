@@ -1,0 +1,35 @@
+{
+	"label": "Books on sustainability and biodiversity",
+	"description": "A selection of titles on sustainability and biodiversity from the BIS-Oldenburg.",
+	"list": [{
+			"label": "Die Erde, der Mensch und das Soziale",
+			"isbns": [
+				"9783837640427"
+			]
+		},
+		{
+			"label": "Green Pulp and Paper Industry - Biotechnology for Ecofriendly Processing",
+			"isbns": [
+				"9783110591842"
+			]
+		},
+		{
+			"label": "Biodiversity and Health in the Face of Climate Change",
+			"isbns": [
+				"9783030023171"
+			]
+		},
+		{
+			"label": "The Explosion of Life Forms",
+			"isbns": [
+				"9781789450057"
+			]
+		},
+		{
+			"label": "Handbook of Market Creation for Biodiversity",
+			"isbns": [
+				"9789264018624"
+			]
+		}
+	]
+}
