@@ -1,0 +1,42 @@
+{
+    "label": "2024 CBCA Award List - Early Childhood ",
+    "description": "Description - Ages 0-6 years",
+    "list": [
+        {
+            "label": "BEAR & DUCK ARE FRIENDS",
+            "isbns": [
+                "9781761210327"
+            ]
+        },
+        {
+            "label": "CAN YOU TEACH A FISH TO CLIMB A TREE?",
+            "isbns": [
+                "9781760508661"
+            ]
+        },
+        {
+            "label": "GRACE AND MR MILLIGAN",
+            "isbns": [
+                "9789815009811"
+            ]
+        },
+        {
+            "label": "GYMNASTICA FANTASTICA! ",
+            "isbns": [
+                "9780734421852"
+            ]
+        },
+        {
+            "label": "ONE LITTLE DUCK",
+            "isbns": [
+                "9781460761649"
+            ]
+        },
+        {
+            "label": "THE CONCRETE GARDEN",
+            "isbns": [
+                "9781529512649"
+            ]
+        }
+    ]
+}
