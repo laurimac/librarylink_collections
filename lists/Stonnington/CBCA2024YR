@@ -1,0 +1,42 @@
+{
+    "label": "2024 CBCA Award List",
+    "description": "Ages 7-12 years.",
+    "list": [
+        {
+            "label": "Being Jimmy Baxter",
+            "isbns": [
+                "9781760148515"
+            ]
+        },
+        {
+            "label": "Huda was Here",
+            "isbns": [
+                "9781761068430"
+            ]
+        },
+        {
+            "label": "REAL PIGEONS FLAP OUT",
+            "isbns": [
+                "9781761211546"
+            ]
+        },
+        {
+            "label": "SCAR TOWN",
+            "isbns": [
+                "9780143791812"
+            ]
+        },
+        {
+            "label": "SCOUT AND THE RESCUE DOGS",
+            "isbns": [
+                "9781760655860"
+            ]
+        },
+        {
+            "label": "THE SIDEWAYS ORBIT OF EVIE HART",
+            "isbns": [
+                "9781460762653"
+            ]
+        }
+    ]
+}
