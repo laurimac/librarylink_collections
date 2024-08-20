@@ -1,0 +1,42 @@
+{
+    "label": "CBCA 2024 Picture Book of the Year",
+    "description": "Description - ages 0 - 18 years ",
+    "list": [
+        {
+            "label": "BOWERBIRD BLUES ",
+            "isbns": [
+                "9781760269609"
+            ]
+        },
+        {
+            "label": "EVERY NIGHT AT MIDNIGHT",
+            "isbns": [
+                "9781922992383"
+            ]
+        },
+        {
+            "label": "IF I WAS A HORSE ",
+            "isbns": [
+                "9780734422712"
+            ]
+        },
+        {
+            "label": "PAPER-FLOWER GIRL",
+            "isbns": [
+                "9780645352399"
+            ]
+        },
+        {
+            "label": "THAT BIRD HAS ARMS",
+            "isbns": [
+                "9781761210310"
+            ]
+        },
+        {
+            "label": "TIMELESS",
+            "isbns": [
+                "9781760992323"
+            ]
+        }
+    ]
+}
