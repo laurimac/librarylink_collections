@@ -1,1 +1,94 @@
-
+{
+    "label": "Civic Arkansas Democracy Reading Challenge",
+    "description": "Summer 2024 - Reading Challenge ",
+    "list": [
+        {
+            "label": "Unfinished Love Story, A Personal History of the 1960s",
+            "isbns": [
+                "9781982108687",
+                "9781982108663",
+                "9781420515312"
+            ]
+        },
+        {
+            "label": "The Kingdom, the Power, and the Glory",
+            "isbns": [
+                "9798836779665"
+            ]
+        },
+        {
+            "label": "The American Spirit, Who we are and what we stand for",
+            "isbns": [
+                "9781501174216",
+                "9781501174193",
+                "9781432841959",
+                "9781501174209"
+            ]
+        },
+        {
+            "label": "How Decocracies Die",
+            "isbns": [
+                "9781524762933",
+                "9781524762940",
+                "9780241381359",
+                "9781984825773",
+                "9781524762957",
+                "9780241336496"
+            ]
+        },
+        {
+            "label": "Talking to Strangers",
+            "isbns": [
+                "9780316535625",
+                "9780316299220",
+                "9780316478526",
+                "9780316535571",
+                "9798693575370"
+            ]
+        },
+        {
+            "label": "The Bill of Obligations",
+            "isbns": [
+                "9780525560661",
+                "9780525560678",
+                "9780525560654"
+            ]
+        },
+        {
+            "label": "The Upswing",
+            "isbns": [
+                "9781982129149",
+                "9781982129156",
+                "9781800750371",
+                "9781800750029",
+                "9781982129163"
+            ]
+        },
+        {
+            "label": "The Crucible",
+            "isbns": [
+                "9781350245754",
+                "9781350245761",
+                "9780143129479",
+                "9783425049601"
+            ]
+        },
+        {
+            "label": "The Art of Gathering, How We Meet and Why it Matters",
+            "isbns": [
+                "9781594634932",
+                "9781594634925",
+                "9780525537373",
+                "9780241973844"
+            ]
+        },
+        {
+            "label": "The Book of Beautiful Questions",
+            "isbns": [
+                "9781632869586",
+                "9781632869579",
+                "9781632869562"
+            ]
+        }
+    ]
+}
