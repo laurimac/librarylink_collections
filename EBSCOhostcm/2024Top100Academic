@@ -1,0 +1,698 @@
+[
+  {
+    "label": "Teaching with AI",
+    "isbns": [
+      "9781421449227",
+      "9781421449234"
+    ]
+  },
+  {
+    "label": "The Anxious Generation",
+    "isbns": [
+      "9780593655030",
+      "9780593655047"
+    ]
+  },
+  {
+    "label": "AI and the Future of Education",
+    "isbns": [
+      "9781394219247",
+      "9781394219254"
+    ]
+  },
+  {
+    "label": "Who Wrote This?",
+    "isbns": [
+      "9781503633223",
+      "9781503637900"
+    ]
+  },
+  {
+    "label": "Thinking with Type",
+    "isbns": [
+      "9781797226828",
+      "9781797229621"
+    ]
+  },
+  {
+    "label": "Cops on Campus",
+    "isbns": [
+      "9780295752204",
+      "9780295752228"
+    ]
+  },
+  {
+    "label": "An Introduction to Developmental Psychology",
+    "isbns": [
+      "9781118767207",
+      "9781119025085"
+    ]
+  },
+  {
+    "label": "Cognitive Processing Therapy for PTSD",
+    "isbns": [
+      "9781462554300",
+      "9781462554294"
+    ]
+  },
+  {
+    "label": "Poverty, by America",
+    "isbns": [
+      "9780593239919",
+      "9780593239926"
+    ]
+  },
+  {
+    "label": "We're All Neurodiverse",
+    "isbns": [
+      "9781839975783",
+      "9781839975790"
+    ]
+  },
+  {
+    "label": "Orientalism",
+    "isbns": [
+      "9780394740676",
+      "9780804153867"
+    ]
+  },
+  {
+    "label": "24/7 Politics",
+    "isbns": [
+      "9780691246666",
+      "9780691246680"
+    ]
+  },
+  {
+    "label": "Empathic Design",
+    "isbns": [
+      "9781642832051",
+      "9781642832068"
+    ]
+  },
+  {
+    "label": "The Rediscovery of America",
+    "isbns": [
+      "9780300244052",
+      "9780300271249"
+    ]
+  },
+  {
+    "label": "Invisible No More",
+    "isbns": [
+      "9781642833119",
+      "9781642833126"
+    ]
+  },
+  {
+    "label": "Unmasking AI",
+    "isbns": [
+      "9780593241837",
+      "9780593241851"
+    ]
+  },
+  {
+    "label": "Inclusive Transportation",
+    "isbns": [
+      "9781642832099",
+      "9781642832105"
+    ]
+  },
+  {
+    "label": "Viruses",
+    "isbns": [
+      "9780691237596",
+      "9780691240800"
+    ]
+  },
+  {
+    "label": "Cerulean Blue",
+    "isbns": [
+      "9780889229525",
+      "9780889229532"
+    ]
+  },
+  {
+    "label": "Brave New Words",
+    "isbns": [
+      "9780593656952",
+      "9780593656969"
+    ]
+  },
+  {
+    "label": "Algorithms for the People",
+    "isbns": [
+      "9780691244006",
+      "9780691244914"
+    ]
+  },
+  {
+    "label": "The Body Keeps the Score",
+    "isbns": [
+      "9780143127741",
+      "9781101608302"
+    ]
+  },
+  {
+    "label": "Real World Research",
+    "isbns": [
+      "9781118745236",
+      "9781119083412"
+    ]
+  },
+  {
+    "label": "The Coming Wave",
+    "isbns": [
+      "9780593593950",
+      "9780593593967"
+    ]
+  },
+  {
+    "label": "Political Rumors",
+    "isbns": [
+      "9780691158389",
+      "9780691247571"
+    ]
+  },
+  {
+    "label": "The Immortal Life of Henrietta Lacks",
+    "isbns": [
+      "9781400052189",
+      "9780307589385"
+    ]
+  },
+  {
+    "label": "Queer Data Studies",
+    "isbns": [
+      "9780295751962",
+      "9780295751986"
+    ]
+  },
+  {
+    "label": "The Private Is Political",
+    "isbns": [
+      "9780300229622",
+      "9780300271652"
+    ]
+  },
+  {
+    "label": "Wrong Is Not My Name",
+    "isbns": [
+      "9781558613812",
+      "9781558613027"
+    ]
+  },
+  {
+    "label": "We Want to Do More Than Survive",
+    "isbns": [
+      "9780807069158",
+      "9780807069165"
+    ]
+  },
+  {
+    "label": "Library 2035",
+    "isbns": [
+      "9781538180396",
+      "9781538180419"
+    ]
+  },
+  {
+    "label": "Humanity's Moment",
+    "isbns": [
+      "9781642832846",
+      "9781642832853"
+    ]
+  },
+  {
+    "label": "An Indigenous Peoples' History of the United States",
+    "isbns": [
+      "9780807000403",
+      "9780807000410"
+    ]
+  },
+  {
+    "label": "Universal Design for Learning in Academic Libraries: Theory Into Practice",
+    "isbns": [
+      "9798892555494",
+      "9798892555487"
+    ]
+  },
+  {
+    "label": "Language City",
+    "isbns": [
+      "9780802162472"
+    ]
+  },
+  {
+    "label": "Over the Seawall",
+    "isbns": [
+      "9781642832563",
+      "9781642832570"
+    ]
+  },
+  {
+    "label": "Unmasking Autism",
+    "isbns": [
+      "9780593235232",
+      "9780593235249"
+    ]
+  },
+  {
+    "label": "The Secret Life of Data",
+    "isbns": [
+      "9780262048811",
+      "9780262377812"
+    ]
+  },
+  {
+    "label": "Legacy",
+    "isbns": [
+      "9780593491287",
+      "9780593491294"
+    ]
+  },
+  {
+    "label": "Cognitive-Behavioral Strategies in Crisis Intervention",
+    "isbns": [
+      "9781462552610",
+      "9781462552634"
+    ]
+  },
+  {
+    "label": "Spectrometric Identification of Organic Compounds",
+    "isbns": [
+      "9780470616376",
+      "9781118916599"
+    ]
+  },
+  {
+    "label": "Purified",
+    "isbns": [
+      "9781642832815",
+      "9781642832822"
+    ]
+  },
+  {
+    "label": "The Influencer Industry",
+    "isbns": [
+      "9780691231020",
+      "9780691234076"
+    ]
+  },
+  {
+    "label": "Environmentalism From Below",
+    "isbns": [
+      "9798888900390"
+    ]
+  },
+  {
+    "label": "The Transgender Encyclopedia",
+    "isbns": [
+      "9781538157251",
+      "9781538157268"
+    ]
+  },
+  {
+    "label": "What Works in Community News",
+    "isbns": [
+      "9780807009949",
+      "9780807010198"
+    ]
+  },
+  {
+    "label": "Beyond Shareholder Primacy",
+    "isbns": [
+      "9781503636217",
+      "9781503638747"
+    ]
+  },
+  {
+    "label": "The Pocket Guide to Neurodiversity",
+    "isbns": [
+      "9781839970146",
+      "9781839970153"
+    ]
+  },
+  {
+    "label": "Toxic Dynamics: Disrupting, Dismantling, and Transforming Academic Library Culture",
+    "isbns": [
+      "9798892555517",
+      "9798892555500"
+    ]
+  },
+  {
+    "label": "At Every Depth",
+    "isbns": [
+      "9780231553254"
+    ]
+  },
+  {
+    "label": "Collisions",
+    "isbns": [
+      "9780197751794",
+      "9780197751800"
+    ]
+  },
+  {
+    "label": "Women and Girls on the Autism Spectrum, Second Edition",
+    "isbns": [
+      "9781805010692",
+      "9781805010708"
+    ]
+  },
+  {
+    "label": "LatinoLand",
+    "isbns": [
+      "9781982184896",
+      "9781982184919"
+    ]
+  },
+  {
+    "label": "Decolonizing Palestine: the Land, the People, the Bible",
+    "isbns": [
+      "9781626985490",
+      "9798888660072"
+    ]
+  },
+  {
+    "label": "Palestine 1936",
+    "isbns": [
+      "9781538148808",
+      "9781538148815"
+    ]
+  },
+  {
+    "label": "Reference and Information Services",
+    "isbns": [
+      "9780838937334",
+      "9780838936450"
+    ]
+  },
+  {
+    "label": "What a Bee Knows",
+    "isbns": [
+      "9781642831245",
+      "9781642831252"
+    ]
+  },
+  {
+    "label": "Where Research Begins",
+    "isbns": [
+      "9780226801117",
+      "9780226817354"
+    ]
+  },
+  {
+    "label": "Invisible Friends",
+    "isbns": [
+      "9781784274337",
+      "9781784274344"
+    ]
+  },
+  {
+    "label": "The Burden of Sports",
+    "isbns": [
+      "9781538175538",
+      "9781538175545"
+    ]
+  },
+  {
+    "label": "Being Heumann",
+    "isbns": [
+      "9780807019290",
+      "9780807019382"
+    ]
+  },
+  {
+    "label": "As If Human",
+    "isbns": [
+      "9780300268294",
+      "9780300277692"
+    ]
+  },
+  {
+    "label": "\u201cWhatever It Is, I\u2019m Against It\u201d",
+    "isbns": [
+      "9781682538289",
+      "9781682538296"
+    ]
+  },
+  {
+    "label": "How Learning Works",
+    "isbns": [
+      "9781119861690",
+      "9781119860143"
+    ]
+  },
+  {
+    "label": "Beloved",
+    "isbns": [
+      "9781400033416",
+      "9780307388629"
+    ]
+  },
+  {
+    "label": "Filterworld",
+    "isbns": [
+      "9780385548281",
+      "9780385548298"
+    ]
+  },
+  {
+    "label": "Free Speech",
+    "isbns": [
+      "9780197699645",
+      "9780197699669"
+    ]
+  },
+  {
+    "label": "Invisible Heroes",
+    "isbns": [
+      "9780553383744",
+      "9780307418159"
+    ]
+  },
+  {
+    "label": "Our Hidden Conversations",
+    "isbns": [
+      "9781982154394",
+      "9781982154417"
+    ]
+  },
+  {
+    "label": "Technocolonialism",
+    "isbns": [
+      "9781509559022",
+      "9781509565290"
+    ]
+  },
+  {
+    "label": "Student Affairs Professional Preparation: A Scholar-Practitioner Guide to Contemporary Topics",
+    "isbns": [
+      "9781948213424",
+      "9781948213431"
+    ]
+  },
+  {
+    "label": "Basic Counseling Skills for Higher Education Professionals: Identifying and Addressing Mental Health Concerns",
+    "isbns": [
+      "9781948213387",
+      "9781948213394"
+    ]
+  },
+  {
+    "label": "Nexus",
+    "isbns": [
+      "9780593734223",
+      "9780593734247"
+    ]
+  },
+  {
+    "label": "Generative AI",
+    "isbns": [
+      "9781484293669",
+      "9781484293676"
+    ]
+  },
+  {
+    "label": "Mysteries of the Deep",
+    "isbns": [
+      "9780262048927",
+      "9780262378208"
+    ]
+  },
+  {
+    "label": "Why SNAP Works",
+    "isbns": [
+      "9780520392816",
+      "9780520392823"
+    ]
+  },
+  {
+    "label": "Demystifying Disability",
+    "isbns": [
+      "9781984858979",
+      "9781984858986"
+    ]
+  },
+  {
+    "label": "Human Trafficking",
+    "isbns": [
+      "9781440881206",
+      "9781440881213"
+    ]
+  },
+  {
+    "label": "Gaia's Web",
+    "isbns": [
+      "9780262048750",
+      "9780262377690"
+    ]
+  },
+  {
+    "label": "GIS Tutorial for ArcGIS Pro 3.1",
+    "isbns": [
+      "9781589487390",
+      "9781589487406"
+    ]
+  },
+  {
+    "label": "Cyborg",
+    "isbns": [
+      "9780262547550",
+      "9780262377775"
+    ]
+  },
+  {
+    "label": "The Literature Review",
+    "isbns": [
+      "9781071852903",
+      "9781071858967"
+    ]
+  },
+  {
+    "label": "The Weird Sister Collection",
+    "isbns": [
+      "9781558613003",
+      "9781558613010"
+    ]
+  },
+  {
+    "label": "The Art of Diplomacy",
+    "isbns": [
+      "9781538167991",
+      "9781538168004"
+    ]
+  },
+  {
+    "label": "Revelation",
+    "isbns": [
+      "9780814682098",
+      "9780814669761"
+    ]
+  },
+  {
+    "label": "Ideas to Postpone the End of the World",
+    "isbns": [
+      "9781487008512",
+      "9781487008529"
+    ]
+  },
+  {
+    "label": "An End to Inequality",
+    "isbns": [
+      "9781620978757"
+    ]
+  },
+  {
+    "label": "James",
+    "isbns": [
+      "9780385550369",
+      "9780385550376"
+    ]
+  },
+  {
+    "label": "The Rise of AI: Implications and Applications of Artificial Intelligence in Academic Libraries",
+    "isbns": [
+      "9780838939116",
+      "9780838937600"
+    ]
+  },
+  {
+    "label": "Before the Badge",
+    "isbns": [
+      "9781479813278",
+      "9781479813315"
+    ]
+  },
+  {
+    "label": "Not the End of the World",
+    "isbns": [
+      "9780316536752",
+      "9780316536950"
+    ]
+  },
+  {
+    "label": "Smaller Cities in a Shrinking World",
+    "isbns": [
+      "9781642832273",
+      "9781642832280"
+    ]
+  },
+  {
+    "label": "Through Iceboxes and Kennels",
+    "isbns": [
+      "9780197668160",
+      "9780197668177"
+    ]
+  },
+  {
+    "label": "Disability Visibility",
+    "isbns": [
+      "9781984899422",
+      "9781984899439"
+    ]
+  },
+  {
+    "label": "Seven Crashes",
+    "isbns": [
+      "9780300263398",
+      "9780300271492"
+    ]
+  },
+  {
+    "label": "Seven Steps to College Success",
+    "isbns": [
+      "9781475864441",
+      "9781475864458"
+    ]
+  },
+  {
+    "label": "Leading Anti-Bias Early Childhood Programs: A Guide to Change, for Change",
+    "isbns": [
+      "9780807768525",
+      "9780807781814"
+    ]
+  },
+  {
+    "label": "Witchcraft",
+    "isbns": [
+      "9781668002421",
+      "9781668002445"
+    ]
+  },
+  {
+    "label": "Understanding Children's Development",
+    "isbns": [
+      "9781118772980",
+      "9781119025023"
+    ]
+  },
+  {
+    "label": "The Blind Spot",
+    "isbns": [
+      "9780262048804",
+      "9780262377751"
+    ]
+  }
+]
