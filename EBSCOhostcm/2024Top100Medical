@@ -1,0 +1,34 @@
+{
+  "label": "2024 Top 100 EBSCO eBook titles for Medical Libraries",
+  "description": "2024 Top 100 EBSCO eBook titles purchased by medical libraries in 2024",
+  "list": [
+    {
+      "label": "Nursing",
+      "isbns": [
+        "9780999308868",
+        "9780999308882"
+      ]
+    },
+    {
+      "label": "Davis's Drug Guide for Nurses",
+      "isbns": [
+        "9781719650038",
+        "9781719652926"
+      ]
+    },
+    {
+      "label": "Motivational Interviewing",
+      "isbns": [
+        "9781462552795",
+        "9781462552825"
+      ]
+    },
+    {
+      "label": "Mental Health Nursing",
+      "isbns": [
+        "9781719645607",
+        "9781719648325"
+      ]
+    }
+  ]
+}
