@@ -1,0 +1,181 @@
+{
+    "label": "2024 Top 25 EBSCO eBooks for Business",
+    "description": "Top 25 EBSCO Ebooks purchased by libraries in 2024 in the subjects of Accounting, Finance, Marketing, and Management",
+    "list": [
+        {
+            "label": "Managing Innovation",
+            "isbns": [
+                "9781119713302",
+                "9781119719335"
+            ]
+        },
+        {
+            "label": "Marketing 6.0",
+            "isbns": [
+                "9781119835219",
+                "9781119835370"
+            ]
+        },
+        {
+            "label": "The Manager's Handbook",
+            "isbns": [
+                "9781394174072",
+                "9781394174089"
+            ]
+        },
+        {
+            "label": "The Leadership Challenge",
+            "isbns": [
+                "9781119736127",
+                "9781119736158"
+            ]
+        },
+        {
+            "label": "Designing Brand Identity",
+            "isbns": [
+                "9781119984818",
+                "9781119984825"
+            ]
+        },
+        {
+            "label": "AI for Finance",
+            "isbns": [
+                "9781032384436",
+                "9781000878523"
+            ]
+        },
+        {
+            "label": "Corporate Governance and Accountability",
+            "isbns": [
+                "9781119561200",
+                "9781119608578"
+            ]
+        },
+        {
+            "label": "Becoming a Master Manager",
+            "isbns": [
+                "9781119710967",
+                "9781119718444"
+            ]
+        },
+        {
+            "label": "Fintech Explained",
+            "isbns": [
+                "9781487544089",
+                "9781487544102"
+            ]
+        },
+        {
+            "label": "The Effective Manager",
+            "isbns": [
+                "9781394181612",
+                "9781394181438"
+            ]
+        },
+        {
+            "label": "Accounting",
+            "isbns": [
+                "9780730396475",
+                "9780730396499"
+            ]
+        },
+        {
+            "label": "Modern Portfolio Theory and Investment Analysis",
+            "isbns": [
+                "9781118469941",
+                "9781118805800"
+            ]
+        },
+        {
+            "label": "Management and Cost Accounting",
+            "isbns": [
+                "9781473791244",
+                "9781473792272"
+            ]
+        },
+        {
+            "label": "Management and Cost Accounting (Duplicate)",
+            "isbns": [
+                "9781473791244",
+                "9781473792272"
+            ]
+        },
+        {
+            "label": "Social Media Strategy",
+            "isbns": [
+                "9781538180112",
+                "9781538167106"
+            ]
+        },
+        {
+            "label": "Artificial Intelligence in Accounting",
+            "isbns": [
+                "9781032055626",
+                "9781000627329"
+            ]
+        },
+        {
+            "label": "Accounting (Alt. Edition)",
+            "isbns": [
+                "9780655708414",
+                "9780655708421"
+            ]
+        },
+        {
+            "label": "Financial Literacy for All",
+            "isbns": [
+                "9781394209026",
+                "9781394209033"
+            ]
+        },
+        {
+            "label": "Corporate Finance, Global Edition",
+            "isbns": [
+                "9781292446318",
+                "9781292446417"
+            ]
+        },
+        {
+            "label": "Basic Accounting for Non-accountants 4",
+            "isbns": [
+                "9780627038907",
+                "9780627038914"
+            ]
+        },
+        {
+            "label": "The Role of Modern Accounting Practices in Businesses, Financial Stability, and Sustainable Development",
+            "isbns": [
+                "9783631894255",
+                "9783631894330"
+            ]
+        },
+        {
+            "label": "Winning With Strategic Marketing",
+            "isbns": [
+                "9781637425497",
+                "9781637425503"
+            ]
+        },
+        {
+            "label": "Brand Storytelling",
+            "isbns": [
+                "9781538176375",
+                "9781538176399"
+            ]
+        },
+        {
+            "label": "EMarketing: Marketing in a Digital World 1 Ed.",
+            "isbns": [
+                "9781998963171",
+                "9781998963195"
+            ]
+        },
+        {
+            "label": "Risk Management and Financial Institutions",
+            "isbns": [
+                "9781119932482",
+                "9781119932499"
+            ]
+        }
+    ]
+}
