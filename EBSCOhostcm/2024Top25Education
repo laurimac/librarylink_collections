@@ -1,0 +1,181 @@
+{
+    "label": "2024 Top 25 EBSCO eBooks - Education",
+    "description": "Here is a list of the top 25 EBSCO eBooks purchased in 2024 in the subject area of Education.",
+    "list": [
+        {
+            "label": "Teaching with AI",
+            "isbns": [
+                "9781421449227",
+                "9781421449234"
+            ]
+        },
+        {
+            "label": "AI and the Future of Education",
+            "isbns": [
+                "9781394219247",
+                "9781394219254"
+            ]
+        },
+        {
+            "label": "Brave New Words",
+            "isbns": [
+                "9780593656952",
+                "9780593656969"
+            ]
+        },
+        {
+            "label": "How Learning Works",
+            "isbns": [
+                "9781119861690",
+                "9781119860143"
+            ]
+        },
+        {
+            "label": "\u201cWhatever It Is, I\u2019m Against It\u201d",
+            "isbns": [
+                "9781682538289",
+                "9781682538296"
+            ]
+        },
+        {
+            "label": "Leading Anti-Bias Early Childhood Programs: A Guide to Change, for Change",
+            "isbns": [
+                "9780807768525",
+                "9780807781814"
+            ]
+        },
+        {
+            "label": "Grading for Equity",
+            "isbns": [
+                "9781071876602",
+                "9781071876572"
+            ]
+        },
+        {
+            "label": "The Learning-Centered University",
+            "isbns": [
+                "9781421448022",
+                "9781421448039"
+            ]
+        },
+        {
+            "label": "Literacy in a Digital World",
+            "isbns": [
+                "9781475868913",
+                "9781475868937"
+            ]
+        },
+        {
+            "label": "The Student",
+            "isbns": [
+                "9780300250039",
+                "9780300274837"
+            ]
+        },
+        {
+            "label": "Critical Race Theory and Its Critics: Implications for Research and Teaching",
+            "isbns": [
+                "9780807768068",
+                "9780807781586"
+            ]
+        },
+        {
+            "label": "Learning in a Time of Abundance",
+            "isbns": [
+                "9781421447797",
+                "9781421447803"
+            ]
+        },
+        {
+            "label": "Small Teaching",
+            "isbns": [
+                "9781119755548",
+                "9781119755562"
+            ]
+        },
+        {
+            "label": "Is Everyone Really Equal?: An Introduction to Key Concepts in Social Justice Education",
+            "isbns": [
+                "9780807758618",
+                "9780807776179"
+            ]
+        },
+        {
+            "label": "Academic Integrity in the Age of Artificial Intelligence",
+            "isbns": [
+                "9798369302408",
+                "9798369302422"
+            ]
+        },
+        {
+            "label": "A Pedagogy of Kindness",
+            "isbns": [
+                "9780806193847",
+                "9780806194332"
+            ]
+        },
+        {
+            "label": "Community and Public Health Education Methods: A Practical Guide",
+            "isbns": [
+                "9781284262056",
+                "9781284262063"
+            ]
+        },
+        {
+            "label": "Trauma Responsive Educational Practices",
+            "isbns": [
+                "9781416631736",
+                "9781416631743"
+            ]
+        },
+        {
+            "label": "The American Community College",
+            "isbns": [
+                "9781394180943",
+                "9781394180950"
+            ]
+        },
+        {
+            "label": "Teaching Where You Are",
+            "isbns": [
+                "9781487549947",
+                "9781487549954"
+            ]
+        },
+        {
+            "label": "Improving Learning and Mental Health in the College Classroom",
+            "isbns": [
+                "9781952271809",
+                "9781952271816"
+            ]
+        },
+        {
+            "label": "Fundamentals of Research in Humanities, Social Science and Science Education - A Practical, Step-by-step Approach to a Successful Journey",
+            "isbns": [
+                "9780627038839",
+                "9780627038846"
+            ]
+        },
+        {
+            "label": "Culturally Responsive Teaching and The Brain",
+            "isbns": [
+                "9781483308012",
+                "9781483307985"
+            ]
+        },
+        {
+            "label": "HBCU",
+            "isbns": [
+                "9781421448183",
+                "9781421448190"
+            ]
+        },
+        {
+            "label": "Generative AI in Teaching and Learning",
+            "isbns": [
+                "9798369300749",
+                "9798369300756"
+            ]
+        }
+    ]
+}
