@@ -1,0 +1,76 @@
+{
+    "label": "2024 Top 100 EBSCO eBooks - Corporate Libraries",
+    "description": "Here is a list of the top 100 EBSCO eBooks purchased in 2024 by corporate libraries, focused on leadership, innovation, artificial intelligence, strategy, finance, and organizational development.",
+    "list": [
+        {
+            "label": "Co-Intelligence",
+            "isbns": [
+                "9780593716717",
+                "9780593716724"
+            ]
+        },
+        {
+            "label": "Managing Innovation",
+            "isbns": [
+                "9781119713302",
+                "9781119719335"
+            ]
+        },
+        {
+            "label": "Contemporary Strategy Analysis",
+            "isbns": [
+                "9781119815235",
+                "9781119815266"
+            ]
+        },
+        {
+            "label": "Elon Musk",
+            "isbns": [
+                "9781982181284",
+                "9781982181307"
+            ]
+        },
+        {
+            "label": "Generative Artificial Intelligence",
+            "isbns": [
+                "9780197773536",
+                "9780197773550"
+            ]
+        },
+        {
+            "label": "Atomic Habits",
+            "isbns": [
+                "9780735211292",
+                "9780735211308"
+            ]
+        },
+        {
+            "label": "Leading Our Way",
+            "isbns": [
+                "9781394191819",
+                "9781394232895"
+            ]
+        },
+        {
+            "label": "AI Needs You",
+            "isbns": [
+                "9780691244877",
+                "9780691244907"
+            ]
+        },
+        {
+            "label": "The Problem of Twelve",
+            "isbns": [
+                "",
+                "9798987053553"
+            ]
+        },
+        {
+            "label": "How AI Works",
+            "isbns": [
+                "9781718503724",
+                "9781718503731"
+            ]
+        }
+    ]
+}
