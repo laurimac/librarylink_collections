@@ -1,0 +1,181 @@
+{
+    "label": "2024 Top 25 EBSCO eBooks - Engineering",
+    "description": "Here is a list of the top 25 EBSCO eBooks purchased in 2024 in the subject area of Engineering.",
+    "list": [
+        {
+            "label": "The Quick Guide to Prompt Engineering",
+            "isbns": [
+                "9781394243327",
+                "9781394243334"
+            ]
+        },
+        {
+            "label": "How Infrastructure Works",
+            "isbns": [
+                "9780593086599",
+                "9780593086612"
+            ]
+        },
+        {
+            "label": "The Rules of Programming",
+            "isbns": [
+                "9781098133115",
+                "9781098133085"
+            ]
+        },
+        {
+            "label": "Meriam's Engineering Mechanics",
+            "isbns": [
+                "9781119665045",
+                "9781119665052"
+            ]
+        },
+        {
+            "label": "Fundamentals of Data Engineering",
+            "isbns": [
+                "9781098108304",
+                "9781098108274"
+            ]
+        },
+        {
+            "label": "The Great Civil Engineering Overhaul",
+            "isbns": [
+                "9780784416228",
+                "9780784485446"
+            ]
+        },
+        {
+            "label": "Clean Code Cookbook",
+            "isbns": [
+                "9781098144722",
+                "9781098144692"
+            ]
+        },
+        {
+            "label": "Human Dimensions of Civil Engineering",
+            "isbns": [
+                "9781032490700",
+                "9781000998771"
+            ]
+        },
+        {
+            "label": "Mechanics of Materials, EBook, SI Edition",
+            "isbns": [
+                "9781292725734",
+                "9781292457444"
+            ]
+        },
+        {
+            "label": "Engineering in Plain Sight",
+            "isbns": [
+                "9781718502321",
+                "9781718502338"
+            ]
+        },
+        {
+            "label": "Principles of Electric Machines and Power Electronics",
+            "isbns": [
+                "9781118078877",
+                "9781118804155"
+            ]
+        },
+        {
+            "label": "Statics and Mechanics of Materials, SI Units",
+            "isbns": [
+                "9781292460208",
+                "9781292728384"
+            ]
+        },
+        {
+            "label": "Integrating Resilience and Sustainability Into Civil Engineering Projects",
+            "isbns": [
+                "",
+                "9780784484814"
+            ]
+        },
+        {
+            "label": "Experiment Design for Civil Engineering",
+            "isbns": [
+                "9781032382005",
+                "9781000840827"
+            ]
+        },
+        {
+            "label": "Sustainable Civil Engineering",
+            "isbns": [
+                "9780367751579",
+                "9781000890242"
+            ]
+        },
+        {
+            "label": "Mechanical Engineering",
+            "isbns": [
+                "9783036402390",
+                "9783036412399"
+            ]
+        },
+        {
+            "label": "Nanomaterials, Mechanical and Materials Engineering",
+            "isbns": [
+                "9783035718768",
+                "9783035738766"
+            ]
+        },
+        {
+            "label": "Mechanical Automation and Engineering Materials",
+            "isbns": [
+                "9783035715019",
+                "9783035728279"
+            ]
+        },
+        {
+            "label": "What Every Engineer Should Know About Data-Driven Analytics",
+            "isbns": [
+                "9781032235400",
+                "9781000859690"
+            ]
+        },
+        {
+            "label": "Machine Intelligence in Mechanical Engineering",
+            "isbns": [
+                "9780443186448",
+                "9780443186455"
+            ]
+        },
+        {
+            "label": "Theory of Electromagnetics",
+            "isbns": [
+                "9781041023180",
+                "9781003618713"
+            ]
+        },
+        {
+            "label": "Emerging Technologies & Applications in Electrical Engineering",
+            "isbns": [
+                "9781032825687",
+                "9781003505181"
+            ]
+        },
+        {
+            "label": "Piezoelectric Technology",
+            "isbns": [
+                "9781032329062",
+                "9781003317289"
+            ]
+        },
+        {
+            "label": "Induction Motor Computer Models in Three-Phase Stator Reference Frames: A Technical Handbook",
+            "isbns": [
+                "9789815124316",
+                "9789815124309"
+            ]
+        },
+        {
+            "label": "Ugly\u2019s Electrical References, 2023 Edition",
+            "isbns": [
+                "9781284275919",
+                "9781284275933"
+            ]
+        }
+    ]
+}
