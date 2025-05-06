@@ -1,6 +1,6 @@
 {
-    "label": "2024 Top 100 EBSCO eBooks - Corporate Libraries",
-    "description": "Here is a list of the top 100 EBSCO eBooks purchased in 2024 by corporate libraries, focused on leadership, innovation, artificial intelligence, strategy, finance, and organizational development.",
+    "label": "2024 Top 100 EBSCO Ebooks for Corporate Libraries",
+    "description": "Top 100 EBSCO Ebooks purchased by corporate libraries in 2024",
     "list": [
         {
             "label": "Co-Intelligence",
@@ -61,7 +61,6 @@
         {
             "label": "The Problem of Twelve",
             "isbns": [
-                "",
                 "9798987053553"
             ]
         },
@@ -70,6 +69,566 @@
             "isbns": [
                 "9781718503724",
                 "9781718503731"
+            ]
+        },
+        {
+            "label": "Our Planet Powered by AI",
+            "isbns": [
+                "9781394180608",
+                "9781394180615"
+            ]
+        },
+        {
+            "label": "Marketing 6.0",
+            "isbns": [
+                "9781119835219",
+                "9781119835370"
+            ]
+        },
+        {
+            "label": "The Neurodiversity Edge",
+            "isbns": [
+                "9781394199280",
+                "9781394199297"
+            ]
+        },
+        {
+            "label": "Getting to Yes",
+            "isbns": [
+                "9780143118756",
+                "9781101539545"
+            ]
+        },
+        {
+            "label": "The Leadership Challenge",
+            "isbns": [
+                "9781119736127",
+                "9781119736158"
+            ]
+        },
+        {
+            "label": "The Manager's Handbook",
+            "isbns": [
+                "9781394174072",
+                "9781394174089"
+            ]
+        },
+        {
+            "label": "The Ethics of Artificial Intelligence",
+            "isbns": [
+                "9780198883098",
+                "9780198883104"
+            ]
+        },
+        {
+            "label": "Welcome to AI",
+            "isbns": [
+                "9781647827526",
+                "9781647827533"
+            ]
+        },
+        {
+            "label": "Hidden Potential",
+            "isbns": [
+                "9780593653142",
+                "9780593653159"
+            ]
+        },
+        {
+            "label": "Designing Brand Identity",
+            "isbns": [
+                "9781119984818",
+                "9781119984825"
+            ]
+        },
+        {
+            "label": "Slow Productivity",
+            "isbns": [
+                "9780593544853",
+                "9780593544860"
+            ]
+        },
+        {
+            "label": "Foodservice Operations and Management: Concepts and Applications",
+            "isbns": [
+                "9781284164879",
+                "9781284164886"
+            ]
+        },
+        {
+            "label": "Glass Walls",
+            "isbns": [
+                "9781538170960",
+                "9781538170977"
+            ]
+        },
+        {
+            "label": "Slow Burn",
+            "isbns": [
+                "9780691221038",
+                "9780691221045"
+            ]
+        },
+        {
+            "label": "Generative AI",
+            "isbns": [
+                "9781394205912",
+                "9781394205943"
+            ]
+        },
+        {
+            "label": "Redefining Retail",
+            "isbns": [
+                "9781394204700",
+                "9781394204717"
+            ]
+        },
+        {
+            "label": "Artificial Era",
+            "isbns": [
+                "9780192869777",
+                "9780192696854"
+            ]
+        },
+        {
+            "label": "Revenue Management for the Hospitality Industry",
+            "isbns": [
+                "9781119790778",
+                "9781119840411"
+            ]
+        },
+        {
+            "label": "Python Crash Course, 3rd Edition",
+            "isbns": [
+                "9781718502703",
+                "9781718502710"
+            ]
+        },
+        {
+            "label": "The Obstacle Is the Way Expanded 10th Anniversary Edition",
+            "isbns": [
+                "9780593719916",
+                "9780593719923"
+            ]
+        },
+        {
+            "label": "Generative AI in Practice",
+            "isbns": [
+                "9781394245567",
+                "9781394254248"
+            ]
+        },
+        {
+            "label": "Generative AI: The Insights You Need From Harvard Business Review",
+            "isbns": [
+                "9781647826390",
+                "9781647826406"
+            ]
+        },
+        {
+            "label": "The Digital Mindset",
+            "isbns": [
+                "9781647820107",
+                "9781647820114"
+            ]
+        },
+        {
+            "label": "Dare to Lead",
+            "isbns": [
+                "9780399592522",
+                "9780399592546"
+            ]
+        },
+        {
+            "label": "The Language of Deception",
+            "isbns": [
+                "9781394222544",
+                "9781394222551"
+            ]
+        },
+        {
+            "label": "Lead Smart",
+            "isbns": [
+                "9781394188604",
+                "9781394188611"
+            ]
+        },
+        {
+            "label": "AI for Finance",
+            "isbns": [
+                "9781032384436",
+                "9781000878523"
+            ]
+        },
+        {
+            "label": "A Gentle Introduction to Stata, Revised Sixth Edition",
+            "isbns": [
+                "9781597183673",
+                "9781597183680"
+            ]
+        },
+        {
+            "label": "Global Logistics and Supply Chain Management",
+            "isbns": [
+                "9781119702993",
+                "9781119714088"
+            ]
+        },
+        {
+            "label": "Intentional Power",
+            "isbns": [
+                "9781394193509",
+                "9781394193516"
+            ]
+        },
+        {
+            "label": "Deals",
+            "isbns": [
+                "9780674495159",
+                "9780674296909"
+            ]
+        },
+        {
+            "label": "Fintech Explained",
+            "isbns": [
+                "9781487544089",
+                "9781487544102"
+            ]
+        },
+        {
+            "label": "Corporate Governance and Accountability",
+            "isbns": [
+                "9781119561200",
+                "9781119608578"
+            ]
+        },
+        {
+            "label": "Becoming a Master Manager",
+            "isbns": [
+                "9781119710967",
+                "9781119718444"
+            ]
+        },
+        {
+            "label": "The Quick Guide to Prompt Engineering",
+            "isbns": [
+                "9781394243327",
+                "9781394243334"
+            ]
+        },
+        {
+            "label": "Higher Ground",
+            "isbns": [
+                "9781647823436",
+                "9781647823443"
+            ]
+        },
+        {
+            "label": "How to Become a Data Analyst",
+            "isbns": [
+                "9781394202232",
+                "9781394202249"
+            ]
+        },
+        {
+            "label": "A Guide to the Project Management Body of Knowledge",
+            "isbns": [
+                "9781628256642",
+                "9781628256659"
+            ]
+        },
+        {
+            "label": "The AI-Savvy Leader",
+            "isbns": [
+                "9781647826239",
+                "9781647826246"
+            ]
+        },
+        {
+            "label": "All-in On AI",
+            "isbns": [
+                "9781647824693",
+                "9781647824709"
+            ]
+        },
+        {
+            "label": "Fusion Strategy",
+            "isbns": [
+                "9781647826253",
+                "9781647826260"
+            ]
+        },
+        {
+            "label": "AI for Good",
+            "isbns": [
+                "9781394235872",
+                "9781394235889"
+            ]
+        },
+        {
+            "label": "Data Is Everybody's Business",
+            "isbns": [
+                "9780262048217",
+                "9780262375351"
+            ]
+        },
+        {
+            "label": "Human-Centered AI",
+            "isbns": [
+                "9780192845290",
+                "9780192659996"
+            ]
+        },
+        {
+            "label": "Good to Great",
+            "isbns": [
+                "9780066620992",
+                "9780062119209"
+            ]
+        },
+        {
+            "label": "The Canary Code",
+            "isbns": [
+                "",
+                "9781523005857"
+            ]
+        },
+        {
+            "label": "A History of Fake Things on the Internet",
+            "isbns": [
+                "9781503632882",
+                "9781503637047"
+            ]
+        },
+        {
+            "label": "Techlash",
+            "isbns": [
+                "9780815739937",
+                "9780815739944"
+            ]
+        },
+        {
+            "label": "Remote Works",
+            "isbns": [
+                "",
+                "9781523003327"
+            ]
+        },
+        {
+            "label": "Invisible Women",
+            "isbns": [
+                "9781419729072",
+                "9781683353140"
+            ]
+        },
+        {
+            "label": "Modern Portfolio Theory and Investment Analysis",
+            "isbns": [
+                "9781118469941",
+                "9781118805800"
+            ]
+        },
+        {
+            "label": "From Intention to Impact",
+            "isbns": [
+                "9780262048842",
+                "9780262377898"
+            ]
+        },
+        {
+            "label": "10 to 25",
+            "isbns": [
+                "9781668023884",
+                "9781668023907"
+            ]
+        },
+        {
+            "label": "Cultures of Growth",
+            "isbns": [
+                "9781982172749",
+                "9781982172763"
+            ]
+        },
+        {
+            "label": "Taming Silicon Valley",
+            "isbns": [
+                "9780262551069",
+                "9780262381567"
+            ]
+        },
+        {
+            "label": "Practical Cloud Security",
+            "isbns": [
+                "9781098148171",
+                "9781098148140"
+            ]
+        },
+        {
+            "label": "Management and Cost Accounting",
+            "isbns": [
+                "9781473791244",
+                "9781473792272"
+            ]
+        },
+        {
+            "label": "Take Your Company Global",
+            "isbns": [
+                "9781523004430",
+                "9781523004447"
+            ]
+        },
+        {
+            "label": "All Pride, No Ego",
+            "isbns": [
+                "9781394165285",
+                "9781394165292"
+            ]
+        },
+        {
+            "label": "Humble Leadership, Second Edition",
+            "isbns": [
+                "",
+                "9781523005512"
+            ]
+        },
+        {
+            "label": "Operations and Supply Chain Management",
+            "isbns": [
+                "9781119905677",
+                "9781119905653"
+            ]
+        },
+        {
+            "label": "Privacy in the Age of Big Data",
+            "isbns": [
+                "9781538167823",
+                "9781538167830"
+            ]
+        },
+        {
+            "label": "Design for Belonging",
+            "isbns": [
+                "9781984858030",
+                "9781984858023"
+            ]
+        },
+        {
+            "label": "Reframing Organizations",
+            "isbns": [
+                "9781119756835",
+                "9781119756842"
+            ]
+        },
+        {
+            "label": "Social Media Strategy",
+            "isbns": [
+                "9781538180112",
+                "9781538167106"
+            ]
+        },
+        {
+            "label": "Accounting",
+            "isbns": [
+                "9780655708414",
+                "9780655708421"
+            ]
+        },
+        {
+            "label": "The Management of Innovation",
+            "isbns": [
+                "9781487553562",
+                "9781487553579"
+            ]
+        },
+        {
+            "label": "Army of Liars",
+            "isbns": [
+                "9781538194157",
+                "9781538194164"
+            ]
+        },
+        {
+            "label": "Your Call Is Very Important to Us",
+            "isbns": [
+                "9781538177730",
+                "9781538177747"
+            ]
+        },
+        {
+            "label": "The Big Myth",
+            "isbns": [
+                "9781635573572",
+                "9781635573589"
+            ]
+        },
+        {
+            "label": "Imagining AI",
+            "isbns": [
+                "9780192865366",
+                "9780192688934"
+            ]
+        },
+        {
+            "label": "Introduction to Information Systems",
+            "isbns": [
+                "9781394165711",
+                "9781394165162"
+            ]
+        },
+        {
+            "label": "Artificial Intelligence in Accounting",
+            "isbns": [
+                "9781032055626",
+                "9781000627329"
+            ]
+        },
+        {
+            "label": "The Burnout Challenge",
+            "isbns": [
+                "9780674251014",
+                "9780674287297"
+            ]
+        },
+        {
+            "label": "Getting to Diversity",
+            "isbns": [
+                "9780674276611",
+                "9780674290051"
+            ]
+        },
+        {
+            "label": "StrengthsFinder 2.0",
+            "isbns": [
+                "9781595620156",
+                "9781595620767"
+            ]
+        },
+        {
+            "label": "Corporate Finance, Global Edition",
+            "isbns": [
+                "9781292446318",
+                "9781292446417"
+            ]
+        },
+        {
+            "label": "Reconstructing DEI",
+            "isbns": [
+                "",
+                "9781523006076"
+            ]
+        },
+        {
+            "label": "Organisational Behaviour",
+            "isbns": [
+                "9780655704133",
+                "9780655704119"
+            ]
+        },
+        {
+            "label": "Never Not Working",
+            "isbns": [
+                "9781647825096",
+                "9781647825102"
             ]
         }
     ]
