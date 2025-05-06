@@ -1,34 +1,89 @@
 {
-  "label": "2024 Top 100 EBSCO eBook titles for Medical Libraries",
-  "description": "2024 Top 100 EBSCO eBook titles purchased by medical libraries in 2024",
-  "list": [
-    {
-      "label": "Nursing",
-      "isbns": [
-        "9780999308868",
-        "9780999308882"
-      ]
-    },
-    {
-      "label": "Davis's Drug Guide for Nurses",
-      "isbns": [
-        "9781719650038",
-        "9781719652926"
-      ]
-    },
-    {
-      "label": "Motivational Interviewing",
-      "isbns": [
-        "9781462552795",
-        "9781462552825"
-      ]
-    },
-    {
-      "label": "Mental Health Nursing",
-      "isbns": [
-        "9781719645607",
-        "9781719648325"
-      ]
-    }
-  ]
+    "label": "2024 Top 100 EBSCO eBooks for Medical Libraries",
+    "description": "Top 100 EBSCO eBooks purchased by medical libraries in 2024",
+    "list": [
+        {
+            "label": "Nursing",
+            "isbns": [
+                "9780999308868",
+                "9780999308882"
+            ]
+        },
+        {
+            "label": "Nursing Leadership: Scope and Standards of Practice, 3rd Edition",
+            "isbns": [
+                "9781953985880",
+                "9781953985897"
+            ]
+        },
+        {
+            "label": "Taking Action",
+            "isbns": [
+                "9781646482047"
+            ]
+        },
+        {
+            "label": "O'Sullivan & Schmitz's Physical Rehabilitation",
+            "isbns": [
+                "9781719646918",
+                "9781719651479"
+            ]
+        },
+        {
+            "label": "Davis's Drug Guide for Nurses",
+            "isbns": [
+                "9781719650038",
+                "9781719652926"
+            ]
+        },
+        {
+            "label": "AACN Essentials of Critical Care Nursing, Fifth Edition",
+            "isbns": [
+                "9781264269884",
+                "9781264269891"
+            ]
+        },
+        {
+            "label": "Motivational Interviewing",
+            "isbns": [
+                "9781462552795",
+                "9781462552825"
+            ]
+        },
+        {
+            "label": "The Pocket Atlas of Skeletal Muscles",
+            "isbns": [
+                "9781718226951",
+                "9781718226968"
+            ]
+        },
+        {
+            "label": "Compounding Sterile Preparations",
+            "isbns": [
+                "9781585286485",
+                "9781585286492"
+            ]
+        },
+        {
+            "label": "Nursing Leadership During Crisis",
+            "isbns": [
+                "9781646480425",
+                "9781646480449"
+            ]
+        },
+        {
+            "label": "Cognitive Communication Disorders, Fourth Edition",
+            "isbns": [
+                "9781635505115",
+                "9781635504408"
+            ]
+        },
+        {
+            "label": "2024-2025 Basic and Clinical Science Course, Section 1: Update on General Medicine",
+            "isbns": [
+                "9781681047836",
+                "9781681048093"
+            ]
+        }
+    ]
 }
