@@ -1,6 +1,6 @@
 {
-    "label": "2024 Top 100 EBSCO eBooks for Medical Libraries",
-    "description": "Top 100 EBSCO eBooks purchased by medical libraries in 2024",
+    "label": "2024 Top 100 EBSCO Ebooks for Medical Libraries",
+    "description": "Top 100 EBSCO Ebooks purchased by medical libraries in 2024",
     "list": [
         {
             "label": "Nursing",
@@ -72,17 +72,285 @@
             ]
         },
         {
-            "label": "Cognitive Communication Disorders, Fourth Edition",
+            "label": "Population-Based Public Health Clinical Manual: The Henry Street Model for Nurses",
             "isbns": [
-                "9781635505115",
-                "9781635504408"
+                "9781646480401"
             ]
         },
         {
-            "label": "2024-2025 Basic and Clinical Science Course, Section 1: Update on General Medicine",
+            "label": "Davis's Comprehensive Manual of Laboratory and Diagnostic Tests with Nursing Implications",
             "isbns": [
-                "9781681047836",
-                "9781681048093"
+                "9781719646123",
+                "9781719646147"
+            ]
+        },
+        {
+            "label": "CDT 2025 Book and App",
+            "isbns": [
+                "9781684472314"
+            ]
+        },
+        {
+            "label": "Reflective Practice, Third Edition",
+            "isbns": [
+                "9781646481224"
+            ]
+        },
+        {
+            "label": "Managing Suicidal Risk",
+            "isbns": [
+                "9781462552702",
+                "9781462552726"
+            ]
+        },
+        {
+            "label": "Nursing Informatics Scope and Standards of Practice, 3rd Edition",
+            "isbns": [
+                "9781953985002",
+                "9781953985019"
+            ]
+        },
+        {
+            "label": "Neurovascular Nursing: Scope and Standards of Practice",
+            "isbns": [
+                "9781953985644",
+                "9781953985651"
+            ]
+        },
+        {
+            "label": "Sheehy's Manual of Emergency Care - E-Book",
+            "isbns": [
+                "9780323710602",
+                "9780323710619"
+            ]
+        },
+        {
+            "label": "Critical Conversations in Healthcare, Third Edition",
+            "isbns": [
+                "9781646481958"
+            ]
+        },
+        {
+            "label": "ASPEN Parenteral Nutrition Workbook, Second Edition",
+            "isbns": [
+                "9781889622453",
+                "9781889622460"
+            ]
+        },
+        {
+            "label": "Cognitive-Behavioral Therapy in Groups",
+            "isbns": [
+                "9781462549870",
+                "9781462550036"
+            ]
+        },
+        {
+            "label": "Mental Health Nursing",
+            "isbns": [
+                "9781719645607",
+                "9781719648325"
+            ]
+        },
+        {
+            "label": "The Medical Evaluation of Psychiatric Symptoms",
+            "isbns": [
+                "9783031143717",
+                "9783031143724"
+            ]
+        },
+        {
+            "label": "Cognitive-Behavioral Therapy of Addictive Disorders",
+            "isbns": [
+                "9781462548842",
+                "9781462548873"
+            ]
+        },
+        {
+            "label": "Adverse Childhood Experiences",
+            "isbns": [
+                "9783031088001",
+                "9783031088018"
+            ]
+        },
+        {
+            "label": "Occupational Therapy Disruptors",
+            "isbns": [
+                "9781839976650",
+                "9781839976667"
+            ]
+        },
+        {
+            "label": "CDT 2025 Coding Companion",
+            "isbns": [
+                "9781684472338"
+            ]
+        },
+        {
+            "label": "Evidence-Based Practice for Nurses: Appraisal and Application of Research",
+            "isbns": [
+                "9781284296532",
+                "9781284296549"
+            ]
+        },
+        {
+            "label": "Public Health Nursing Scope and Standards of Practice, 3rd Edition",
+            "isbns": [
+                "9780999308820",
+                "9780999308837"
+            ]
+        },
+        {
+            "label": "Essentials of Nursing Leadership & Management",
+            "isbns": [
+                "9781719646581",
+                "9781719649964"
+            ]
+        },
+        {
+            "label": "Mosby's 2024 Nursing Drug Reference - E-Book",
+            "isbns": [
+                "9780443118906",
+                "9780443121210"
+            ]
+        },
+        {
+            "label": "CMSA Core Curriculum for Case Management",
+            "isbns": [
+                "9781451194302",
+                "9781496351890"
+            ]
+        },
+        {
+            "label": "ECGs for the Emergency Physician 2",
+            "isbns": [
+                "9781405157018",
+                "9781444312522"
+            ]
+        },
+        {
+            "label": "ECGs for the Emergency Physician 1",
+            "isbns": [
+                "9780727916549",
+                "9781118682166"
+            ]
+        },
+        {
+            "label": "Principles of Therapeutic Exercise for the Physical Therapist Assistant",
+            "isbns": [
+                "9781630913533",
+                "9781630913540"
+            ]
+        },
+        {
+            "label": "Handbook of Nursing Diagnosis",
+            "isbns": [
+                "9781284197976",
+                "9781284198003"
+            ]
+        },
+        {
+            "label": "Foundations in Clinical Research, 4e: Applications to Evidence-Based Practice",
+            "isbns": [
+                "9780803661134",
+                "9780803661165"
+            ]
+        },
+        {
+            "label": "Nursing Informatics and the Foundation of Knowledge",
+            "isbns": [
+                "9781284293432",
+                "9781284295177"
+            ]
+        },
+        {
+            "label": "The Logic of Immunity",
+            "isbns": [
+                "9781421447650",
+                "9781421447674"
+            ]
+        },
+        {
+            "label": "2024-2025 Saunders Clinical Judgment and Test-Taking Strategies - E-Book",
+            "isbns": [
+                "9780323874250",
+                "9780323874298"
+            ]
+        },
+        {
+            "label": "Occupational Therapy Manager, 6th Ed - Ebook",
+            "isbns": [
+                "9781569003909",
+                "9781569005927"
+            ]
+        },
+        {
+            "label": "Public/Community Health and Nursing Practice",
+            "isbns": [
+                "9781719647144",
+                "9781719650250"
+            ]
+        },
+        {
+            "label": "Test Success",
+            "isbns": [
+                "9781719647243",
+                "9781719650380"
+            ]
+        },
+        {
+            "label": "Pedretti's Occupational Therapy - E-Book",
+            "isbns": [
+                "9780323792554",
+                "9780323793667"
+            ]
+        },
+        {
+            "label": "Motor Speech Disorders: Diagnosis and Treatment, Fourth Edition",
+            "isbns": [
+                "9781635506075",
+                "9781635504460"
+            ]
+        },
+        {
+            "label": "Regulating Abortion",
+            "isbns": [
+                "9781421448701",
+                "9781421448718"
+            ]
+        },
+        {
+            "label": "Red Book 2024",
+            "isbns": [
+                "9781610027342",
+                "9781610027359"
+            ]
+        },
+        {
+            "label": "Advanced Practice Nursing: Essential Knowledge for the Profession",
+            "isbns": [
+                "9781284264661",
+                "9781284264692"
+            ]
+        },
+        {
+            "label": "Saunders Comprehensive Review for the NCLEX-RN\u00c2\u00ae Examination - E-Book",
+            "isbns": [
+                "9780323795302",
+                "9780323830300"
+            ]
+        },
+        {
+            "label": "Psychiatric-Mental Health Nursing Scope and Standards of Practice, 3rd Edition",
+            "isbns": [
+                "9781947800977",
+                "9780999308806"
+            ]
+        },
+        {
+            "label": "Social Media and Adolescent Health",
+            "isbns": [
+                "9780309713160",
+                "9780309713177"
             ]
         }
     ]
