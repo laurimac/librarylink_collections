@@ -1,0 +1,27 @@
+{
+  "label": "2025 Top 100 Business eBooks",
+  "description": "Top 100 business EBSCO eBooks purchased by libraries in 2025",
+  "list": [
+    {
+      "label": "Changing on the Job, Second Edition",
+      "isbns": [
+        "9781503640245",
+        "9781503641525"
+      ]
+    },
+    {
+      "label": "How to Read a Financial Report",
+      "isbns": [
+        "9781394268696",
+        "9781394268702"
+      ]
+    },
+    {
+      "label": "Leading Outside Your Comfort Zone",
+      "isbns": [
+        "9781503640528",
+        "9781503641013"
+      ]
+    }
+  ]
+}
