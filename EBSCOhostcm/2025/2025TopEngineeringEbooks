@@ -1,0 +1,507 @@
+{
+  "description": "Top 100 engineering EBSCO eBooks purchased in 2025",
+  "collection": "2025 Top 100 Engineering eBooks",
+  "count": 100,
+  "items": [
+    {
+      "title": "Urban Bikeway Design Guide, Third Edition",
+      "isbn": "9781642833843",
+      "eisbn": "9781642833850"
+    },
+    {
+      "title": "Killed by a Traffic Engineer",
+      "isbn": "9781642833300",
+      "eisbn": "9781642833317"
+    },
+    {
+      "title": "Bridge Failures and Lessons Learnt",
+      "isbn": "9781836085591",
+      "eisbn": "9781836085560"
+    },
+    {
+      "title": "Geotechnical Earthquake Engineering",
+      "isbn": "9781032842745",
+      "eisbn": "9781003512011"
+    },
+    {
+      "title": "Reinforced Concrete Design",
+      "isbn": "9781032076669",
+      "eisbn": "9781003208204"
+    },
+    {
+      "title": "INCOSE Systems Engineering Handbook",
+      "isbn": "9781119814290",
+      "eisbn": "9781119814306"
+    },
+    {
+      "title": "Quantum Computing",
+      "isbn": "9781032757049",
+      "eisbn": "9781040272220"
+    },
+    {
+      "title": "Handbook of Semiconductors",
+      "isbn": "9781032584553",
+      "eisbn": "9781003450146"
+    },
+    {
+      "title": "ICE Core Concepts",
+      "isbn": "9781836085195",
+      "eisbn": "9781836085164"
+    },
+    {
+      "title": "Effective Procurement of Ground Investigation",
+      "isbn": "9781836620297",
+      "eisbn": "9781836620266"
+    },
+    {
+      "title": "Climate Change Effects on Civil Infrastructure",
+      "isbn": "9781032509563",
+      "eisbn": "9781040295755"
+    },
+    {
+      "title": "Security Framework for The Internet of Things Applications",
+      "isbn": "9781032409276",
+      "eisbn": "9781003478683"
+    },
+    {
+      "title": "Advancing Responsible AI in Public Sector Application",
+      "isbn": "9781032703930",
+      "eisbn": "9781003663577"
+    },
+    {
+      "title": "Electric Vehicle Technologies",
+      "isbn": "9781839537790",
+      "eisbn": "9781839537806"
+    },
+    {
+      "title": "Resilient Urban Drainage System Strategies for Extreme Weather",
+      "isbn": "9781604272048",
+      "eisbn": "9781604278583"
+    },
+    {
+      "title": "User Experience Methods and Tools in Human-Computer Interaction",
+      "isbn": "9781032370026",
+      "eisbn": "9781003495161"
+    },
+    {
+      "title": "Designing for Usability, Inclusion and Sustainability in Human-Computer Interaction",
+      "isbn": "9781032370019",
+      "eisbn": "9781003495147"
+    },
+    {
+      "title": "Water Supply and Distribution Systems",
+      "isbn": "9781835498477",
+      "eisbn": "9781835498460"
+    },
+    {
+      "title": "Seismic Retrofit of Existing Buildings",
+      "isbn": "9781835498354",
+      "eisbn": "9781835498347"
+    },
+    {
+      "title": "Principles of Pavement Engineering",
+      "isbn": "9781835497111",
+      "eisbn": "9781835497104"
+    },
+    {
+      "title": "Guide To Characteristics And Characterization Of Semiconductor Surfaces",
+      "isbn": "9789811254819",
+      "eisbn": "9789811254826"
+    },
+    {
+      "title": "Robotics",
+      "isbn": "9781041013235",
+      "eisbn": "9781003614319"
+    },
+    {
+      "title": "Simulation and Analysis of Circuits for Power Electronics",
+      "isbn": "9781839536076",
+      "eisbn": "9781839536083"
+    },
+    {
+      "title": "How to Diagnose and Fix Everything Electronic, Third Edition",
+      "isbn": "9781265933920",
+      "eisbn": "9781265934552"
+    },
+    {
+      "title": "Handbook on Soft Robotics",
+      "isbn": "9783031686191",
+      "eisbn": "9783031686207"
+    },
+    {
+      "title": "Practical Antenna Handbook, Sixth Edition",
+      "isbn": "9781260132250",
+      "eisbn": "9781260132267"
+    },
+    {
+      "title": "Urban Drainage",
+      "isbn": "9781032513317",
+      "eisbn": "9781003408635"
+    },
+    {
+      "title": "Design Thinking",
+      "isbn": "9781032039053",
+      "eisbn": "9781000641158"
+    },
+    {
+      "title": "Hydraulics in Civil and Environmental Engineering",
+      "isbn": "9780367460891",
+      "eisbn": "9781000395556"
+    },
+    {
+      "title": "A Practical Approach to Advanced Mathematical Modelling in Civil Engineering",
+      "isbn": "9780198854241",
+      "eisbn": "9780192596406"
+    },
+    {
+      "title": "Inductive Devices in Power Electronics",
+      "isbn": "9781839534478",
+      "eisbn": "9781839534485"
+    },
+    {
+      "title": "Networked Sensing Systems",
+      "isbn": "9781394310869",
+      "eisbn": "9781394310883"
+    },
+    {
+      "title": "ICE Handbook of Ground Investigation",
+      "isbn": "9781835498910",
+      "eisbn": "9781835498903"
+    },
+    {
+      "title": "Energy Storage",
+      "isbn": "9781032460956",
+      "eisbn": "9781040311356"
+    },
+    {
+      "title": "Artificial Intelligence in Medicine and Healthcare",
+      "isbn": "9781032832739",
+      "eisbn": "9781040300343"
+    },
+    {
+      "title": "Elektrotechniek voor werktuigbouwkundigen en andere technici",
+      "isbn": "9789001035365",
+      "eisbn": "9789001035372"
+    },
+    {
+      "title": "Surveying and Geomatics Engineering",
+      "isbn": "9780784416037",
+      "eisbn": "9780784484005"
+    },
+    {
+      "title": "Fundamentals of Power Electronics",
+      "isbn": "9783030438791",
+      "eisbn": "9783030438814"
+    },
+    {
+      "title": "Modern Computing Technologies for EV Efficiency and Sustainable Energy Integration",
+      "isbn": "9798337323824",
+      "eisbn": "9798337323848"
+    },
+    {
+      "title": "Principles and Practices of Electrical Safety Engineering",
+      "isbn": "9788770047562",
+      "eisbn": "9781040350881"
+    },
+    {
+      "title": "Power System Oscillations",
+      "isbn": "9783031805806",
+      "eisbn": "9783031805813"
+    },
+    {
+      "title": "Explainable Artificial Intelligence for Autonomous Vehicles",
+      "isbn": "9781032655017",
+      "eisbn": "9781003502432"
+    },
+    {
+      "title": "Interaction Techniques and Technologies in Human-Computer Interaction",
+      "isbn": "9781032370033",
+      "eisbn": "9781003490678"
+    },
+    {
+      "title": "GaN Power Devices for Efficient Power Conversion",
+      "isbn": "9781394286959",
+      "eisbn": "9781394286966"
+    },
+    {
+      "title": "Robust Control: Supplementary Topics",
+      "isbn": "9781036416645",
+      "eisbn": "9781036416652"
+    },
+    {
+      "title": "Topological Structure Of Road Networks: Models And Computation Methods",
+      "isbn": "9789811294259",
+      "eisbn": "9789811294266"
+    },
+    {
+      "title": "Emerging Hydrogenated Semiconductors: Synthesis, Properties and Applications",
+      "isbn": "9781036412814",
+      "eisbn": "9781036412821"
+    },
+    {
+      "title": "Smart Electric and Hybrid Vehicles",
+      "isbn": "9781032600369",
+      "eisbn": "9781003495574"
+    },
+    {
+      "title": "AI in Agriculture for Sustainable and Economic Management",
+      "isbn": "9781032585697",
+      "eisbn": "9781003451648"
+    },
+    {
+      "title": "History and Evolution of Aircraft",
+      "isbn": "9781032584485",
+      "eisbn": "9781003450115"
+    },
+    {
+      "title": "Design of Electromechanical and Combination Products",
+      "isbn": "9781032294070",
+      "eisbn": "9781000930153"
+    },
+    {
+      "title": "Drawing for Civil Engineering 3 Ed.",
+      "isbn": "9781998963331",
+      "eisbn": "9781998963348"
+    },
+    {
+      "title": "New Perspectives in Behavioral Cybersecurity",
+      "isbn": "9781032414775",
+      "eisbn": "9781000932867"
+    },
+    {
+      "title": "Drone Technology",
+      "isbn": "9781394166534",
+      "eisbn": "9781394167999"
+    },
+    {
+      "title": "Experiment Design for Civil Engineering",
+      "isbn": "9781032382005",
+      "eisbn": "9781000840827"
+    },
+    {
+      "title": "Mechatronics",
+      "isbn": "9781292250977",
+      "eisbn": "9781292250991"
+    },
+    {
+      "title": "Practical Electronics for Inventors, Fourth Edition",
+      "isbn": "9781259587542",
+      "eisbn": "9781259587559"
+    },
+    {
+      "title": "Fundamentals of Structural Dynamics",
+      "isbn": "9780471430445",
+      "eisbn": "9781118174814"
+    },
+    {
+      "title": "Mechanism Design",
+      "isbn": "9781032956800",
+      "eisbn": "9781003591375"
+    },
+    {
+      "title": "Writing Skills for Scientific Communication",
+      "isbn": "9781032780054",
+      "eisbn": "9781003485827"
+    },
+    {
+      "title": "Wide Bandgap Power Electronics",
+      "isbn": "9783031786303",
+      "eisbn": "9783031786310"
+    },
+    {
+      "title": "The Scope of Architectural Theory",
+      "isbn": "9789819636891",
+      "eisbn": "9789819636907"
+    },
+    {
+      "title": "Intelligent Systems and Simulation",
+      "isbn": "9781032799810",
+      "eisbn": "9781003638414"
+    },
+    {
+      "title": "Leitfaden StraÃŸenbrÃ¼cken",
+      "isbn": "9783433031896",
+      "eisbn": "9783433608241"
+    },
+    {
+      "title": "Nanotechnology for Mechanical Engineers",
+      "isbn": "9781032329048",
+      "eisbn": "9781003317272"
+    },
+    {
+      "title": "Design with Analog Multiplexers",
+      "isbn": "9781036415198",
+      "eisbn": "9781036415204"
+    },
+    {
+      "title": "Additive Manufacturing",
+      "isbn": "9781032381824",
+      "eisbn": "9781003343868"
+    },
+    {
+      "title": "Electromagnetic Radiations",
+      "isbn": "9781032715667",
+      "eisbn": "9781003590712"
+    },
+    {
+      "title": "Fundamentals of Power System Transformers",
+      "isbn": "9781032881751",
+      "eisbn": "9781003537564"
+    },
+    {
+      "title": "Hydrogen Membranes",
+      "isbn": "9781032816975",
+      "eisbn": "9781040308226"
+    },
+    {
+      "title": "Reinforced Cement Concrete Structures",
+      "isbn": "9781032538785",
+      "eisbn": "9781040348307"
+    },
+    {
+      "title": "Electric Power Systems for Non-Electrical Engineers",
+      "isbn": "9781032527789",
+      "eisbn": "9781040298251"
+    },
+    {
+      "title": "Next Generation Mechanisms for Data Encryption",
+      "isbn": "9781032832845",
+      "eisbn": "9781040271117"
+    },
+    {
+      "title": "Smooth Topological Design of Continuum Structures",
+      "isbn": "9781032612492",
+      "eisbn": "9781040273166"
+    },
+    {
+      "title": "Mathematical Modelling of Aerospace Dynamic Systems with Practical Applications",
+      "isbn": "9781032552750",
+      "eisbn": "9781040302972"
+    },
+    {
+      "title": "Concise Introduction to Electromagnetic Fields",
+      "isbn": "9783031603303",
+      "eisbn": "9783031603310"
+    },
+    {
+      "title": "Cognitive Machine Intelligence",
+      "isbn": "9781032647432",
+      "eisbn": "9781003500865"
+    },
+    {
+      "title": "Reverse Engineering of Algebraic Inequalities",
+      "isbn": "9781032848563",
+      "eisbn": "9781003517764"
+    },
+    {
+      "title": "Cost-Effective Energy-Efficient Methods for Refurbishment and Retrofitting of Buildings",
+      "isbn": "9780443239748",
+      "eisbn": "9780443239755"
+    },
+    {
+      "title": "Explainable, Interpretable, and Transparent AI Systems",
+      "isbn": "9781032528564",
+      "eisbn": "9781003442509"
+    },
+    {
+      "title": "Robotic Safety Systems",
+      "isbn": "9781032259895",
+      "eisbn": "9781003288169"
+    },
+    {
+      "title": "Artificial Intelligence for Intelligent Systems",
+      "isbn": "9781032603179",
+      "eisbn": "9781003496410"
+    },
+    {
+      "title": "Electric Circuits, Global Edition",
+      "isbn": "9781292736198",
+      "eisbn": "9781292736204"
+    },
+    {
+      "title": "Medical Robot Technology",
+      "isbn": "9789819714834",
+      "eisbn": "9789819714841"
+    },
+    {
+      "title": "Evaluation of Intelligent Road Transport Systems",
+      "isbn": "9781837240838",
+      "eisbn": "9781837240845"
+    },
+    {
+      "title": "How to Ace Mechanics of Materials with Jeff Hanson",
+      "isbn": "9781265649159",
+      "eisbn": "9781265649456"
+    },
+    {
+      "title": "Basisboek Built Environment",
+      "isbn": "9789001079864",
+      "eisbn": "9789001079871"
+    },
+    {
+      "title": "Aprovechamiento de los residuos de construcción y demolición en ingeniería y arquitectura.",
+      "isbn": "9786287645394",
+      "eisbn": "9786287645417"
+    },
+    {
+      "title": "Earthquake Engineering and Structural Control",
+      "isbn": "9781032785097",
+      "eisbn": "9781003542018"
+    },
+    {
+      "title": "Quality Assessment and Security in Industrial Internet of Things",
+      "isbn": "9781032538730",
+      "eisbn": "9781003530572"
+    },
+    {
+      "title": "Performance-Based Seismic Design of Structures",
+      "isbn": "9781032444826",
+      "eisbn": "9781003441090"
+    },
+    {
+      "title": "Microgrid",
+      "isbn": "9781032565767",
+      "eisbn": "9781003481836"
+    },
+    {
+      "title": "Fuzzy Filter-Based State of Energy Estimation for Lithium-Ion Batteries",
+      "isbn": "9781527570665",
+      "eisbn": "9781527570672"
+    },
+    {
+      "title": "Advanced Manufacturing Processes",
+      "isbn": "9780367750565",
+      "eisbn": "9781003476375"
+    },
+    {
+      "title": "Reliability Prediction for Microelectronics",
+      "isbn": "9781394210930",
+      "eisbn": "9781394210947"
+    },
+    {
+      "title": "Distributed Energy Resources and Electric Vehicle",
+      "isbn": "9781032318721",
+      "eisbn": "9781003311829"
+    },
+    {
+      "title": "Structural Design of Buildings",
+      "isbn": "9781835495612",
+      "eisbn": "9781835495605"
+    },
+    {
+      "title": "Elements of Electromigration",
+      "isbn": "9781032470276",
+      "eisbn": "9781003384281"
+    },
+    {
+      "title": "Critical Materials and Sustainability Transition",
+      "isbn": "9781032112213",
+      "eisbn": "9781003218920"
+    },
+    {
+      "title": "Blockchain and Artificial Intelligence-Based Solution to Enhance the Privacy in Digital Identity and IoT",
+      "isbn": "9781032130989",
+      "eisbn": "9781000930719"
+    }
+  ]
+}
