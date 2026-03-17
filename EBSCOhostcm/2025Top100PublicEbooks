@@ -1,0 +1,697 @@
+{
+  "label": "2025 Top 100 EBSCO eBooks for Public Libraries",
+  "description": "Below are the top 100 eBook titles purchased by public libraries in 2025.\n(Lmc) ",
+  "list": [
+    {
+      "label": "August Snow",
+      "isbns": [
+        "9781616957186",
+        "9781616957193"
+      ]
+    },
+    {
+      "label": "They All Saw a Cat",
+      "isbns": [
+        "9781452150130",
+        "9781452150482"
+      ]
+    },
+    {
+      "label": "Super Natural",
+      "isbns": [
+        "9781805460787",
+        "9781805460794"
+      ]
+    },
+    {
+      "label": "Walt Disney’s Forgotten Australia",
+      "isbns": [
+        "9783031787713",
+        "9783031787720"
+      ]
+    },
+    {
+      "label": "Queen Katherine and the Howards",
+      "isbns": [
+        "9781036112523",
+        "9781036112547"
+      ]
+    },
+    {
+      "label": "Back to Font",
+      "isbns": [
+        "9781529438703",
+        "9781529438710"
+      ]
+    },
+    {
+      "label": "The Dead Sea",
+      "isbns": [
+        "9780300259421",
+        "9780300281187"
+      ]
+    },
+    {
+      "label": "MrExcel 2024",
+      "isbns": [
+        "9781836647676",
+        "9781836647669"
+      ]
+    },
+    {
+      "label": "Hello Hello Shapes",
+      "isbns": [
+        "9781797219967",
+        "9781797230597"
+      ]
+    },
+    {
+      "label": "Hello Hello Colors",
+      "isbns": [
+        "9781797219950",
+        "9781797230566"
+      ]
+    },
+    {
+      "label": "The Old Man and the Sea",
+      "isbns": [
+        "9781667622002"
+      ]
+    },
+    {
+      "label": "There Must Be More Than That!",
+      "isbns": [
+        "9781452183220",
+        "9781452184111"
+      ]
+    },
+    {
+      "label": "Deep River",
+      "isbns": [
+        "9781786498823",
+        "9781786498847"
+      ]
+    },
+    {
+      "label": "Breakout",
+      "isbns": [
+        "9781681195384",
+        "9781681195377"
+      ]
+    },
+    {
+      "label": "Big Nate: Silent But Deadly",
+      "isbns": [
+        "9781449489915",
+        "9781449493035"
+      ]
+    },
+    {
+      "label": "101 Awesome Women Who Changed Our World",
+      "isbns": [
+        "9781788886154"
+      ]
+    },
+    {
+      "label": "Cult X",
+      "isbns": [
+        "9781616957865",
+        "9781616957872"
+      ]
+    },
+    {
+      "label": "Safari Pug",
+      "isbns": [
+        "9781408866405",
+        "9781408866412"
+      ]
+    },
+    {
+      "label": "Starring Carmen!",
+      "isbns": [
+        "9781419723216",
+        "9781683350576"
+      ]
+    },
+    {
+      "label": "Princesses Wear Pants",
+      "isbns": [
+        "9781419726033",
+        "9781683351481"
+      ]
+    },
+    {
+      "label": "Yours Sincerely, Giraffe",
+      "isbns": [
+        "9781927271889",
+        "9781776571161"
+      ]
+    },
+    {
+      "label": "The Name of the Game Is a Kidnapping",
+      "isbns": [
+        "9781942993834",
+        "9781942993841"
+      ]
+    },
+    {
+      "label": "Presents Through the Window",
+      "isbns": [
+        "9781452151380",
+        "9781452163178"
+      ]
+    },
+    {
+      "label": "A Quiet Place",
+      "isbns": [
+        "9781908524638",
+        "9781908524645"
+      ]
+    },
+    {
+      "label": "No Pirates Allowed! Said Library Lou",
+      "isbns": [
+        "9781585367962",
+        "9781627530095"
+      ]
+    },
+    {
+      "label": "George Washington",
+      "isbns": [
+        "9781448878970",
+        "9781448880577"
+      ]
+    },
+    {
+      "label": "Coraline",
+      "isbns": [
+        "9781408841754",
+        "9781408832110"
+      ]
+    },
+    {
+      "label": "Inspector Imanishi Investigates",
+      "isbns": [
+        "9781569470190",
+        "9781569479261"
+      ]
+    },
+    {
+      "label": "The Tattoo Murder Case",
+      "isbns": [
+        "9781569471562",
+        "9781569479322"
+      ]
+    },
+    {
+      "label": "Maisie Dobbs",
+      "isbns": [
+        "9781569473306",
+        "9781569477229"
+      ]
+    },
+    {
+      "label": "The Remains of the Day",
+      "isbns": [
+        "9780571249350"
+      ]
+    },
+    {
+      "label": "Art of Custom Sneakers",
+      "isbns": [
+        "9780760381809",
+        "9780760381816"
+      ]
+    },
+    {
+      "label": "Illustrated Men",
+      "isbns": [
+        "9781350125469",
+        "9781350125483"
+      ]
+    },
+    {
+      "label": "Africa in Fashion",
+      "isbns": [
+        "9781913947958",
+        "9781529419856"
+      ]
+    },
+    {
+      "label": "Man Made Monsters",
+      "isbns": [
+        "9781646141791",
+        "9781646142156"
+      ]
+    },
+    {
+      "label": "Bus Stop",
+      "isbns": [
+        "9781951836474",
+        "9781647007867"
+      ]
+    },
+    {
+      "label": "I Am Me",
+      "isbns": [
+        "9781419746482",
+        "9781683359678"
+      ]
+    },
+    {
+      "label": "I Love You Like",
+      "isbns": [
+        "9781797210070",
+        "9781797221137"
+      ]
+    },
+    {
+      "label": "Rilke: The Last Inward Man",
+      "isbns": [
+        "9781782277248",
+        "9781782277200"
+      ]
+    },
+    {
+      "label": "Bullet Train",
+      "isbns": [
+        "9783455013221",
+        "9783455013238"
+      ]
+    },
+    {
+      "label": "Dress-Up Day",
+      "isbns": [
+        "9781419744105",
+        "9781683359029"
+      ]
+    },
+    {
+      "label": "Shohei Ohtani",
+      "isbns": [
+        "9781728467023",
+        "9781728467047"
+      ]
+    },
+    {
+      "label": "The Last Cuentista",
+      "isbns": [
+        "9781646140893",
+        "9781646142187"
+      ]
+    },
+    {
+      "label": "Temple Alley Summer",
+      "isbns": [
+        "9781632063038",
+        "9781632063045"
+      ]
+    },
+    {
+      "label": "The Power of Yet",
+      "isbns": [
+        "9781419740039",
+        "9781683357346"
+      ]
+    },
+    {
+      "label": "A Year of Everyday Wonders",
+      "isbns": [
+        "9781419742088",
+        "9781647001551"
+      ]
+    },
+    {
+      "label": "Fashionability, Exhibition Culture and Gender Politics",
+      "isbns": [
+        "9780367502751",
+        "9781351027762"
+      ]
+    },
+    {
+      "label": "Vegetables in Halloween Costumes",
+      "isbns": [
+        "9781419746741",
+        "9781647001476"
+      ]
+    },
+    {
+      "label": "The Best Sound in the World",
+      "isbns": [
+        "9780711252134",
+        "9780711252899"
+      ]
+    },
+    {
+      "label": "ABCs on Skis",
+      "isbns": [
+        "9781634408868",
+        "9781634408882"
+      ]
+    },
+    {
+      "label": "Pop Flies, Robo-Pets, and Other Disasters",
+      "isbns": [
+        "9781947159365",
+        "9781947159396"
+      ]
+    },
+    {
+      "label": "ABCs at the Haunted House",
+      "isbns": [
+        "9781634408769",
+        "9781634408783"
+      ]
+    },
+    {
+      "label": "Mr. Putter & Tabby See the Stars",
+      "isbns": [
+        "9780152063665",
+        "9780547542416"
+      ]
+    },
+    {
+      "label": "The Star Shepherd",
+      "isbns": [
+        "9781492658207",
+        "9781492658214"
+      ]
+    },
+    {
+      "label": "Beyond Reasonable Doubt",
+      "isbns": [
+        "9781526606150",
+        "9781526606143"
+      ]
+    },
+    {
+      "label": "Toffee",
+      "isbns": [
+        "9781408868133",
+        "9781408868140"
+      ]
+    },
+    {
+      "label": "The Sound of the Hours",
+      "isbns": [
+        "9781408857359",
+        "9781408857366"
+      ]
+    },
+    {
+      "label": "Oliver Twist",
+      "isbns": [
+        "9781838577988"
+      ]
+    },
+    {
+      "label": "Three Cheers for Kid McGear!",
+      "isbns": [
+        "9781452155821",
+        "9781797204024"
+      ]
+    },
+    {
+      "label": "Detective Kubu Collection",
+      "isbns": [
+        "9781912374953"
+      ]
+    },
+    {
+      "label": "Brigantia",
+      "isbns": [
+        "9781784978211",
+        "9781788541886"
+      ]
+    },
+    {
+      "label": "Gunn's Avengers",
+      "isbns": [
+        "9780719829611",
+        "9780719829628"
+      ]
+    },
+    {
+      "label": "Last Chance in Laredo",
+      "isbns": [
+        "9780719829659",
+        "9780719829666"
+      ]
+    },
+    {
+      "label": "Unfinished Business",
+      "isbns": [
+        "9780719829734",
+        "9780719829741"
+      ]
+    },
+    {
+      "label": "Dark Horse",
+      "isbns": [
+        "9780719829932",
+        "9780719829949"
+      ]
+    },
+    {
+      "label": "The Pinfire Lady",
+      "isbns": [
+        "9780719829567",
+        "9780719829574"
+      ]
+    },
+    {
+      "label": "Gunman's Pledge",
+      "isbns": [
+        "9780719829581",
+        "9780719829598"
+      ]
+    },
+    {
+      "label": "Trooper Iron Eyes",
+      "isbns": [
+        "9780719829635",
+        "9780719829642"
+      ]
+    },
+    {
+      "label": "Silent Witness",
+      "isbns": [
+        "9780719829673",
+        "9780719829680"
+      ]
+    },
+    {
+      "label": "The Flames of Alvorado",
+      "isbns": [
+        "9780719829697",
+        "9780719829703"
+      ]
+    },
+    {
+      "label": "Double-Barrelled",
+      "isbns": [
+        "9780719829499",
+        "9780719829512"
+      ]
+    },
+    {
+      "label": "Deadly Carnage",
+      "isbns": [
+        "9780719829529",
+        "9780719829536"
+      ]
+    },
+    {
+      "label": "Gunsmoke Express",
+      "isbns": [
+        "9780719829543",
+        "9780719829550"
+      ]
+    },
+    {
+      "label": "Ambush on the Butterfield Trail",
+      "isbns": [
+        "9780719829970",
+        "9780719829987"
+      ]
+    },
+    {
+      "label": "Reign of Terror",
+      "isbns": [
+        "9780719829956",
+        "9780719829963"
+      ]
+    },
+    {
+      "label": "Pinfire Lady Strikes Back",
+      "isbns": [
+        "9780719829994",
+        "9780719830006"
+      ]
+    },
+    {
+      "label": "Past Master",
+      "isbns": [
+        "9781598536461",
+        "9781598536478"
+      ]
+    },
+    {
+      "label": "Paul, Big, and Small",
+      "isbns": [
+        "9781629726021",
+        "9781629737898"
+      ]
+    },
+    {
+      "label": "A Boy Like You",
+      "isbns": [
+        "9781534110465",
+        "9781534146259"
+      ]
+    },
+    {
+      "label": "Gittel's Journey",
+      "isbns": [
+        "9781419727474",
+        "9781683353690"
+      ]
+    },
+    {
+      "label": "Arrow’s Fall",
+      "isbns": [
+        "9781770414273",
+        "9781773052991"
+      ]
+    },
+    {
+      "label": "Murder in Bel-Air",
+      "isbns": [
+        "9781616959296",
+        "9781616959302"
+      ]
+    },
+    {
+      "label": "Badger's Perfect Garden",
+      "isbns": [
+        "9781534110007",
+        "9781534138339"
+      ]
+    },
+    {
+      "label": "Lives Laid Away",
+      "isbns": [
+        "9781616959593",
+        "9781616959609"
+      ]
+    },
+    {
+      "label": "The Great Shelby Holmes Meets Her Match",
+      "isbns": [
+        "9781408871492",
+        "9781408871508"
+      ]
+    },
+    {
+      "label": "The Lost Princess of Oz",
+      "isbns": [
+        "9781455446735"
+      ]
+    },
+    {
+      "label": "Dorothy and the Wizard in Oz",
+      "isbns": [
+        "9781455446704"
+      ]
+    },
+    {
+      "label": "The Scarecrow of Oz",
+      "isbns": [
+        "9781455300860"
+      ]
+    },
+    {
+      "label": "The Lost Prince",
+      "isbns": [
+        "9781455354993"
+      ]
+    },
+    {
+      "label": "The Dragon In The Library",
+      "isbns": [
+        "9781788000260",
+        "9781788001090"
+      ]
+    },
+    {
+      "label": "The Terrible Two Go Wild",
+      "isbns": [
+        "9781419721854",
+        "9781613120941"
+      ]
+    },
+    {
+      "label": "The Beast Player",
+      "isbns": [
+        "9781782691679",
+        "9781782691785"
+      ]
+    },
+    {
+      "label": "Once Upon a Magic Book",
+      "isbns": [
+        "9781786030733",
+        "9781786039187"
+      ]
+    },
+    {
+      "label": "The Mystery of the Colour Thief",
+      "isbns": [
+        "9781786698957",
+        "9781786698933"
+      ]
+    },
+    {
+      "label": "Big Foot and Little Foot (Book #1)",
+      "isbns": [
+        "9781419728594",
+        "9781683352433"
+      ]
+    },
+    {
+      "label": "Hero Vs. Villain",
+      "isbns": [
+        "9781419728259",
+        "9781683352730"
+      ]
+    },
+    {
+      "label": "An Elderly Lady Is Up to No Good",
+      "isbns": [
+        "9781641290111",
+        "9781641290128"
+      ]
+    },
+    {
+      "label": "To Die But Once",
+      "isbns": [
+        "9780749022242",
+        "9780749022297"
+      ]
+    },
+    {
+      "label": "I, Claudia",
+      "isbns": [
+        "9781512448467",
+        "9781541523753"
+      ]
+    },
+    {
+      "label": "Solemn Graves",
+      "isbns": [
+        "9781616958497",
+        "9781616958503"
+      ]
+    }
+  ]
+}
