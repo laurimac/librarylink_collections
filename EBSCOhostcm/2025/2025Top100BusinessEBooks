@@ -1,27 +1,507 @@
 {
-  "label": "2025 Top 100 EBSCO Business eBooks",
-  "description": "Top 100 business EBSCO eBooks purchased by libraries in 2025",
-  "list": [
+  "description": "Top 100 business EBSCO eBooks purchased in 2025",
+  "collection": "2025Top100BusinesseBooks",
+  "count": 100,
+  "items": [
     {
-      "label": "Changing on the Job, Second Edition",
-      "isbns": [
-        "9781503640245",
-        "9781503641525"
-      ]
+      "title": "Changing on the Job, Second Edition",
+      "isbn": "9781503640245",
+      "eisbn": "9781503641525"
     },
     {
-      "label": "How to Read a Financial Report",
-      "isbns": [
-        "9781394268696",
-        "9781394268702"
-      ]
+      "title": "How to Read a Financial Report",
+      "isbn": "9781394268696",
+      "eisbn": "9781394268702"
     },
     {
-      "label": "Leading Outside Your Comfort Zone",
-      "isbns": [
-        "9781503640528",
-        "9781503641013"
-      ]
+      "title": "Leading Outside Your Comfort Zone",
+      "isbn": "9781503640528",
+      "eisbn": "9781503641013"
+    },
+    {
+      "title": "The Art of Small Business Social Media",
+      "isbn": "9781538192993",
+      "eisbn": "9781538193006"
+    },
+    {
+      "title": "Difficult Conversations",
+      "isbn": "9780143137597",
+      "eisbn": "9780593511695"
+    },
+    {
+      "title": "The Fearless Organization",
+      "isbn": "9781119477242",
+      "eisbn": "9781119477228"
+    },
+    {
+      "title": "Little Bosses Everywhere",
+      "isbn": "9780593443927",
+      "eisbn": "9780593443934"
+    },
+    {
+      "title": "Navigating Leadership",
+      "isbn": "9781032455365",
+      "eisbn": "9781003377450"
+    },
+    {
+      "title": "10 to 25",
+      "isbn": "9781668023884",
+      "eisbn": "9781668023907"
+    },
+    {
+      "title": "Leading Change, With a New Preface by the Author",
+      "isbn": "9781422186435",
+      "eisbn": "9781422186442"
+    },
+    {
+      "title": "Valuation",
+      "isbn": "9781394279418",
+      "eisbn": "9781394279425"
+    },
+    {
+      "title": "Marketing Fashion Third Edition",
+      "isbn": "9781529420326",
+      "eisbn": "9781529420333"
+    },
+    {
+      "title": "Introduction to Business Management 12e",
+      "isbn": "9780190739614",
+      "eisbn": "9780190751807"
+    },
+    {
+      "title": "Cases and Exercises on Sustainability Accounting",
+      "isbn": "9781035330591",
+      "eisbn": "9781035330607"
+    },
+    {
+      "title": "Investment Valuation",
+      "isbn": "9781394254606",
+      "eisbn": "9781394254613"
+    },
+    {
+      "title": "The Power of Mattering",
+      "isbn": "9798892790123",
+      "eisbn": "9798892790130"
+    },
+    {
+      "title": "The Empathy Advantage",
+      "isbn": "9781394155514",
+      "eisbn": "9781394155521"
+    },
+    {
+      "title": "StrengthsFinder 2.0",
+      "isbn": "9781595620156",
+      "eisbn": "9781595620767"
+    },
+    {
+      "title": "Risk Management and Financial Institutions",
+      "isbn": "9781119932482",
+      "eisbn": "9781119932499"
+    },
+    {
+      "title": "Financial Accounting and Reporting",
+      "isbn": "9781292739137",
+      "eisbn": "9781292739144"
+    },
+    {
+      "title": "Fixed",
+      "isbn": "9780691263298",
+      "eisbn": "9780691263311"
+    },
+    {
+      "title": "Innovation Management",
+      "isbn": "9781350337961",
+      "eisbn": "9781350337992"
+    },
+    {
+      "title": "The Economics of Accounting",
+      "isbn": "9780197680766",
+      "eisbn": "9780197680773"
+    },
+    {
+      "title": "Fintech Explained",
+      "isbn": "9781487544089",
+      "eisbn": "9781487544102"
+    },
+    {
+      "title": "Accounting and Finance for Non-Specialists",
+      "isbn": "9781292738666",
+      "eisbn": "9781292738635"
+    },
+    {
+      "title": "Investment Valuation, University Edition",
+      "isbn": "9781394262731",
+      "eisbn": "9781394262748"
+    },
+    {
+      "title": "Valuation: Measuring and Managing the Value of Companies, University Edition",
+      "isbn": "9781394279470",
+      "eisbn": "9781394279487"
+    },
+    {
+      "title": "Press Play",
+      "isbn": "9781647826154",
+      "eisbn": "9781647826161"
+    },
+    {
+      "title": "Contemporary Finance",
+      "isbn": "9781394179626",
+      "eisbn": "9781394179633"
+    },
+    {
+      "title": "Any Happy Returns",
+      "isbn": "9781394210350",
+      "eisbn": "9781394210367"
+    },
+    {
+      "title": "The Jossey-Bass Handbook of Nonprofit Leadership and Management",
+      "isbn": "9781394198863",
+      "eisbn": "9781394198870"
+    },
+    {
+      "title": "Marketing Plans",
+      "isbn": "9781394177103",
+      "eisbn": "9781394187300"
+    },
+    {
+      "title": "Advertising Account Planning",
+      "isbn": "9781538192467",
+      "eisbn": "9781538192870"
+    },
+    {
+      "title": "Leadership Theories, Frameworks, and Approaches in Practice",
+      "isbn": "9781837089499",
+      "eisbn": "9781837089482"
+    },
+    {
+      "title": "The Leadership Spectrum",
+      "isbn": "9783031735561",
+      "eisbn": "9783031735578"
+    },
+    {
+      "title": "City Branding",
+      "isbn": "9781035347537",
+      "eisbn": "9781035347544"
+    },
+    {
+      "title": "Global Marketing",
+      "isbn": "9781292440811",
+      "eisbn": "9781292440835"
+    },
+    {
+      "title": "Retailmarketing",
+      "isbn": "9789001035112",
+      "eisbn": "9789001035198"
+    },
+    {
+      "title": "Finance Aesthetics",
+      "isbn": "9781915983190",
+      "eisbn": "9781915983206"
+    },
+    {
+      "title": "Strategic Management: Towards Sustainable Strategies in Southern Africa 5e",
+      "isbn": "9780190754013",
+      "eisbn": "9780190743000"
+    },
+    {
+      "title": "Venture Capital and the Finance of Innovation, 3rd Edition",
+      "isbn": "9781119490111",
+      "eisbn": "9781119494355"
+    },
+    {
+      "title": "Wiley GAAP 2025",
+      "isbn": "9781394199747",
+      "eisbn": "9781394199754"
+    },
+    {
+      "title": "HBR Guide to Retaining Your Best People",
+      "isbn": "9798892790888",
+      "eisbn": "9798892790895"
+    },
+    {
+      "title": "Financial Management",
+      "isbn": "9781998963133",
+      "eisbn": "9781998963140"
+    },
+    {
+      "title": "The Corporate Life Cycle",
+      "isbn": "9780593545065",
+      "eisbn": "9780593545072"
+    },
+    {
+      "title": "Decoding Digital Assets",
+      "isbn": "9783031546006",
+      "eisbn": "9783031546013"
+    },
+    {
+      "title": "A Concepts-Based Introduction to Financial Accounting 7e",
+      "isbn": "9781485132776",
+      "eisbn": "9781485132783"
+    },
+    {
+      "title": "Human Resource Management 11e",
+      "isbn": "9780190735166",
+      "eisbn": "9780190753559"
+    },
+    {
+      "title": "Good to Great",
+      "isbn": "9780066620992",
+      "eisbn": "9780062119209"
+    },
+    {
+      "title": "Financial Reporting, 5th Edition",
+      "isbn": "9781394328130",
+      "eisbn": "9781394328147"
+    },
+    {
+      "title": "Technological Horizons",
+      "isbn": "9781836087571",
+      "eisbn": "9781836087564"
+    },
+    {
+      "title": "Elgar Encyclopedia of Critical Management Studies",
+      "isbn": "9781800377714",
+      "eisbn": "9781800377721"
+    },
+    {
+      "title": "The Digital Paradigm Shift for a New Business DNA",
+      "isbn": "9783031762376",
+      "eisbn": "9783031762383"
+    },
+    {
+      "title": "HBR's 10 Must Reads on Employee Engagement (featuring \"The Power of Hidden Teams\" by Marcus Buckingham and Ashley Goodall)",
+      "isbn": "9798892790949",
+      "eisbn": "9798892790956"
+    },
+    {
+      "title": "Financial Accounting: An Introduction, 6e",
+      "isbn": "9780190735630",
+      "eisbn": "9780190749026"
+    },
+    {
+      "title": "Gripping GAAP 2024 / 25",
+      "isbn": "9781776177585",
+      "eisbn": "9781776177653"
+    },
+    {
+      "title": "To Lead by Obeying",
+      "isbn": "9781433196751",
+      "eisbn": "9781433196737"
+    },
+    {
+      "title": "Marketing Strategy and Competitive Positioning",
+      "isbn": "9781292725017",
+      "eisbn": "9781292456720"
+    },
+    {
+      "title": "The Digital Marketing Handbook",
+      "isbn": "9781529431476",
+      "eisbn": "9781529431483"
+    },
+    {
+      "title": "Graded Questions on Auditing 2025",
+      "isbn": "9780639015538",
+      "eisbn": "9780639015545"
+    },
+    {
+      "title": "The Making of Modern Corporate Finance",
+      "isbn": null,
+      "eisbn": "9780231558747"
+    },
+    {
+      "title": "The Future of Islamic Finance",
+      "isbn": "9781835499078",
+      "eisbn": "9781835499061"
+    },
+    {
+      "title": "The Investment Philosophers",
+      "isbn": null,
+      "eisbn": "9780231563550"
+    },
+    {
+      "title": "Financial Statement Analysis for Value Investing",
+      "isbn": null,
+      "eisbn": "9780231560924"
+    },
+    {
+      "title": "Integraal Management",
+      "isbn": "9789001054069",
+      "eisbn": "9789001054076"
+    },
+    {
+      "title": "Unraveling Management",
+      "isbn": "9781805396925",
+      "eisbn": "9781805396932"
+    },
+    {
+      "title": "Performance Feedback Strategies",
+      "isbn": "9781957157863",
+      "eisbn": "9781957157887"
+    },
+    {
+      "title": "Human Resource Management",
+      "isbn": "9781292460857",
+      "eisbn": "9781292729077"
+    },
+    {
+      "title": "Business and Management in the Age of Intangible Capitalism",
+      "isbn": "9781637427187",
+      "eisbn": "9781637427194"
+    },
+    {
+      "title": "Triple Fit Strategy",
+      "isbn": "9781647827144",
+      "eisbn": "9781647827151"
+    },
+    {
+      "title": "Finance",
+      "isbn": "9781032381602",
+      "eisbn": "9781000849868"
+    },
+    {
+      "title": "Artificial Intelligence in Accounting",
+      "isbn": "9781032055626",
+      "eisbn": "9781000627329"
+    },
+    {
+      "title": "Investment Banking",
+      "isbn": "9781119867876",
+      "eisbn": "9781119867883"
+    },
+    {
+      "title": "Leadership on the Line, With a New Preface",
+      "isbn": "9781633692831",
+      "eisbn": "9781633692848"
+    },
+    {
+      "title": "Applied Corporate Finance, 4th Edition",
+      "isbn": "9781118808931",
+      "eisbn": "9781118918562"
+    },
+    {
+      "title": "The Improvement Guide",
+      "isbn": "9780470192412",
+      "eisbn": "9780470430880"
+    },
+    {
+      "title": "Public Value Accounting and Accountability",
+      "isbn": "9781837975372",
+      "eisbn": "9781837975365"
+    },
+    {
+      "title": "HBR's 10 Must Reads on Emotional Intelligence, Updated and Expanded (featuring \"What Makes a Leader\" by Daniel Goleman)",
+      "isbn": "9798892791854",
+      "eisbn": "9798892791861"
+    },
+    {
+      "title": "Emotionally Charged",
+      "isbn": "9780197750155",
+      "eisbn": "9780197750162"
+    },
+    {
+      "title": "Marketing for the Health and Fitness Industry",
+      "isbn": "9781839829055",
+      "eisbn": "9781839829048"
+    },
+    {
+      "title": "Social Media Marketing for Your Business, Second Edition",
+      "isbn": "9780867188172",
+      "eisbn": "9780867188189"
+    },
+    {
+      "title": "A History of Brands",
+      "isbn": "9780760395172",
+      "eisbn": "9780760395189"
+    },
+    {
+      "title": "International Management: Multinationals and Their Challenges",
+      "isbn": "9781837112685",
+      "eisbn": "9781837112692"
+    },
+    {
+      "title": "Valuation Workbook",
+      "isbn": "9781394279449",
+      "eisbn": "9781394279456"
+    },
+    {
+      "title": "Boom to Backlash",
+      "isbn": "9781394351459",
+      "eisbn": "9781394351466"
+    },
+    {
+      "title": "Strategic Management: Concepts ISE",
+      "isbn": "9781266191862",
+      "eisbn": "9781266302565"
+    },
+    {
+      "title": "Developing Leaders and Leadership",
+      "isbn": "9783031590672",
+      "eisbn": "9783031590689"
+    },
+    {
+      "title": "Leading Through",
+      "isbn": "9781647827618",
+      "eisbn": "9781647827625"
+    },
+    {
+      "title": "Toxic Leaders and Tough Bosses",
+      "isbn": "9783111201108",
+      "eisbn": "9783111201771"
+    },
+    {
+      "title": "Cost and Management Accounting 4/e",
+      "isbn": "9780627039003",
+      "eisbn": "9780627039010"
+    },
+    {
+      "title": "Financial Markets and Institutions, Global Edition",
+      "isbn": "9781292459547",
+      "eisbn": "9781292459530"
+    },
+    {
+      "title": "Venture Deals",
+      "isbn": "9781119594826",
+      "eisbn": "9781119594840"
+    },
+    {
+      "title": "Advances in Management Accounting",
+      "isbn": "9781836624912",
+      "eisbn": "9781836624905"
+    },
+    {
+      "title": "Financial Data Analytics with Machine Learning, Optimization and Statistics",
+      "isbn": "9781119863373",
+      "eisbn": "9781119863397"
+    },
+    {
+      "title": "HBR's 10 Must Reads on Leading Winning Teams (featuring \"Tom Brady on the Art of Leading Teammates\" by Tom Brady and Nitin Nohria)",
+      "isbn": "9798892791427",
+      "eisbn": "9798892791434"
+    },
+    {
+      "title": "The Win-Win Workplace",
+      "isbn": "9798890570543",
+      "eisbn": "9798890570550"
+    },
+    {
+      "title": "Marketing 5.0",
+      "isbn": "9781837978168",
+      "eisbn": "9781837978151"
+    },
+    {
+      "title": "HBR's 10 Must Reads on Leading with Purpose (featuring \"Creating a Purpose-Driven Organization\" by Robert E. Quinn and Anjan V. Thakor)",
+      "isbn": "9798892790970",
+      "eisbn": "9798892790987"
+    },
+    {
+      "title": "Advances in Digital Marketing in the Era of Artificial Intelligence",
+      "isbn": "9781032585116",
+      "eisbn": "9781003450443"
+    },
+    {
+      "title": "Contemporary Management Principles 3e",
+      "isbn": "9781485160045",
+      "eisbn": "9781485160052"
     }
   ]
 }
