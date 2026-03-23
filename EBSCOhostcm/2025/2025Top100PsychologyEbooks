@@ -1,505 +1,504 @@
 {
   "description": "Top 100 Psychology EBSCO eBooks purchased in 2025",
-  "collection": "2025 Top 100 Psychology eBooks",
-  "count": 100,
+  "label": "2025 Top 100 Psychology eBooks",
   "items": [
     {
-      "title": "Addiction",
+      "label": "Addiction",
       "isbn": "9780190946548",
       "eisbn": "9780190946562"
     },
     {
-      "title": "The ACT Workbook for OCD",
+      "label": "The ACT Workbook for OCD",
       "isbn": "9781684032891",
       "eisbn": "9781684032907"
     },
     {
-      "title": "The Unbiased Self",
+      "label": "The Unbiased Self",
       "isbn": "9781514009765",
       "eisbn": "9781514009772"
     },
     {
-      "title": "Transformative Social and Emotional Learning: Centering Equity and Social Justice in Pre-Kâ€“6 Classrooms",
+      "label": "Transformative Social and Emotional Learning: Centering Equity and Social Justice in Pre-Kâ€“6 Classrooms",
       "isbn": "9780807787069",
       "eisbn": "9780807783061"
     },
     {
-      "title": "False",
+      "label": "False",
       "isbn": "9780197765272",
       "eisbn": "9780197765289"
     },
     {
-      "title": "The Social Biome",
+      "label": "The Social Biome",
       "isbn": "9780300272147",
       "eisbn": "9780300281507"
     },
     {
-      "title": "The Nature of Nurture",
+      "label": "The Nature of Nurture",
       "isbn": "9780674297197",
       "eisbn": "9780674303973"
     },
     {
-      "title": "Freedom to Heal",
+      "label": "Freedom to Heal",
       "isbn": "9781514007518",
       "eisbn": "9781514007525"
     },
     {
-      "title": "Art Therapy for Racial Trauma, Microaggressions and Inequality",
+      "label": "Art Therapy for Racial Trauma, Microaggressions and Inequality",
       "isbn": "9781839978333",
       "eisbn": "9781839978340"
     },
     {
-      "title": "Queer Minds",
+      "label": "Queer Minds",
       "isbn": "9781805011811",
       "eisbn": "9781805011828"
     },
     {
-      "title": "Handbook of Social and Emotional Learning",
+      "label": "Handbook of Social and Emotional Learning",
       "isbn": "9781462555628",
       "eisbn": "9781462555659"
     },
     {
-      "title": "Dismantling White Supremacy in Counseling",
+      "label": "Dismantling White Supremacy in Counseling",
       "isbn": "9781837974931",
       "eisbn": "9781837974924"
     },
     {
-      "title": "Talk",
+      "label": "Talk",
       "isbn": "9780593443491",
       "eisbn": "9780593443507"
     },
     {
-      "title": "Fanatic",
+      "label": "Fanatic",
       "isbn": "9780197783863",
       "eisbn": "9780197783870"
     },
     {
-      "title": "A Concise Guide to Borderline Personality Disorder",
+      "label": "A Concise Guide to Borderline Personality Disorder",
       "isbn": "9781433844034",
       "eisbn": "9781433844041"
     },
     {
-      "title": "The Latinx Guide to Liberation",
+      "label": "The Latinx Guide to Liberation",
       "isbn": "9781805010210",
       "eisbn": "9781805010227"
     },
     {
-      "title": "Parasocial Experiences",
+      "label": "Parasocial Experiences",
       "isbn": "9780197647646",
       "eisbn": "9780197647653"
     },
     {
-      "title": "Ontwikkelingspsychologie",
+      "label": "Ontwikkelingspsychologie",
       "isbn": "9789001048594",
       "eisbn": "9789001048679"
     },
     {
-      "title": "Introduction à la psychologie interculturelle",
+      "label": "Introduction à la psychologie interculturelle",
       "isbn": "9782807308374",
       "eisbn": "9782807340497"
     },
     {
-      "title": "Health Behavior Change and Treatment Adherence",
+      "label": "Health Behavior Change and Treatment Adherence",
       "isbn": "9780197778586",
       "eisbn": "9780197778593"
     },
     {
-      "title": "The Impostor Phenomenon",
+      "label": "The Impostor Phenomenon",
       "isbn": "9781433841439",
       "eisbn": "9781433841446"
     },
     {
-      "title": "The Handbook of Trauma-Transformative Practice",
+      "label": "The Handbook of Trauma-Transformative Practice",
       "isbn": "9781787755772",
       "eisbn": "9781787755789"
     },
     {
-      "title": "The Narrative Brain",
+      "label": "The Narrative Brain",
       "isbn": "9780300273809",
       "eisbn": "9780300281262"
     },
     {
-      "title": "Mastery",
+      "label": "Mastery",
       "isbn": "9781541601925",
       "eisbn": "9781541601932"
     },
     {
-      "title": "Dreaming Reality",
+      "label": "Dreaming Reality",
       "isbn": "9780674271869",
       "eisbn": "9780674299559"
     },
     {
-      "title": "Addressing Problematic Sexual Behaviors in Children",
+      "label": "Addressing Problematic Sexual Behaviors in Children",
       "isbn": "9781538197899",
       "eisbn": "9781538197912"
     },
     {
-      "title": "The Burden of Sports",
+      "label": "The Burden of Sports",
       "isbn": "9781538175538",
       "eisbn": "9781538175545"
     },
     {
-      "title": "Narrative Exposure Therapy (NET) For Survivors of Traumatic Stress",
+      "label": "Narrative Exposure Therapy (NET) For Survivors of Traumatic Stress",
       "isbn": "9780889375956",
       "eisbn": "9781613345955"
     },
     {
-      "title": "Morbidly Curious",
+      "label": "Morbidly Curious",
       "isbn": "9780143137344",
       "eisbn": "9780593511299"
     },
     {
-      "title": "Decolonizing Trauma Healing",
+      "label": "Decolonizing Trauma Healing",
       "isbn": "9781433840630",
       "eisbn": "9781433840647"
     },
     {
-      "title": "Psychological Processes in Social Media",
+      "label": "Psychological Processes in Social Media",
       "isbn": "9780128113202",
       "eisbn": "9780128113219"
     },
     {
-      "title": "Counseling With Immigrants, Refugees, and Their Families From Social Justice Perspectives",
+      "label": "Counseling With Immigrants, Refugees, and Their Families From Social Justice Perspectives",
       "isbn": "9781394222933",
       "eisbn": "9781394222957"
     },
     {
-      "title": "Substance Use Disorders in Underserved Ethnic and Racial Groups",
+      "label": "Substance Use Disorders in Underserved Ethnic and Racial Groups",
       "isbn": "9781433836589",
       "eisbn": "9781433843303"
     },
     {
-      "title": "The War for Kindness",
+      "label": "The War for Kindness",
       "isbn": "9780451499240",
       "eisbn": "9780451499264"
     },
     {
-      "title": "Counseling Individuals with Eating Disorders: An Intersectional Approach",
+      "label": "Counseling Individuals with Eating Disorders: An Intersectional Approach",
       "isbn": "9798887308593",
       "eisbn": "9781837085767"
     },
     {
-      "title": "Mattering As a Core Need in Children and Adolescents",
+      "label": "Mattering As a Core Need in Children and Adolescents",
       "isbn": "9781433842788",
       "eisbn": "9781433842795"
     },
     {
-      "title": "Psychosocial Theories of Human Behavior and Development",
+      "label": "Psychosocial Theories of Human Behavior and Development",
       "isbn": "9781538194348",
       "eisbn": "9781538194362"
     },
     {
-      "title": "Making Connections with Vulnerable Children and Families",
+      "label": "Making Connections with Vulnerable Children and Families",
       "isbn": "9781787757943",
       "eisbn": "9781787757950"
     },
     {
-      "title": "Contemporary Issues on Adolescents and Counseling",
+      "label": "Contemporary Issues on Adolescents and Counseling",
       "isbn": "9781636672243",
       "eisbn": "9781636670690"
     },
     {
-      "title": "Treating Adult Children of Emotionally Immature Parents",
+      "label": "Treating Adult Children of Emotionally Immature Parents",
       "isbn": "9781648483592",
       "eisbn": "9781648483608"
     },
     {
-      "title": "A Contemporary Approach to Substance Use Disorders and Addiction Counseling",
+      "label": "A Contemporary Approach to Substance Use Disorders and Addiction Counseling",
       "isbn": "9781394222735",
       "eisbn": "9781394222742"
     },
     {
-      "title": "Music Therapy with Displaced Persons",
+      "label": "Music Therapy with Displaced Persons",
       "isbn": "9781805013822",
       "eisbn": "9781805013839"
     },
     {
-      "title": "Cultural Humility",
+      "label": "Cultural Humility",
       "isbn": "9781433842863",
       "eisbn": "9781433842870"
     },
     {
-      "title": "Black Grief and Healing",
+      "label": "Black Grief and Healing",
       "isbn": "9781839973277",
       "eisbn": "9781839973284"
     },
     {
-      "title": "The Balanced Brain",
+      "label": "The Balanced Brain",
       "isbn": "9780691259635",
       "eisbn": "9780691259055"
     },
     {
-      "title": "Reframing Developmental Psychology",
+      "label": "Reframing Developmental Psychology",
       "isbn": "9781805920816",
       "eisbn": "9781805920809"
     },
     {
-      "title": "Essentials of Evaluating Bias in Intelligence Testing",
+      "label": "Essentials of Evaluating Bias in Intelligence Testing",
       "isbn": "9781394184477",
       "eisbn": "9781394184491"
     },
     {
-      "title": "Why Brains Need Friends",
+      "label": "Why Brains Need Friends",
       "isbn": "9780593850848",
       "eisbn": "9780593850855"
     },
     {
-      "title": "The Fear Knot",
+      "label": "The Fear Knot",
       "isbn": "9781493085590",
       "eisbn": "9781493085606"
     },
     {
-      "title": "Our New Social Life",
+      "label": "Our New Social Life",
       "isbn": "9780197749951",
       "eisbn": "9780197749968"
     },
     {
-      "title": "Treating Traumatic Loss",
+      "label": "Treating Traumatic Loss",
       "isbn": "9781648484353",
       "eisbn": "9781648484360"
     },
     {
-      "title": "The Trauma Recovery Handbook",
+      "label": "The Trauma Recovery Handbook",
       "isbn": "9781805012023",
       "eisbn": "9781805012030"
     },
     {
-      "title": "Creative Counselling with Adults",
+      "label": "Creative Counselling with Adults",
       "isbn": "9781839978357",
       "eisbn": "9781839978364"
     },
     {
-      "title": "Play Therapy",
+      "label": "Play Therapy",
       "isbn": "9781394221554",
       "eisbn": "9781394221561"
     },
     {
-      "title": "Equity-Centered Trauma-Informed Education",
+      "label": "Equity-Centered Trauma-Informed Education",
       "isbn": "9781032597133",
       "eisbn": "9781003845065"
     },
     {
-      "title": "Mental Health Practice with LGBTQ+ Children, Adolescents, and Emerging Adults in Multiple Systems of Care",
+      "label": "Mental Health Practice with LGBTQ+ Children, Adolescents, and Emerging Adults in Multiple Systems of Care",
       "isbn": "9781538154465",
       "eisbn": "9781538154489"
     },
     {
-      "title": "Trauma and Crisis Counseling",
+      "label": "Trauma and Crisis Counseling",
       "isbn": "9781032803524",
       "eisbn": "9781003496557"
     },
     {
-      "title": "The Client's Guide to Therapy",
+      "label": "The Client's Guide to Therapy",
       "isbn": null,
       "eisbn": "9781514008836"
     },
     {
-      "title": "Trauma Impacts",
+      "label": "Trauma Impacts",
       "isbn": "9781394170098",
       "eisbn": "9781394170623"
     },
     {
-      "title": "An Illustrated Guide to Clinical Psychology",
+      "label": "An Illustrated Guide to Clinical Psychology",
       "isbn": "9781805010043",
       "eisbn": "9781805010050"
     },
     {
-      "title": "Shame and Anger in Psychotherapy",
+      "label": "Shame and Anger in Psychotherapy",
       "isbn": "9781433838965",
       "eisbn": "9781433838972"
     },
     {
-      "title": "A Therapistâ€™s Guide to Neurodiversity Affirming Practice with Children and Young People",
+      "label": "A Therapistâ€™s Guide to Neurodiversity Affirming Practice with Children and Young People",
       "isbn": "9781839975851",
       "eisbn": "9781839975868"
     },
     {
-      "title": "The Interpersonal Situation",
+      "label": "The Interpersonal Situation",
       "isbn": "9781433843471",
       "eisbn": "9781433843488"
     },
     {
-      "title": "The Neurodiversity Affirmative Child Autism Assessment Handbook",
+      "label": "The Neurodiversity Affirmative Child Autism Assessment Handbook",
       "isbn": "9781805011651",
       "eisbn": "9781805011682"
     },
     {
-      "title": "Relationship Counselling with Autistic Neurodiverse Couples",
+      "label": "Relationship Counselling with Autistic Neurodiverse Couples",
       "isbn": "9781805013020",
       "eisbn": "9781805013037"
     },
     {
-      "title": "Getting to Know You: Lessons in Early Relational Health From Infants and Caregivers",
+      "label": "Getting to Know You: Lessons in Early Relational Health From Infants and Caregivers",
       "isbn": "9780807786536",
       "eisbn": "9780807782804"
     },
     {
-      "title": "The Paradox of Mental Health",
+      "label": "The Paradox of Mental Health",
       "isbn": "9798881802233",
       "eisbn": "9798881802257"
     },
     {
-      "title": "Artful Grieving",
+      "label": "Artful Grieving",
       "isbn": "9781805013693",
       "eisbn": "9781805013709"
     },
     {
-      "title": "The Science of Change",
+      "label": "The Science of Change",
       "isbn": "9780197765111",
       "eisbn": "9780197765128"
     },
     {
-      "title": "Humorous Actions, Play and Rules",
+      "label": "Humorous Actions, Play and Rules",
       "isbn": "9798887308067",
       "eisbn": "9798887308081"
     },
     {
-      "title": "Anatomy of a Train Wreck",
+      "label": "Anatomy of a Train Wreck",
       "isbn": "9780226836935",
       "eisbn": "9780226836942"
     },
     {
-      "title": "Child Psychology",
+      "label": "Child Psychology",
       "isbn": "9781119861188",
       "eisbn": "9781119861201"
     },
     {
-      "title": "Merging Clinical Social Work Practice and Antiracist Positioning",
+      "label": "Merging Clinical Social Work Practice and Antiracist Positioning",
       "isbn": "9781636673066",
       "eisbn": "9781636673073"
     },
     {
-      "title": "Handbook on Animal-Assisted Therapy",
+      "label": "Handbook on Animal-Assisted Therapy",
       "isbn": "9780443223464",
       "eisbn": "9780443223471"
     },
     {
-      "title": "Toxic Stress",
+      "label": "Toxic Stress",
       "isbn": "9781009306584",
       "eisbn": "9781009306560"
     },
     {
-      "title": "Facing Suicide",
+      "label": "Facing Suicide",
       "isbn": "9780593539156",
       "eisbn": "9780593539163"
     },
     {
-      "title": "Working with Relational Trauma in Children's Residential Care",
+      "label": "Working with Relational Trauma in Children's Residential Care",
       "isbn": "9781787755598",
       "eisbn": "9781787755604"
     },
     {
-      "title": "Children of Color in the Child Welfare System",
+      "label": "Children of Color in the Child Welfare System",
       "isbn": "9781433833120",
       "eisbn": "9781433833380"
     },
     {
-      "title": "Half in Love with Death",
+      "label": "Half in Love with Death",
       "isbn": "9781032335063",
       "eisbn": "9781000909357"
     },
     {
-      "title": "Working Within Diversity",
+      "label": "Working Within Diversity",
       "isbn": "9781839970986",
       "eisbn": "9781839970993"
     },
     {
-      "title": "Myths of Trauma",
+      "label": "Myths of Trauma",
       "isbn": "9780197615768",
       "eisbn": "9780197615775"
     },
     {
-      "title": "Dopamine Nation",
+      "label": "Dopamine Nation",
       "isbn": "9781524746728",
       "eisbn": "9781524746735"
     },
     {
-      "title": "The Psychology of Innovation",
+      "label": "The Psychology of Innovation",
       "isbn": "9781036443269",
       "eisbn": "9781036443276"
     },
     {
-      "title": "Growth, Maturation, Physical Activity, and Sport",
+      "label": "Growth, Maturation, Physical Activity, and Sport",
       "isbn": "9781718212282",
       "eisbn": "9781718212299"
     },
     {
-      "title": "Dismantling the Death Penalty",
+      "label": "Dismantling the Death Penalty",
       "isbn": "9780197515556",
       "eisbn": "9780197515563"
     },
     {
-      "title": "From Discrimination to Inclusion",
+      "label": "From Discrimination to Inclusion",
       "isbn": "9781666946499",
       "eisbn": "9781666946505"
     },
     {
-      "title": "ADHD Coaching",
+      "label": "ADHD Coaching",
       "isbn": "9781433843723",
       "eisbn": "9781433843730"
     },
     {
-      "title": "Queer and Animal Provocations",
+      "label": "Queer and Animal Provocations",
       "isbn": "9781666944754",
       "eisbn": "9781666944761"
     },
     {
-      "title": "Solution-Focused Brief Therapy With Families",
+      "label": "Solution-Focused Brief Therapy With Families",
       "isbn": "9781433841804",
       "eisbn": "9781433841811"
     },
     {
-      "title": "How to Respond to Sexualized Acts",
+      "label": "How to Respond to Sexualized Acts",
       "isbn": "9781805010104",
       "eisbn": "9781805010111"
     },
     {
-      "title": "Het palet van de psychologie",
+      "label": "Het palet van de psychologie",
       "isbn": "9789046909041",
       "eisbn": "9789046973400"
     },
     {
-      "title": "The Remaking of Memory in the Age of the Internet and Social Media",
+      "label": "The Remaking of Memory in the Age of the Internet and Social Media",
       "isbn": "9780197661260",
       "eisbn": "9780197661277"
     },
     {
-      "title": "Latin American Cultural and Musical Contexts in Music Therapy",
+      "label": "Latin American Cultural and Musical Contexts in Music Therapy",
       "isbn": "9781839973062",
       "eisbn": "9781839973079"
     },
     {
-      "title": "The Psychology of Trauma",
+      "label": "The Psychology of Trauma",
       "isbn": "9781032637228",
       "eisbn": "9781032637242"
     },
     {
-      "title": "Child Development at the Intersection of Emotion and Cognition",
+      "label": "Child Development at the Intersection of Emotion and Cognition",
       "isbn": "9781433837227",
       "eisbn": "9781433837234"
     },
     {
-      "title": "Personality Disorders",
+      "label": "Personality Disorders",
       "isbn": "9781421446103",
       "eisbn": "9781421446110"
     },
     {
-      "title": "Healing the Soul Wound: Trauma-Informed Counseling for Indigenous Communities",
+      "label": "Healing the Soul Wound: Trauma-Informed Counseling for Indigenous Communities",
       "isbn": "9780807761397",
       "eisbn": "9780807778111"
     },
     {
-      "title": "Buddhist Psychotherapy",
+      "label": "Buddhist Psychotherapy",
       "isbn": "9781433841637",
       "eisbn": "9781433841644"
     },
     {
-      "title": "Psychologie en sociologie",
+      "label": "Psychologie en sociologie",
       "isbn": "9789001048884",
       "eisbn": "9789001048891"
     },
     {
-      "title": "Psychology in Schools: An Introduction to the Theoretical and Practical Foundations",
+      "label": "Psychology in Schools: An Introduction to the Theoretical and Practical Foundations",
       "isbn": "9781804415870",
       "eisbn": "9781804415887"
     }
