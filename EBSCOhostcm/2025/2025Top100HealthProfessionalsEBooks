@@ -1,505 +1,504 @@
 {
   "description": "Top 100 health professions EBSCO eBooks purchased by libraries in 2025",
   "label": "2025 Top 100 Health Professionals eBooks",
-  "count": 100,
-  "items": [
+  "list": [
     {
-      "title": "Code of Ethics for Nurses",
+      "label": "Code of Ethics for Nurses",
       "isbn": "9781963052237",
       "eisbn": "9781963052244"
     },
     {
-      "title": "Johns Hopkins Evidence-Based Practice for Nurses and Healthcare Professionals: Model & Guidelines, Fifth Edition",
+      "label": "Johns Hopkins Evidence-Based Practice for Nurses and Healthcare Professionals: Model & Guidelines, Fifth Edition",
       "isbn": null,
       "eisbn": "9781646481880"
     },
     {
-      "title": "ASPEN Adult Nutrition Support Core Curriculum, 4th Edition",
+      "label": "ASPEN Adult Nutrition Support Core Curriculum, 4th Edition",
       "isbn": "9781889622583",
       "eisbn": "9781889622590"
     },
     {
-      "title": "Nursing Care Plans",
+      "label": "Nursing Care Plans",
       "isbn": "9781719647465",
       "eisbn": "9781719653343"
     },
     {
-      "title": "Davis's Drug Guide for Nurses",
+      "label": "Davis's Drug Guide for Nurses",
       "isbn": "9781719650038",
       "eisbn": "9781719652926"
     },
     {
-      "title": "Nursing Theories and Nursing Practice",
+      "label": "Nursing Theories and Nursing Practice",
       "isbn": "9781719649896",
       "eisbn": "9781719654197"
     },
     {
-      "title": "Creating & Sustaining Civility in Nursing Education, Third Edition",
+      "label": "Creating & Sustaining Civility in Nursing Education, Third Edition",
       "isbn": null,
       "eisbn": "9781646482184"
     },
     {
-      "title": "Occupational Therapy for Mental Health",
+      "label": "Occupational Therapy for Mental Health",
       "isbn": "9781719649667",
       "eisbn": "9781719654135"
     },
     {
-      "title": "Self-Care for New and Student Nurses, Second Edition",
+      "label": "Self-Care for New and Student Nurses, Second Edition",
       "isbn": null,
       "eisbn": "9781646481729"
     },
     {
-      "title": "Davis's Comprehensive Manual of Laboratory and Diagnostic Tests With Nursing Implications",
+      "label": "Davis's Comprehensive Manual of Laboratory and Diagnostic Tests With Nursing Implications",
       "isbn": "9781719650304",
       "eisbn": "9781719654173"
     },
     {
-      "title": "Handbook of Clinical Psychopharmacology for Therapists",
+      "label": "Handbook of Clinical Psychopharmacology for Therapists",
       "isbn": "9781648483684",
       "eisbn": "9781648483691"
     },
     {
-      "title": "Critical Conversations in Healthcare, Third Edition",
+      "label": "Critical Conversations in Healthcare, Third Edition",
       "isbn": null,
       "eisbn": "9781646481958"
     },
     {
-      "title": "Taber's Cyclopedic Medical Dictionary",
+      "label": "Taber's Cyclopedic Medical Dictionary",
       "isbn": "9781719650670",
       "eisbn": "9781719654227"
     },
     {
-      "title": "Bailey's Research & Evidence-Based Practice for the Health Professional",
+      "label": "Bailey's Research & Evidence-Based Practice for the Health Professional",
       "isbn": "9781719648684",
       "eisbn": "9781719654326"
     },
     {
-      "title": "Creative Teaching Strategies for the Nurse Educator",
+      "label": "Creative Teaching Strategies for the Nurse Educator",
       "isbn": "9781719650557",
       "eisbn": "9781719653800"
     },
     {
-      "title": "Calculating Drug Dosages",
+      "label": "Calculating Drug Dosages",
       "isbn": "9781719649780",
       "eisbn": "9781719653411"
     },
     {
-      "title": "ASPEN Pediatric Nutrition Support Core Curriculum, Third Edition",
+      "label": "ASPEN Pediatric Nutrition Support Core Curriculum, Third Edition",
       "isbn": "9781889622569",
       "eisbn": "9781889622576"
     },
     {
-      "title": "Reading, Understanding, and Applying Nursing Research",
+      "label": "Reading, Understanding, and Applying Nursing Research",
       "isbn": "9781719649803",
       "eisbn": "9781719653572"
     },
     {
-      "title": "Anatomy of Writing for Publication for Nurses, Fifth Edition",
+      "label": "Anatomy of Writing for Publication for Nurses, Fifth Edition",
       "isbn": null,
       "eisbn": "9781646481828"
     },
     {
-      "title": "Critical Care Manual of Clinical Nursing Procedures",
+      "label": "Critical Care Manual of Clinical Nursing Procedures",
       "isbn": "9781119841234",
       "eisbn": "9781119841241"
     },
     {
-      "title": "Med-Surg Success:",
+      "label": "Med-Surg Success:",
       "isbn": "9781719649735",
       "eisbn": "9781719653558"
     },
     {
-      "title": "Occupational Therapy in Acute Care, 3rd Edition",
+      "label": "Occupational Therapy in Acute Care, 3rd Edition",
       "isbn": "9781569006207",
       "eisbn": "9781569006214"
     },
     {
-      "title": "Pediatric Nutrition",
+      "label": "Pediatric Nutrition",
       "isbn": "9781610027694",
       "eisbn": "9781610027700"
     },
     {
-      "title": "Red Book 2024",
+      "label": "Red Book 2024",
       "isbn": "9781610027342",
       "eisbn": "9781610027359"
     },
     {
-      "title": "O'Sullivan & Schmitz's Physical Rehabilitation",
+      "label": "O'Sullivan & Schmitz's Physical Rehabilitation",
       "isbn": "9781719646918",
       "eisbn": "9781719651479"
     },
     {
-      "title": "Nursing",
+      "label": "Nursing",
       "isbn": "9780999308868",
       "eisbn": "9780999308882"
     },
     {
-      "title": "Nursing Informatics and the Foundation of Knowledge",
+      "label": "Nursing Informatics and the Foundation of Knowledge",
       "isbn": "9781284293432",
       "eisbn": "9781284295177"
     },
     {
-      "title": "Leadership for Evidence-Based Innovation in Nursing and Health Professions",
+      "label": "Leadership for Evidence-Based Innovation in Nursing and Health Professions",
       "isbn": "9781284296655",
       "eisbn": "9781284296785"
     },
     {
-      "title": "Professional Nursing Concepts: Competencies for Quality Leadership",
+      "label": "Professional Nursing Concepts: Competencies for Quality Leadership",
       "isbn": "9781284296402",
       "eisbn": "9781284296464"
     },
     {
-      "title": "Pharmacology Clear and Simple",
+      "label": "Pharmacology Clear and Simple",
       "isbn": "9781719651196",
       "eisbn": "9781719654067"
     },
     {
-      "title": "FNP Certification Intensive Review",
+      "label": "FNP Certification Intensive Review",
       "isbn": "9780826170668",
       "eisbn": "9780826170675"
     },
     {
-      "title": "Building a Culture of Ownership in Healthcare, Third Edition",
+      "label": "Building a Culture of Ownership in Healthcare, Third Edition",
       "isbn": null,
       "eisbn": "9781646481293"
     },
     {
-      "title": "Trauma-Informed Health Care",
+      "label": "Trauma-Informed Health Care",
       "isbn": "9781839976148",
       "eisbn": "9781839976131"
     },
     {
-      "title": "An Introduction to Compassion in Healthcare Practice",
+      "label": "An Introduction to Compassion in Healthcare Practice",
       "isbn": "9781394220458",
       "eisbn": "9781394220465"
     },
     {
-      "title": "Mosby's 2025 Nursing Drug Reference - E-Book",
+      "label": "Mosby's 2025 Nursing Drug Reference - E-Book",
       "isbn": "9780443122002",
       "eisbn": "9780443122019"
     },
     {
-      "title": "Fundamentals of the Physical Therapy Examination: Patient Interview and Tests & Measures",
+      "label": "Fundamentals of the Physical Therapy Examination: Patient Interview and Tests & Measures",
       "isbn": "9781284282108",
       "eisbn": "9781284282115"
     },
     {
-      "title": "Nursing Research: Reading, Using, and Creating Evidence",
+      "label": "Nursing Research: Reading, Using, and Creating Evidence",
       "isbn": "9781284296570",
       "eisbn": "9781284296624"
     },
     {
-      "title": "Schneider's Introduction to Public Health",
+      "label": "Schneider's Introduction to Public Health",
       "isbn": "9781284291803",
       "eisbn": "9781284291902"
     },
     {
-      "title": "The New Leadership Challenge",
+      "label": "The New Leadership Challenge",
       "isbn": "9781719650601",
       "eisbn": "9781719654302"
     },
     {
-      "title": "Haleâ€™s Medications & Mothersâ€™ Milk 2025-2026",
+      "label": "Haleâ€™s Medications & Mothersâ€™ Milk 2025-2026",
       "isbn": "9780826100207",
       "eisbn": "9780826163134"
     },
     {
-      "title": "Notes On... Nursing Research",
+      "label": "Notes On... Nursing Research",
       "isbn": "9781394230167",
       "eisbn": "9781394230174"
     },
     {
-      "title": "Aschengrau & Seage's Essentials of Epidemiology in Public Health",
+      "label": "Aschengrau & Seage's Essentials of Epidemiology in Public Health",
       "isbn": "9781284286663",
       "eisbn": "9781284286694"
     },
     {
-      "title": "Psychiatric Mental Health Nursing Success",
+      "label": "Psychiatric Mental Health Nursing Success",
       "isbn": "9781719649742",
       "eisbn": "9781719653459"
     },
     {
-      "title": "Essentials of Nursing Leadership & Management",
+      "label": "Essentials of Nursing Leadership & Management",
       "isbn": "9781719646581",
       "eisbn": "9781719649964"
     },
     {
-      "title": "Safe Maternity and Pediatric Nursing Care",
+      "label": "Safe Maternity and Pediatric Nursing Care",
       "isbn": "9781719648844",
       "eisbn": "9781719654104"
     },
     {
-      "title": "Saunders Nursing Drug Handbook 2025 - E-BOOK",
+      "label": "Saunders Nursing Drug Handbook 2025 - E-BOOK",
       "isbn": "9780443120480",
       "eisbn": "9780443121579"
     },
     {
-      "title": "TNM Classification of Malignant Tumours",
+      "label": "TNM Classification of Malignant Tumours",
       "isbn": "9781394216857",
       "eisbn": "9781394216864"
     },
     {
-      "title": "Public Health 101",
+      "label": "Public Health 101",
       "isbn": "9781284230383",
       "eisbn": "9781284230406"
     },
     {
-      "title": "Nature-Based Allied Health Practice",
+      "label": "Nature-Based Allied Health Practice",
       "isbn": "9781805010081",
       "eisbn": "9781805010098"
     },
     {
-      "title": "Essentials of Nursing Law and Ethics",
+      "label": "Essentials of Nursing Law and Ethics",
       "isbn": "9781284120387",
       "eisbn": "9781284120394"
     },
     {
-      "title": "DBT Skills Training Manual",
+      "label": "DBT Skills Training Manual",
       "isbn": "9781462558216",
       "eisbn": "9781462558278"
     },
     {
-      "title": "Thriving in Mental Health Nursing",
+      "label": "Thriving in Mental Health Nursing",
       "isbn": "9781394202355",
       "eisbn": "9781394202362"
     },
     {
-      "title": "Study Guide to DSM-5-TR®",
+      "label": "Study Guide to DSM-5-TR®",
       "isbn": "9781615375554",
       "eisbn": "9781615375561"
     },
     {
-      "title": "AACN Essentials of Progressive Care Nursing, Fifth Edition",
+      "label": "AACN Essentials of Progressive Care Nursing, Fifth Edition",
       "isbn": "9781264269419",
       "eisbn": "9781264269426"
     },
     {
-      "title": "Clinical Management of Swallowing Disorders, Sixth Edition",
+      "label": "Clinical Management of Swallowing Disorders, Sixth Edition",
       "isbn": "9781635507560",
       "eisbn": "9781635504835"
     },
     {
-      "title": "An Occupational Therapistâ€™s Guide to Sensory Integration and Adult Mental Health",
+      "label": "An Occupational Therapistâ€™s Guide to Sensory Integration and Adult Mental Health",
       "isbn": "9781839979149",
       "eisbn": "9781839979156"
     },
     {
-      "title": "Understanding Anatomy & Physiology",
+      "label": "Understanding Anatomy & Physiology",
       "isbn": "9781719647625",
       "eisbn": "9781719653626"
     },
     {
-      "title": "Advanced Practice Nursing Procedures",
+      "label": "Advanced Practice Nursing Procedures",
       "isbn": "9781719649650",
       "eisbn": "9781719653435"
     },
     {
-      "title": "Compassion Fatigue and Burnout in Nursing",
+      "label": "Compassion Fatigue and Burnout in Nursing",
       "isbn": "9780826155283",
       "eisbn": "9780826155290"
     },
     {
-      "title": "The Anatomy of Deception",
+      "label": "The Anatomy of Deception",
       "isbn": "9780197678121",
       "eisbn": "9780197678138"
     },
     {
-      "title": "Evidence-Based Practice for Nurses: Appraisal and Application of Research",
+      "label": "Evidence-Based Practice for Nurses: Appraisal and Application of Research",
       "isbn": "9781284296532",
       "eisbn": "9781284296549"
     },
     {
-      "title": "Wright & Leahey's Nurses and Families",
+      "label": "Wright & Leahey's Nurses and Families",
       "isbn": "9781719646505",
       "eisbn": "9781719649674"
     },
     {
-      "title": "Nursing Informatics Scope and Standards of Practice, 3rd Edition",
+      "label": "Nursing Informatics Scope and Standards of Practice, 3rd Edition",
       "isbn": "9781953985002",
       "eisbn": "9781953985019"
     },
     {
-      "title": "McKenzie's An Introduction to Community & Public Health",
+      "label": "McKenzie's An Introduction to Community & Public Health",
       "isbn": "9781284299847",
       "eisbn": "9781284299854"
     },
     {
-      "title": "Manual of Clinical Microbiology, 4 Volume Set",
+      "label": "Manual of Clinical Microbiology, 4 Volume Set",
       "isbn": "9781683674290",
       "eisbn": "9781683674801"
     },
     {
-      "title": "Mental Health Nursing Skills",
+      "label": "Mental Health Nursing Skills",
       "isbn": "9780192864048",
       "eisbn": "9780192678942"
     },
     {
-      "title": "Procedure Checklists for Wilkinson's Fundamentals of Nursing",
+      "label": "Procedure Checklists for Wilkinson's Fundamentals of Nursing",
       "isbn": "9781719651493",
       "eisbn": "9781719652407"
     },
     {
-      "title": "Public/Community Health and Nursing Practice",
+      "label": "Public/Community Health and Nursing Practice",
       "isbn": "9781719647144",
       "eisbn": "9781719650250"
     },
     {
-      "title": "Introduction to Global Health",
+      "label": "Introduction to Global Health",
       "isbn": "9781284234930",
       "eisbn": "9781284234978"
     },
     {
-      "title": "Client Education: Theory and Practice",
+      "label": "Client Education: Theory and Practice",
       "isbn": "9781284298741",
       "eisbn": "9781284298765"
     },
     {
-      "title": "2025-2026 Basic and Clinical Science Course, Section 5: Neuro-Ophthalmology",
+      "label": "2025-2026 Basic and Clinical Science Course, Section 5: Neuro-Ophthalmology",
       "isbn": "9781681048369",
       "eisbn": "9781681048628"
     },
     {
-      "title": "DSM-5-TR® Pocket Guide for Child and Adolescent Mental Health",
+      "label": "DSM-5-TR® Pocket Guide for Child and Adolescent Mental Health",
       "isbn": "9781615375462",
       "eisbn": "9781615375479"
     },
     {
-      "title": "Translation of Evidence Into Nursing and Healthcare",
+      "label": "Translation of Evidence Into Nursing and Healthcare",
       "isbn": "9780826191151",
       "eisbn": "9780826191168"
     },
     {
-      "title": "Assessment in Speech-Language Pathology: A Resource Manual, Seventh Edition",
+      "label": "Assessment in Speech-Language Pathology: A Resource Manual, Seventh Edition",
       "isbn": "9781635507102",
       "eisbn": "9781635504675"
     },
     {
-      "title": "Pediatric Injectable Drugs: The Teddy Bear Book",
+      "label": "Pediatric Injectable Drugs: The Teddy Bear Book",
       "isbn": "9781585287185",
       "eisbn": "9781585287192"
     },
     {
-      "title": "Paramedic Pocketbook of Prescription Medications",
+      "label": "Paramedic Pocketbook of Prescription Medications",
       "isbn": "9781394202492",
       "eisbn": "9781394202508"
     },
     {
-      "title": "Functional and Occupational Performance in Older Adults",
+      "label": "Functional and Occupational Performance in Older Adults",
       "isbn": "9781719647908",
       "eisbn": "9781719651530"
     },
     {
-      "title": "Advanced Practice Providers",
+      "label": "Advanced Practice Providers",
       "isbn": null,
       "eisbn": "9781646480968"
     },
     {
-      "title": "The Pocket Atlas of Skeletal Muscles",
+      "label": "The Pocket Atlas of Skeletal Muscles",
       "isbn": "9781718226951",
       "eisbn": "9781718226968"
     },
     {
-      "title": "Kielhofner's Research in Occupational Therapy",
+      "label": "Kielhofner's Research in Occupational Therapy",
       "isbn": "9781719640640",
       "eisbn": "9781719640657"
     },
     {
-      "title": "Zaccagnini & White's Core Competencies for Advanced Practice Nursing: A Guide for DNPs",
+      "label": "Zaccagnini & White's Core Competencies for Advanced Practice Nursing: A Guide for DNPs",
       "isbn": "9781284288391",
       "eisbn": "9781284291612"
     },
     {
-      "title": "A Practical Guide to Kinesiology Taping for Injury Prevention and Common Medical Conditions",
+      "label": "A Practical Guide to Kinesiology Taping for Injury Prevention and Common Medical Conditions",
       "isbn": "9781718227019",
       "eisbn": "9781718227026"
     },
     {
-      "title": "McDonald's The Nurse Educator's Guide to Assessing Learning Outcomes",
+      "label": "McDonald's The Nurse Educator's Guide to Assessing Learning Outcomes",
       "isbn": "9781284287615",
       "eisbn": "9781284287622"
     },
     {
-      "title": "2025-2026 Basic and Clinical Science Course, Section 13: Refractive Surgery",
+      "label": "2025-2026 Basic and Clinical Science Course, Section 13: Refractive Surgery",
       "isbn": "9781681048444",
       "eisbn": "9781681048703"
     },
     {
-      "title": "2025-2026 Basic and Clinical Science Course, Section 8: External Disease and Cornea",
+      "label": "2025-2026 Basic and Clinical Science Course, Section 8: External Disease and Cornea",
       "isbn": "9781681048390",
       "eisbn": "9781681048659"
     },
     {
-      "title": "Workbook for Johns Hopkins Evidence-Based Practice for Nurses and Healthcare Professionals, Fifth Edition",
+      "label": "Workbook for Johns Hopkins Evidence-Based Practice for Nurses and Healthcare Professionals, Fifth Edition",
       "isbn": null,
       "eisbn": "9781646481392"
     },
     {
-      "title": "Racial Trauma in Black Clients",
+      "label": "Racial Trauma in Black Clients",
       "isbn": "9781462556939",
       "eisbn": "9781462556991"
     },
     {
-      "title": "Group Dynamics in Occupational Therapy",
+      "label": "Group Dynamics in Occupational Therapy",
       "isbn": "9781032895239",
       "eisbn": "9781003524403"
     },
     {
-      "title": "Developing Clinical Judgment for Professional Nursing Practice and NGN Readiness - E-Book",
+      "label": "Developing Clinical Judgment for Professional Nursing Practice and NGN Readiness - E-Book",
       "isbn": "9780323935388",
       "eisbn": "9780323935999"
     },
     {
-      "title": "Tappero and Honeyfieldâ€™s Physical Assessment of the Newborn",
+      "label": "Tappero and Honeyfieldâ€™s Physical Assessment of the Newborn",
       "isbn": "9780826140623",
       "eisbn": "9780826140630"
     },
     {
-      "title": "Occupational Therapy Disruptors",
+      "label": "Occupational Therapy Disruptors",
       "isbn": "9781839976650",
       "eisbn": "9781839976667"
     },
     {
-      "title": "Pediatric Clinical Practice Guidelines & Policies",
+      "label": "Pediatric Clinical Practice Guidelines & Policies",
       "isbn": "9781610028011",
       "eisbn": "9781610028028"
     },
     {
-      "title": "Pathophysiology: A Practical Approach",
+      "label": "Pathophysiology: A Practical Approach",
       "isbn": "9781284288094",
       "eisbn": "9781284288155"
     },
     {
-      "title": "Anatomy & Physiology for Speech, Language, and Hearing, Seventh Edition",
+      "label": "Anatomy & Physiology for Speech, Language, and Hearing, Seventh Edition",
       "isbn": "9781635506280",
       "eisbn": "9781635504309"
     },
     {
-      "title": "Clinical Research Nursing: Scope and Standards of Practice, 2nd Edition",
+      "label": "Clinical Research Nursing: Scope and Standards of Practice, 2nd Edition",
       "isbn": "9781953985996",
       "eisbn": "9781963052008"
     },
     {
-      "title": "Cardiac Surgery Essentials for Critical Care Nursing",
+      "label": "Cardiac Surgery Essentials for Critical Care Nursing",
       "isbn": "9781284286397",
       "eisbn": "9781284286403"
     },
     {
-      "title": "Introduction to Epidemiology",
+      "label": "Introduction to Epidemiology",
       "isbn": "9781284280388",
       "eisbn": "9781284283099"
     },
     {
-      "title": "Wong's Clinical Manual of Pediatric Nursing E-Book",
+      "label": "Wong's Clinical Manual of Pediatric Nursing E-Book",
       "isbn": "9780323754767",
       "eisbn": "9780323763745"
     },
     {
-      "title": "Mosby's 2024 Nursing Drug Reference - E-Book",
+      "label": "Mosby's 2024 Nursing Drug Reference - E-Book",
       "isbn": "9780443118906",
       "eisbn": "9780443121210"
     },
     {
-      "title": "The Evidence-Based Practitioner",
+      "label": "The Evidence-Based Practitioner",
       "isbn": "9781719642811",
       "eisbn": "9781719649582"
     }
