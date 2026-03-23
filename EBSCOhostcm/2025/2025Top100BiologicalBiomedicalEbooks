@@ -3,502 +3,502 @@
   "label": "2025 Top 100 Biological Biomedical Science eBooks",
   "list": [
     {
-      "title": "Microbes",
+      "label": "Microbes",
       "isbn": "9780197688564",
       "eisbn": "9780197688571"
     },
     {
-      "title": "Manual of Clinical Microbiology, 4 Volume Set",
+      "label": "Manual of Clinical Microbiology, 4 Volume Set",
       "isbn": "9781683674290",
       "eisbn": "9781683674801"
     },
     {
-      "title": "The Color of North",
+      "label": "The Color of North",
       "isbn": "9780674292581",
       "eisbn": "9780674300514"
     },
     {
-      "title": "Identity",
+      "label": "Identity",
       "isbn": "9780262553223",
       "eisbn": "9780262384544"
     },
     {
-      "title": "Gain of Function",
+      "label": "Gain of Function",
       "isbn": "9780262551359",
       "eisbn": "9780262381727"
     },
     {
-      "title": "The Evolution of Imperfection",
+      "label": "The Evolution of Imperfection",
       "isbn": "9780691247397",
       "eisbn": "9780691247410"
     },
     {
-      "title": "Clinical Microbiology Procedures Handbook, Multi-Volume",
+      "label": "Clinical Microbiology Procedures Handbook, Multi-Volume",
       "isbn": "9781683673989",
       "eisbn": "9781683674825"
     },
     {
-      "title": "Marine Pollution",
+      "label": "Marine Pollution",
       "isbn": "9780197753804",
       "eisbn": "9780197753828"
     },
     {
-      "title": "Evolving Tomorrow",
+      "label": "Evolving Tomorrow",
       "isbn": "9780198874522",
       "eisbn": "9780198874539"
     },
     {
-      "title": "The Ecology of Collective Behavior",
+      "label": "The Ecology of Collective Behavior",
       "isbn": "9780691232140",
       "eisbn": "9780691232164"
     },
     {
-      "title": "Father Time",
+      "label": "Father Time",
       "isbn": "9780691238777",
       "eisbn": "9780691238784"
     },
     {
-      "title": "Bird Brains and Behavior",
+      "label": "Bird Brains and Behavior",
       "isbn": "9780262552738",
       "eisbn": "9780262383615"
     },
     {
-      "title": "Evolutionary Cell Biology",
+      "label": "Evolutionary Cell Biology",
       "isbn": "9780192847287",
       "eisbn": "9780192663030"
     },
     {
-      "title": "The Microbiome",
+      "label": "The Microbiome",
       "isbn": "9780197695593",
       "eisbn": "9780197695616"
     },
     {
-      "title": "Manual of Molecular Microbiology",
+      "label": "Manual of Molecular Microbiology",
       "isbn": "9781683674566",
       "eisbn": "9781683674573"
     },
     {
-      "title": "How the World Flows",
+      "label": "How the World Flows",
       "isbn": "9780197772829",
       "eisbn": "9780197772836"
     },
     {
-      "title": "Genetics For Dummies",
+      "label": "Genetics For Dummies",
       "isbn": "9781394210190",
       "eisbn": "9781394210251"
     },
     {
-      "title": "Climate Change",
+      "label": "Climate Change",
       "isbn": "9781032775784",
       "eisbn": "9781003483854"
     },
     {
-      "title": "Life in Sync",
+      "label": "Life in Sync",
       "isbn": "9780691271941",
       "eisbn": "9780691271965"
     },
     {
-      "title": "The Biology of Us",
+      "label": "The Biology of Us",
       "isbn": "9780197664797",
       "eisbn": "9780197664803"
     },
     {
-      "title": "Beyond DNA",
+      "label": "Beyond DNA",
       "isbn": "9780522878868",
       "eisbn": "9780522878875"
     },
     {
-      "title": "Modeling Inhibitors of Matrix Metalloproteinases",
+      "label": "Modeling Inhibitors of Matrix Metalloproteinases",
       "isbn": "9781032289267",
       "eisbn": "9781003303282"
     },
     {
-      "title": "Synthetic Sequences in Organic Chemistry",
+      "label": "Synthetic Sequences in Organic Chemistry",
       "isbn": "9781032502939",
       "eisbn": "9781000904963"
     },
     {
-      "title": "Targeted Metallo-Drugs",
+      "label": "Targeted Metallo-Drugs",
       "isbn": "9781032223308",
       "eisbn": "9781000845761"
     },
     {
-      "title": "The New Biology",
+      "label": "The New Biology",
       "isbn": "9780674972247",
       "eisbn": "9780674292895"
     },
     {
-      "title": "Introduction to Genetics",
+      "label": "Introduction to Genetics",
       "isbn": "9781032743530",
       "eisbn": "9781003473862"
     },
     {
-      "title": "Artificial Intelligence in Biomedical and Modern Healthcare Informatics",
+      "label": "Artificial Intelligence in Biomedical and Modern Healthcare Informatics",
       "isbn": "9780443218705",
       "eisbn": "9780443218712"
     },
     {
-      "title": "Glycoscience: The Intriguing Area to Understand Human Biology, Health and Disease",
+      "label": "Glycoscience: The Intriguing Area to Understand Human Biology, Health and Disease",
       "isbn": "9781036414252",
       "eisbn": "9781036414269"
     },
     {
-      "title": "Maladaptation",
+      "label": "Maladaptation",
       "isbn": "9780192870469",
       "eisbn": "9780192697769"
     },
     {
-      "title": "Science at Interfaces, From Biochemistry to Cosmochemistry",
+      "label": "Science at Interfaces, From Biochemistry to Cosmochemistry",
       "isbn": "9781527573406",
       "eisbn": "9781527573413"
     },
     {
-      "title": "Genomes 5",
+      "label": "Genomes 5",
       "isbn": "9780367674076",
       "eisbn": "9781000832280"
     },
     {
-      "title": "Brock Biology of Microorganisms, Global Edition",
+      "label": "Brock Biology of Microorganisms, Global Edition",
       "isbn": "9781292404790",
       "eisbn": "9781292405063"
     },
     {
-      "title": "Behave",
+      "label": "Behave",
       "isbn": "9781594205071",
       "eisbn": "9780735222786"
     },
     {
-      "title": "Digital Pathology",
+      "label": "Digital Pathology",
       "isbn": "9780443138096",
       "eisbn": "9780443138102"
     },
     {
-      "title": "The Bioprospecting Potentials of Microorganisms for the Synthesis of Bioactive Molecules",
+      "label": "The Bioprospecting Potentials of Microorganisms for the Synthesis of Bioactive Molecules",
       "isbn": "9781036414399",
       "eisbn": "9781036414405"
     },
     {
-      "title": "Fur, Fleas, and Flukes",
+      "label": "Fur, Fleas, and Flukes",
       "isbn": "9781487509224",
       "eisbn": "9781487539931"
     },
     {
-      "title": "Understanding Biotransformation",
+      "label": "Understanding Biotransformation",
       "isbn": "9798895300954",
       "eisbn": "9798895301418"
     },
     {
-      "title": "The Evolution of Sex",
+      "label": "The Evolution of Sex",
       "isbn": "9780198886716",
       "eisbn": "9780198886761"
     },
     {
-      "title": "Artificial Intelligence in Microbiology: Scope and Challenges Volume 1",
+      "label": "Artificial Intelligence in Microbiology: Scope and Challenges Volume 1",
       "isbn": "9780443296246",
       "eisbn": "9780443296253"
     },
     {
-      "title": "Clinical Biochemistry - E-Book",
+      "label": "Clinical Biochemistry - E-Book",
       "isbn": "9780323880572",
       "eisbn": "9780323881661"
     },
     {
-      "title": "Nucleic Acids Chemistry",
+      "label": "Nucleic Acids Chemistry",
       "isbn": "9783111424682",
       "eisbn": "9783111425085"
     },
     {
-      "title": "Fungal Macromolecule Applications in Life Sciences",
+      "label": "Fungal Macromolecule Applications in Life Sciences",
       "isbn": "9780443301025",
       "eisbn": "9780443301032"
     },
     {
-      "title": "Biosafety Level 4 (BSL4) â€“ Virus Research at the Highest Level of Biosafety and Biosecurity",
+      "label": "Biosafety Level 4 (BSL4) â€“ Virus Research at the Highest Level of Biosafety and Biosecurity",
       "isbn": "9780443344916",
       "eisbn": "9780443344923"
     },
     {
-      "title": "Biological Science, Global Edition",
+      "label": "Biological Science, Global Edition",
       "isbn": "9781292487939",
       "eisbn": "9781292755724"
     },
     {
-      "title": "Bacterial Enemies of Human Health",
+      "label": "Bacterial Enemies of Human Health",
       "isbn": "9781036441050",
       "eisbn": "9781036441067"
     },
     {
-      "title": "Green Microbiology",
+      "label": "Green Microbiology",
       "isbn": "9780443240409",
       "eisbn": "9780443240416"
     },
     {
-      "title": "Protistology",
+      "label": "Protistology",
       "isbn": "9780323952996",
       "eisbn": "9780323953009"
     },
     {
-      "title": "Omics Applications and Avenues",
+      "label": "Omics Applications and Avenues",
       "isbn": "9781036411671",
       "eisbn": "9781036411688"
     },
     {
-      "title": "Lactic Acid Bacteria",
+      "label": "Lactic Acid Bacteria",
       "isbn": "9781032399386",
       "eisbn": "9781003352075"
     },
     {
-      "title": "Organic Chemistry",
+      "label": "Organic Chemistry",
       "isbn": "9781032664903",
       "eisbn": "9781032664927"
     },
     {
-      "title": "Encyclopedia of Hereditary Cancer",
+      "label": "Encyclopedia of Hereditary Cancer",
       "isbn": "9780443135750",
       "eisbn": "9780443135767"
     },
     {
-      "title": "Forensic DNA Analyses Made Simple",
+      "label": "Forensic DNA Analyses Made Simple",
       "isbn": "9781032015040",
       "eisbn": "9781000881141"
     },
     {
-      "title": "Artificial Intelligence in Pathology",
+      "label": "Artificial Intelligence in Pathology",
       "isbn": "9780323953597",
       "eisbn": "9780323958325"
     },
     {
-      "title": "An Introduction to the Microbiome in Health and Diseases",
+      "label": "An Introduction to the Microbiome in Health and Diseases",
       "isbn": "9780323911900",
       "eisbn": "9780323914727"
     },
     {
-      "title": "How We Age",
+      "label": "How We Age",
       "isbn": "9780691182636",
       "eisbn": "9780691250335"
     },
     {
-      "title": "The Biochemical Guide to Enzymes",
+      "label": "The Biochemical Guide to Enzymes",
       "isbn": "9798886974102",
       "eisbn": "9798886975185"
     },
     {
-      "title": "Viruses",
+      "label": "Viruses",
       "isbn": "9780323903851",
       "eisbn": "9780323984768"
     },
     {
-      "title": "Customized Ob/Gyn Management for Diverse Populations",
+      "label": "Customized Ob/Gyn Management for Diverse Populations",
       "isbn": "9780323902632",
       "eisbn": "9780323905619"
     },
     {
-      "title": "New Clinical Genetics, Fourth Edition",
+      "label": "New Clinical Genetics, Fourth Edition",
       "isbn": "9781911510703",
       "eisbn": "9781911510741"
     },
     {
-      "title": "A Prescription for Healthy Living",
+      "label": "A Prescription for Healthy Living",
       "isbn": "9780128215739",
       "eisbn": "9780128215746"
     },
     {
-      "title": "Biochemistry",
+      "label": "Biochemistry",
       "isbn": "9781305961135",
       "eisbn": "9781337514354"
     },
     {
-      "title": "The Selfish Gene",
+      "label": "The Selfish Gene",
       "isbn": "9780191093074",
       "eisbn": "9780191093067"
     },
     {
-      "title": "Principles of Anatomy and Physiology, 4th Asiaâ€“Pacific Edition",
+      "label": "Principles of Anatomy and Physiology, 4th Asiaâ€“Pacific Edition",
       "isbn": "9781394330683",
       "eisbn": "9781394330706"
     },
     {
-      "title": "Lateral Flow Assays",
+      "label": "Lateral Flow Assays",
       "isbn": "9780443238833",
       "eisbn": "9780443238840"
     },
     {
-      "title": "Proteins",
+      "label": "Proteins",
       "isbn": "9781032518404",
       "eisbn": "9781003404170"
     },
     {
-      "title": "Research in Anatomy",
+      "label": "Research in Anatomy",
       "isbn": "9780443136351",
       "eisbn": "9780443136368"
     },
     {
-      "title": "Metagenomics for Microbiology",
+      "label": "Metagenomics for Microbiology",
       "isbn": "9780443223761",
       "eisbn": "9780443223778"
     },
     {
-      "title": "Biochemical and Biophysical Methods in Molecular and Cellular Biology",
+      "label": "Biochemical and Biophysical Methods in Molecular and Cellular Biology",
       "isbn": "9789819620876",
       "eisbn": "9789819620883"
     },
     {
-      "title": "ENZYMES: Catalysis, Kinetics and Mechanisms",
+      "label": "ENZYMES: Catalysis, Kinetics and Mechanisms",
       "isbn": "9789819781782",
       "eisbn": "9789819781799"
     },
     {
-      "title": "Animal Models of Disease Part C",
+      "label": "Animal Models of Disease Part C",
       "isbn": "9780443222429",
       "eisbn": "9780443222436"
     },
     {
-      "title": "No Electricity, No Life",
+      "label": "No Electricity, No Life",
       "isbn": "9783031688263",
       "eisbn": "9783031688270"
     },
     {
-      "title": "Cell Signaling, 2nd Edition",
+      "label": "Cell Signaling, 2nd Edition",
       "isbn": "9780367279370",
       "eisbn": "9780429298844"
     },
     {
-      "title": "Genomics, Populations, and Society",
+      "label": "Genomics, Populations, and Society",
       "isbn": "9780323917995",
       "eisbn": "9780323971997"
     },
     {
-      "title": "Methods for Monitoring Mitochondrial Functions During Pathogen Infection",
+      "label": "Methods for Monitoring Mitochondrial Functions During Pathogen Infection",
       "isbn": "9780323992190",
       "eisbn": "9780323992206"
     },
     {
-      "title": "Understanding the Pandemic",
+      "label": "Understanding the Pandemic",
       "isbn": "9780443191701",
       "eisbn": "9780443290046"
     },
     {
-      "title": "Application of Emerging Technologies and Strategies to Extract Bioactive Compounds",
+      "label": "Application of Emerging Technologies and Strategies to Extract Bioactive Compounds",
       "isbn": "9780443189753",
       "eisbn": "9780443189760"
     },
     {
-      "title": "Artificial Intelligence in E-Health Framework, Volume 1",
+      "label": "Artificial Intelligence in E-Health Framework, Volume 1",
       "isbn": "9780443138164",
       "eisbn": "9780443138171"
     },
     {
-      "title": "Systems Biology II",
+      "label": "Systems Biology II",
       "isbn": "9783031621772",
       "eisbn": "9783031621789"
     },
     {
-      "title": "Depressariidae",
+      "label": "Depressariidae",
       "isbn": "9789004412729",
       "eisbn": "9789004713116"
     },
     {
-      "title": "Transposable Elements and Genome Evolution",
+      "label": "Transposable Elements and Genome Evolution",
       "isbn": "9781789451788",
       "eisbn": "9781394312443"
     },
     {
-      "title": "Biologically Active Substances Usable in Food, Pharmaceutical and Agrobiological Fields",
+      "label": "Biologically Active Substances Usable in Food, Pharmaceutical and Agrobiological Fields",
       "isbn": "9781032698618",
       "eisbn": "9781032702520"
     },
     {
-      "title": "In Search of Human Evolution",
+      "label": "In Search of Human Evolution",
       "isbn": "9780197679401",
       "eisbn": "9780197679418"
     },
     {
-      "title": "Innovating Health Against Future Pandemics",
+      "label": "Innovating Health Against Future Pandemics",
       "isbn": "9780443136818",
       "eisbn": "9780443136825"
     },
     {
-      "title": "Is Earth Exceptional?",
+      "label": "Is Earth Exceptional?",
       "isbn": "9781541602960",
       "eisbn": "9781541602977"
     },
     {
-      "title": "CRISPR Handbook",
+      "label": "CRISPR Handbook",
       "isbn": "9780443238659",
       "eisbn": "9780443238666"
     },
     {
-      "title": "Open Electronic Data Capture Tools for Medical and Biomedical Research and Medical Allied Professionals",
+      "label": "Open Electronic Data Capture Tools for Medical and Biomedical Research and Medical Allied Professionals",
       "isbn": "9780443156656",
       "eisbn": "9780443152344"
     },
     {
-      "title": "Bionanomaterials for Biosensors, Drug Delivery, and Medical Applications",
+      "label": "Bionanomaterials for Biosensors, Drug Delivery, and Medical Applications",
       "isbn": "9781032545547",
       "eisbn": "9781003425427"
     },
     {
-      "title": "Applications of Artificial Intelligence in Healthcare and Biomedicine",
+      "label": "Applications of Artificial Intelligence in Healthcare and Biomedicine",
       "isbn": "9780443223082",
       "eisbn": "9780443223099"
     },
     {
-      "title": "Microbial Diversity in the Genomic Era",
+      "label": "Microbial Diversity in the Genomic Era",
       "isbn": "9780443133206",
       "eisbn": "9780443133213"
     },
     {
-      "title": "On Epigenetics and Evolution",
+      "label": "On Epigenetics and Evolution",
       "isbn": "9780443190513",
       "eisbn": "9780443190520"
     },
     {
-      "title": "Anoxygenic Phototrophic Bacteria",
+      "label": "Anoxygenic Phototrophic Bacteria",
       "isbn": "9780443159824",
       "eisbn": "9780443159831"
     },
     {
-      "title": "Microbiology",
+      "label": "Microbiology",
       "isbn": "9780137941612",
       "eisbn": "9780137941797"
     },
     {
-      "title": "Genetic Reconstruction of the Past",
+      "label": "Genetic Reconstruction of the Past",
       "isbn": "9780197675366",
       "eisbn": "9780197675373"
     },
     {
-      "title": "Microbial Bioprocessing of Agri-food Wastes",
+      "label": "Microbial Bioprocessing of Agri-food Wastes",
       "isbn": "9780367625184",
       "eisbn": "9781000837995"
     },
     {
-      "title": "Our Genes, Our Choices",
+      "label": "Our Genes, Our Choices",
       "isbn": "9780443221613",
       "eisbn": "9780443221620"
     },
     {
-      "title": "Brief Lessons in Microbiology",
+      "label": "Brief Lessons in Microbiology",
       "isbn": "9783031295430",
       "eisbn": "9783031295447"
     },
     {
-      "title": "All About Bioinformatics",
+      "label": "All About Bioinformatics",
       "isbn": "9780443152504",
       "eisbn": "9780443152511"
     },
     {
-      "title": "Microbial Symbionts",
+      "label": "Microbial Symbionts",
       "isbn": "9780323993340",
       "eisbn": "9780323993357"
     },
     {
-      "title": "Principles of Microbiology",
+      "label": "Principles of Microbiology",
       "isbn": "9781637000953",
       "eisbn": "9781637000960"
     },
     {
-      "title": "Essentials of Cytogenetic and Molecular Cytogenetic Laboratory Testing",
+      "label": "Essentials of Cytogenetic and Molecular Cytogenetic Laboratory Testing",
       "isbn": "9781527580640",
       "eisbn": "9781527580657"
     }
