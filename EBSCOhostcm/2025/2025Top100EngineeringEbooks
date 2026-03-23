@@ -1,7 +1,7 @@
 {
   "description": "Top 100 engineering EBSCO eBooks purchased in 2025",
   "label": "2025 Top 100 Engineering eBooks",
-  "items": [
+  "list": [
     {
       "label": "Urban Bikeway Design Guide, Third Edition",
       "isbn": "9781642833843",
