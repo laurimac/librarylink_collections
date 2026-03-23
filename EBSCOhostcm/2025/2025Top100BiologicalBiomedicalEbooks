@@ -1,8 +1,7 @@
 {
   "description": "Top 100 biological and biomedical science EBSCO eBooks purchased in 2025",
-  "collection": "2025 Top 100 Biological Biomedical Science eBooks",
-  "count": 100,
-  "items": [
+  "label": "2025 Top 100 Biological Biomedical Science eBooks",
+  "list": [
     {
       "title": "Microbes",
       "isbn": "9780197688564",
