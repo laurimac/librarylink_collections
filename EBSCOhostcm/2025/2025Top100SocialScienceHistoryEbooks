@@ -1,505 +1,504 @@
 {
   "description": "Top 100 social science and history EBSCO eBooks purchased in 2025",
-  "collection": "2025 Top 100 Social Science History eBooks",
-  "count": 100,
-  "items": [
+  "label": "2025 Top 100 Social Science History eBooks",
+  "list": [
     {
-      "title": "Enemy Feminisms",
+      "label": "Enemy Feminisms",
       "isbn": "9798888902493",
       "eisbn": "9798888902721"
     },
     {
-      "title": "Perfect Victims",
+      "label": "Perfect Victims",
       "isbn": "9798888903155",
       "eisbn": "9798888903162"
     },
     {
-      "title": "On Book Banning",
+      "label": "On Book Banning",
       "isbn": null,
       "eisbn": "9781771966641"
     },
     {
-      "title": "There Is No Place for Us",
+      "label": "There Is No Place for Us",
       "isbn": "9780593237144",
       "eisbn": "9780593237151"
     },
     {
-      "title": "Chokepoints",
+      "label": "Chokepoints",
       "isbn": "9780593712979",
       "eisbn": "9780593712986"
     },
     {
-      "title": "America, América",
+      "label": "America, América",
       "isbn": "9780593831250",
       "eisbn": "9780593831267"
     },
     {
-      "title": "The Cancel Culture Panic",
+      "label": "The Cancel Culture Panic",
       "isbn": "9781503640849",
       "eisbn": "9781503641211"
     },
     {
-      "title": "A History of the Muslim World",
+      "label": "A History of the Muslim World",
       "isbn": "9780691236575",
       "eisbn": "9780691236582"
     },
     {
-      "title": "COMBEE",
+      "label": "COMBEE",
       "isbn": "9780197552797",
       "eisbn": "9780197552803"
     },
     {
-      "title": "Money, Lies, and God",
+      "label": "Money, Lies, and God",
       "isbn": "9781635578546",
       "eisbn": "9781635578553"
     },
     {
-      "title": "The Worst Trickster Story Ever Told",
+      "label": "The Worst Trickster Story Ever Told",
       "isbn": "9781503641648",
       "eisbn": "9781503641655"
     },
     {
-      "title": "A Protest History of the United States",
+      "label": "A Protest History of the United States",
       "isbn": "9780807010815",
       "eisbn": "9780807010822"
     },
     {
-      "title": "Climate Justice",
+      "label": "Climate Justice",
       "isbn": "9780262049467",
       "eisbn": "9780262381505"
     },
     {
-      "title": "Lies That Kill",
+      "label": "Lies That Kill",
       "isbn": "9780815740728",
       "eisbn": "9780815740735"
     },
     {
-      "title": "The Weaponization of Expertise",
+      "label": "The Weaponization of Expertise",
       "isbn": "9780262049597",
       "eisbn": "9780262382106"
     },
     {
-      "title": "On Tyranny",
+      "label": "On Tyranny",
       "isbn": "9780804190114",
       "eisbn": "9780804190121"
     },
     {
-      "title": "Red Scare",
+      "label": "Red Scare",
       "isbn": "9781982141806",
       "eisbn": "9781982141820"
     },
     {
-      "title": "Slow Burn",
+      "label": "Slow Burn",
       "isbn": "9780691221038",
       "eisbn": "9780691221045"
     },
     {
-      "title": "Native Nations",
+      "label": "Native Nations",
       "isbn": "9780525511038",
       "eisbn": "9780525511045"
     },
     {
-      "title": "Man's Search for Meaning",
+      "label": "Man's Search for Meaning",
       "isbn": "9780807014271",
       "eisbn": "9780807014288"
     },
     {
-      "title": "Wards of the State",
+      "label": "Wards of the State",
       "isbn": "9781419763151",
       "eisbn": "9781647007485"
     },
     {
-      "title": "The Message",
+      "label": "The Message",
       "isbn": "9780593230381",
       "eisbn": "9780593230398"
     },
     {
-      "title": "Being Jewish After the Destruction of Gaza",
+      "label": "Being Jewish After the Destruction of Gaza",
       "isbn": "9780593803899",
       "eisbn": "9780593803905"
     },
     {
-      "title": "Harvest of Empire",
+      "label": "Harvest of Empire",
       "isbn": "9780143137436",
       "eisbn": "9780593511473"
     },
     {
-      "title": "Abortion in the United States",
+      "label": "Abortion in the United States",
       "isbn": "9781032554235",
       "eisbn": "9781003430605"
     },
     {
-      "title": "Camps",
+      "label": "Camps",
       "isbn": "9781487588281",
       "eisbn": "9781487588304"
     },
     {
-      "title": "Poverty, by America",
+      "label": "Poverty, by America",
       "isbn": "9780593239919",
       "eisbn": "9780593239926"
     },
     {
-      "title": "Marriage, a History",
+      "label": "Marriage, a History",
       "isbn": "9780143036678",
       "eisbn": "9781101118252"
     },
     {
-      "title": "Humans",
+      "label": "Humans",
       "isbn": "9780520388093",
       "eisbn": "9780520388116"
     },
     {
-      "title": "Last Seen",
+      "label": "Last Seen",
       "isbn": "9781982174323",
       "eisbn": "9781982174354"
     },
     {
-      "title": "The Project",
+      "label": "The Project",
       "isbn": "9798217153725",
       "eisbn": "9798217153732"
     },
     {
-      "title": "What Is Free Speech?",
+      "label": "What Is Free Speech?",
       "isbn": "9780674987319",
       "eisbn": "9780674300422"
     },
     {
-      "title": "Vibrant Mosaic",
+      "label": "Vibrant Mosaic",
       "isbn": "9781954622654",
       "eisbn": "9781954622661"
     },
     {
-      "title": "Building the Black City",
+      "label": "Building the Black City",
       "isbn": "9780520344419",
       "eisbn": "9780520975514"
     },
     {
-      "title": "Living Disability",
+      "label": "Living Disability",
       "isbn": null,
       "eisbn": "9781770568211"
     },
     {
-      "title": "\"They Just Need to Get a Job\"",
+      "label": "\"They Just Need to Get a Job\"",
       "isbn": "9780807006979",
       "eisbn": "9780807006986"
     },
     {
-      "title": "Russia's Gamble",
+      "label": "Russia's Gamble",
       "isbn": "9781509559428",
       "eisbn": "9781509569519"
     },
     {
-      "title": "Strangers in the Land",
+      "label": "Strangers in the Land",
       "isbn": "9780385548571",
       "eisbn": "9780385548588"
     },
     {
-      "title": "Indigenous Critical Reflections on Traditional Ecological Knowledge",
+      "label": "Indigenous Critical Reflections on Traditional Ecological Knowledge",
       "isbn": "9781962645324",
       "eisbn": "9781962645331"
     },
     {
-      "title": "Christ in the Rubble",
+      "label": "Christ in the Rubble",
       "isbn": "9780802885548",
       "eisbn": "9781467470124"
     },
     {
-      "title": "White Storm",
+      "label": "White Storm",
       "isbn": "9781493086351",
       "eisbn": "9781493086368"
     },
     {
-      "title": "The World After Gaza",
+      "label": "The World After Gaza",
       "isbn": "9798217058891",
       "eisbn": "9798217058907"
     },
     {
-      "title": "Mexico",
+      "label": "Mexico",
       "isbn": null,
       "eisbn": "9780802164858"
     },
     {
-      "title": "The Seven Mountains Mandate",
+      "label": "The Seven Mountains Mandate",
       "isbn": null,
       "eisbn": "9781646984350"
     },
     {
-      "title": "Three Revolutions",
+      "label": "Three Revolutions",
       "isbn": null,
       "eisbn": "9780571367184"
     },
     {
-      "title": "Genocide and Propaganda",
+      "label": "Genocide and Propaganda",
       "isbn": "9781440876899",
       "eisbn": "9781440876905"
     },
     {
-      "title": "Driving Terror",
+      "label": "Driving Terror",
       "isbn": "9780826367600",
       "eisbn": "9780826367624"
     },
     {
-      "title": "Poet, Mystic, Widow, Wife",
+      "label": "Poet, Mystic, Widow, Wife",
       "isbn": "9780520396586",
       "eisbn": "9780520396593"
     },
     {
-      "title": "New Prize for These Eyes",
+      "label": "New Prize for These Eyes",
       "isbn": "9781668012352",
       "eisbn": "9781668012376"
     },
     {
-      "title": "Forgotten Landscapes",
+      "label": "Forgotten Landscapes",
       "isbn": "9781493088669",
       "eisbn": "9781493088676"
     },
     {
-      "title": "An Indigenous Peoples' History of the United States",
+      "label": "An Indigenous Peoples' History of the United States",
       "isbn": "9780807000403",
       "eisbn": "9780807000410"
     },
     {
-      "title": "Native America",
+      "label": "Native America",
       "isbn": "9780691220451",
       "eisbn": "9780691220475"
     },
     {
-      "title": "Learning From Occupational Therapy in Latin America",
+      "label": "Learning From Occupational Therapy in Latin America",
       "isbn": "9781839973895",
       "eisbn": "9781839973901"
     },
     {
-      "title": "Queer Anthropology",
+      "label": "Queer Anthropology",
       "isbn": "9781487553265",
       "eisbn": "9781487553289"
     },
     {
-      "title": "The Revolutionary Road to Me",
+      "label": "The Revolutionary Road to Me",
       "isbn": "9781509559541",
       "eisbn": "9781509566990"
     },
     {
-      "title": "Peyote Politics",
+      "label": "Peyote Politics",
       "isbn": "9780806195384",
       "eisbn": "9780806195674"
     },
     {
-      "title": "Pushback",
+      "label": "Pushback",
       "isbn": "9781541604070",
       "eisbn": "9781541604087"
     },
     {
-      "title": "Politics",
+      "label": "Politics",
       "isbn": "9781350356801",
       "eisbn": "9781350356825"
     },
     {
-      "title": "The Age of Reconstruction",
+      "label": "The Age of Reconstruction",
       "isbn": "9780691256092",
       "eisbn": "9780691256115"
     },
     {
-      "title": "Generations",
+      "label": "Generations",
       "isbn": "9781982181611",
       "eisbn": "9781982181635"
     },
     {
-      "title": "The Nineties",
+      "label": "The Nineties",
       "isbn": "9780735217959",
       "eisbn": "9780735217973"
     },
     {
-      "title": "Evicted",
+      "label": "Evicted",
       "isbn": "9780553447439",
       "eisbn": "9780553447446"
     },
     {
-      "title": "Genocide in Gaza",
+      "label": "Genocide in Gaza",
       "isbn": "9781963892024",
       "eisbn": "9781963892031"
     },
     {
-      "title": "Enslavement",
+      "label": "Enslavement",
       "isbn": "9781509561759",
       "eisbn": "9781509564194"
     },
     {
-      "title": "Abortion",
+      "label": "Abortion",
       "isbn": "9780593800232",
       "eisbn": "9780593800249"
     },
     {
-      "title": "Landing the Paris Climate Agreement",
+      "label": "Landing the Paris Climate Agreement",
       "isbn": "9780262049146",
       "eisbn": "9780262379601"
     },
     {
-      "title": "The Third Wave",
+      "label": "The Third Wave",
       "isbn": "9780806125169",
       "eisbn": "9780585149516"
     },
     {
-      "title": "Race and the Question of Palestine",
+      "label": "Race and the Question of Palestine",
       "isbn": "9781503642133",
       "eisbn": "9781503642980"
     },
     {
-      "title": "Reel Freedom",
+      "label": "Reel Freedom",
       "isbn": "9781439924129",
       "eisbn": "9781439924143"
     },
     {
-      "title": "A Subjective Approach to International Relations",
+      "label": "A Subjective Approach to International Relations",
       "isbn": "9781509567089",
       "eisbn": "9781509568734"
     },
     {
-      "title": "Tech Cold War: The Geopolitics of Technology",
+      "label": "Tech Cold War: The Geopolitics of Technology",
       "isbn": "9781962551564",
       "eisbn": "9781962551571"
     },
     {
-      "title": "Hubris",
+      "label": "Hubris",
       "isbn": "9780674299078",
       "eisbn": "9780674299610"
     },
     {
-      "title": "Islam",
+      "label": "Islam",
       "isbn": "9780691263533",
       "eisbn": "9780691265797"
     },
     {
-      "title": "The Anthropology of White Supremacy",
+      "label": "The Anthropology of White Supremacy",
       "isbn": "9780691258171",
       "eisbn": "9780691258195"
     },
     {
-      "title": "Spell Freedom",
+      "label": "Spell Freedom",
       "isbn": "9781668002698",
       "eisbn": "9781668002711"
     },
     {
-      "title": "Immaculate Forms",
+      "label": "Immaculate Forms",
       "isbn": "9781541606531",
       "eisbn": "9781541606548"
     },
     {
-      "title": "War and Genocide",
+      "label": "War and Genocide",
       "isbn": "9781538178058",
       "eisbn": "9781538178072"
     },
     {
-      "title": "Treaties, Lies and Promises",
+      "label": "Treaties, Lies and Promises",
       "isbn": "9781553807162",
       "eisbn": "9781553807179"
     },
     {
-      "title": "Plato",
+      "label": "Plato",
       "isbn": "9781789149463",
       "eisbn": "9781789149845"
     },
     {
-      "title": "Abolish Rent",
+      "label": "Abolish Rent",
       "isbn": "9798888902523",
       "eisbn": "9798888902752"
     },
     {
-      "title": "Corridors of Contagion",
+      "label": "Corridors of Contagion",
       "isbn": "9798888902561",
       "eisbn": "9798888902790"
     },
     {
-      "title": "Insurrection",
+      "label": "Insurrection",
       "isbn": "9781789148411",
       "eisbn": "9781789148893"
     },
     {
-      "title": "Defectors",
+      "label": "Defectors",
       "isbn": "9780593701362",
       "eisbn": "9780593701379"
     },
     {
-      "title": "Making the World Clean",
+      "label": "Making the World Clean",
       "isbn": "9781913380397",
       "eisbn": "9781913380380"
     },
     {
-      "title": "Asian American Histories of the United States",
+      "label": "Asian American Histories of the United States",
       "isbn": "9780807050798",
       "eisbn": "9780807050804"
     },
     {
-      "title": "Ojibwe in Minnesota",
+      "label": "Ojibwe in Minnesota",
       "isbn": null,
       "eisbn": "9780873517959"
     },
     {
-      "title": "Egypt's New Authoritarian Republic",
+      "label": "Egypt's New Authoritarian Republic",
       "isbn": "9798896160199",
       "eisbn": "9798896160205"
     },
     {
-      "title": "Planet Patriarchy",
+      "label": "Planet Patriarchy",
       "isbn": "9781805262879",
       "eisbn": "9781805265467"
     },
     {
-      "title": "Radical Advocate",
+      "label": "Radical Advocate",
       "isbn": "9780817322175",
       "eisbn": "9780817395377"
     },
     {
-      "title": "On Liberalism",
+      "label": "On Liberalism",
       "isbn": "9780262049771",
       "eisbn": "9780262383691"
     },
     {
-      "title": "The Making of Public Space",
+      "label": "The Making of Public Space",
       "isbn": "9781509562770",
       "eisbn": "9781509567003"
     },
     {
-      "title": "The Fall of Israel",
+      "label": "The Fall of Israel",
       "isbn": "9781963892000",
       "eisbn": "9781963892017"
     },
     {
-      "title": "Freedom Ship",
+      "label": "Freedom Ship",
       "isbn": "9780525558347",
       "eisbn": "9780525558354"
     },
     {
-      "title": "Land Power",
+      "label": "Land Power",
       "isbn": "9781541604810",
       "eisbn": "9781541604827"
     },
     {
-      "title": "Criticizing Science",
+      "label": "Criticizing Science",
       "isbn": "9781421450155",
       "eisbn": "9781421450179"
     },
     {
-      "title": "A History of the World in Six Plagues",
+      "label": "A History of the World in Six Plagues",
       "isbn": "9781982197834",
       "eisbn": "9781982197858"
     },
     {
-      "title": "A Very Short History of the Israelâ€“Palestine Conflict",
+      "label": "A Very Short History of the Israelâ€“Palestine Conflict",
       "isbn": null,
       "eisbn": "9780861549726"
     },
     {
-      "title": "American Apocalypse",
+      "label": "American Apocalypse",
       "isbn": "9781503634596",
       "eisbn": "9781503639324"
     },
     {
-      "title": "We Have Never Been Woke",
+      "label": "We Have Never Been Woke",
       "isbn": "9780691232607",
       "eisbn": "9780691232614"
     },
     {
-      "title": "Climate Change and International History",
+      "label": "Climate Change and International History",
       "isbn": "9781350240124",
       "eisbn": "9781350240148"
     }
