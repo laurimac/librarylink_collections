@@ -1,506 +1,701 @@
 {
   "description": "Top 100 Communication and Journalism EBSCO eBooks purchased in 2025",
   "label": "2025 Top 100 Communication Journalism eBooks",
-  "items": [
+  "list": [
     {
       "label": "Lies That Kill",
-      "isbn": "9780815740728",
-      "eisbn": "9780815740735"
+      "isbns": [
+        "9780815740728",
+        "9780815740735"
+      ]
     },
     {
       "label": "Artificial Intelligence in Journalism",
-      "isbn": "9781476694085",
-      "eisbn": "9781476654829"
+      "isbns": [
+        "9781476694085",
+        "9781476654829"
+      ]
     },
     {
       "label": "Leading with Cultural Intelligence 3rd Edition",
-      "isbn": null,
-      "eisbn": "9781400247479"
+      "isbns": [
+        "9781400247479"
+      ]
     },
     {
       "label": "Glad We Met",
-      "isbn": "9780197641873",
-      "eisbn": "9780197641880"
+      "isbns": [
+        "9780197641873",
+        "9780197641880"
+      ]
     },
     {
       "label": "Difficult Conversations",
-      "isbn": "9780143137597",
-      "eisbn": "9780593511695"
+      "isbns": [
+        "9780143137597",
+        "9780593511695"
+      ]
     },
     {
       "label": "When Everyone Knows That Everyone Knows...",
-      "isbn": "9781668011577",
-      "eisbn": "9781668011607"
+      "isbns": [
+        "9781668011577",
+        "9781668011607"
+      ]
     },
     {
       "label": "Writing, Presenting, and Communicating with Confidence (HBR Work Smart Series)",
-      "isbn": "9798892790093",
-      "eisbn": "9798892790109"
+      "isbns": [
+        "9798892790093",
+        "9798892790109"
+      ]
     },
     {
       "label": "The Social Biome",
-      "isbn": "9780300272147",
-      "eisbn": "9780300281507"
+      "isbns": [
+        "9780300272147",
+        "9780300281507"
+      ]
     },
     {
       "label": "Exploring Artificial Intelligence Implications for Journalism and Mass Communication Education",
-      "isbn": "9781636671949",
-      "eisbn": "9781636671925"
+      "isbns": [
+        "9781636671949",
+        "9781636671925"
+      ]
     },
     {
       "label": "The Next Conversation",
-      "isbn": "9780593718728",
-      "eisbn": "9780593718964"
+      "isbns": [
+        "9780593718728",
+        "9780593718964"
+      ]
     },
     {
       "label": "Sportscasting in the Digital Age",
-      "isbn": "9781442246034",
-      "eisbn": "9781442246058"
+      "isbns": [
+        "9781442246034",
+        "9781442246058"
+      ]
     },
     {
       "label": "Crucial Conversations: Tools for Talking When Stakes Are High, Third Edition",
-      "isbn": "9781260474183",
-      "eisbn": "9781260474190"
+      "isbns": [
+        "9781260474183",
+        "9781260474190"
+      ]
     },
     {
       "label": "Hard Talk",
-      "isbn": "9780262049566",
-      "eisbn": "9780262382052"
+      "isbns": [
+        "9780262049566",
+        "9780262382052"
+      ]
     },
     {
       "label": "Talk",
-      "isbn": "9780593443491",
-      "eisbn": "9780593443507"
+      "isbns": [
+        "9780593443491",
+        "9780593443507"
+      ]
     },
     {
       "label": "Radical Listening",
-      "isbn": null,
-      "eisbn": "9781523007202"
+      "isbns": [
+        "9781523007202"
+      ]
     },
     {
       "label": "The Newsmongers",
-      "isbn": "9781789149418",
-      "eisbn": "9781789149814"
+      "isbns": [
+        "9781789149418",
+        "9781789149814"
+      ]
     },
     {
       "label": "Political Illustration",
-      "isbn": "9781350337145",
-      "eisbn": "9781350337176"
+      "isbns": [
+        "9781350337145",
+        "9781350337176"
+      ]
     },
     {
       "label": "Global Journalism",
-      "isbn": "9781538193587",
-      "eisbn": "9781538193600"
+      "isbns": [
+        "9781538193587",
+        "9781538193600"
+      ]
     },
     {
       "label": "Supercommunicators",
-      "isbn": "9780593243916",
-      "eisbn": "9780593243930"
+      "isbns": [
+        "9780593243916",
+        "9780593243930"
+      ]
     },
     {
       "label": "Communicatie Handboek",
-      "isbn": "9789001035068",
-      "eisbn": "9789001035099"
+      "isbns": [
+        "9789001035068",
+        "9789001035099"
+      ]
     },
     {
       "label": "MAGA and the White Social Conservative Worldview",
-      "isbn": "9781666977271",
-      "eisbn": "9781666977288"
+      "isbns": [
+        "9781666977271",
+        "9781666977288"
+      ]
     },
     {
       "label": "Indigenous African Communication and Media Systems in a Digitized Age",
-      "isbn": "9781666965308",
-      "eisbn": "9781666965315"
+      "isbns": [
+        "9781666965308",
+        "9781666965315"
+      ]
     },
     {
       "label": "Owned",
-      "isbn": "9781645030461",
-      "eisbn": "9781645030485"
+      "isbns": [
+        "9781645030461",
+        "9781645030485"
+      ]
     },
     {
       "label": "The Influencer Industry",
-      "isbn": "9780691231020",
-      "eisbn": "9780691234076"
+      "isbns": [
+        "9780691231020",
+        "9780691234076"
+      ]
     },
     {
       "label": "Information Sick",
-      "isbn": "9781421453125",
-      "eisbn": "9781421453132"
+      "isbns": [
+        "9781421453125",
+        "9781421453132"
+      ]
     },
     {
       "label": "Silent Talk",
-      "isbn": "9781475854916",
-      "eisbn": "9781475854930"
+      "isbns": [
+        "9781475854916",
+        "9781475854930"
+      ]
     },
     {
       "label": "Revolutionizing Communication",
-      "isbn": "9781032733425",
-      "eisbn": "9781003473633"
+      "isbns": [
+        "9781032733425",
+        "9781003473633"
+      ]
     },
     {
       "label": "Project Censored's State of the Free Press 2025",
-      "isbn": "9781644214299",
-      "eisbn": "9781644214305"
+      "isbns": [
+        "9781644214299",
+        "9781644214305"
+      ]
     },
     {
       "label": "I Never Thought of It That Way",
-      "isbn": "9781637740323",
-      "eisbn": "9781637740330"
+      "isbns": [
+        "9781637740323",
+        "9781637740330"
+      ]
     },
     {
       "label": "Forming the Public",
-      "isbn": "9780252046506",
-      "eisbn": "9780252047817"
+      "isbns": [
+        "9780252046506",
+        "9780252047817"
+      ]
     },
     {
       "label": "Beyond the Sage on the Stage",
-      "isbn": "9781487547486",
-      "eisbn": "9781487547509"
+      "isbns": [
+        "9781487547486",
+        "9781487547509"
+      ]
     },
     {
       "label": "How America Gets the News",
-      "isbn": "9781442235267",
-      "eisbn": "9781442235274"
+      "isbns": [
+        "9781442235267",
+        "9781442235274"
+      ]
     },
     {
       "label": "Queer(ing) Communication Studies",
-      "isbn": "9781666929904",
-      "eisbn": "9781666929911"
+      "isbns": [
+        "9781666929904",
+        "9781666929911"
+      ]
     },
     {
       "label": "Communication Research in the Big Data Era",
-      "isbn": "9781666946611",
-      "eisbn": "9781666946628"
+      "isbns": [
+        "9781666946611",
+        "9781666946628"
+      ]
     },
     {
       "label": "Podcast or Perish",
-      "isbn": "9781501385209",
-      "eisbn": "9781501385186"
+      "isbns": [
+        "9781501385209",
+        "9781501385186"
+      ]
     },
     {
       "label": "Attack From Within",
-      "isbn": "9781644213636",
-      "eisbn": "9781644213643"
+      "isbns": [
+        "9781644213636",
+        "9781644213643"
+      ]
     },
     {
       "label": "Health and Science Journalism in the Twenty-First Century",
-      "isbn": "9781666949582",
-      "eisbn": "9781666949599"
+      "isbns": [
+        "9781666949582",
+        "9781666949599"
+      ]
     },
     {
       "label": "Personalized News Communication and Media Trust in the Modern Era",
-      "isbn": "9783031753633",
-      "eisbn": "9783031753640"
+      "isbns": [
+        "9783031753633",
+        "9783031753640"
+      ]
     },
     {
       "label": "Having Difficult Conversations (HBR Emotional Intelligence Series)",
-      "isbn": "9798892790796",
-      "eisbn": "9798892790802"
+      "isbns": [
+        "9798892790796",
+        "9798892790802"
+      ]
     },
     {
       "label": "A History of Disinformation in the U.S.",
-      "isbn": "9781032330518",
-      "eisbn": "9781003331551"
+      "isbns": [
+        "9781032330518",
+        "9781003331551"
+      ]
     },
     {
       "label": "The Elements of Journalism, Revised and Updated 4th Edition",
-      "isbn": "9780593239353",
-      "eisbn": "9780593239360"
+      "isbns": [
+        "9780593239353",
+        "9780593239360"
+      ]
     },
     {
       "label": "Leren communiceren",
-      "isbn": "9789001038526",
-      "eisbn": "9789001038625"
+      "isbns": [
+        "9789001038526",
+        "9789001038625"
+      ]
     },
     {
       "label": "Humble Inquiry, 3rd Edition",
-      "isbn": "9798890570956",
-      "eisbn": "9798890570963"
+      "isbns": [
+        "9798890570956",
+        "9798890570963"
+      ]
     },
     {
       "label": "Don't Say Um",
-      "isbn": "9780306834509",
-      "eisbn": "9780306834523"
+      "isbns": [
+        "9780306834509",
+        "9780306834523"
+      ]
     },
     {
       "label": "The Manchurian Journalist",
-      "isbn": "9781634244541",
-      "eisbn": "9781634244558"
+      "isbns": [
+        "9781634244541",
+        "9781634244558"
+      ]
     },
     {
       "label": "Trolling Ourselves to Death",
-      "isbn": "9780197557761",
-      "eisbn": "9780197557785"
+      "isbns": [
+        "9780197557761",
+        "9780197557785"
+      ]
     },
     {
       "label": "Workplace Communication",
-      "isbn": "9780367332662",
-      "eisbn": "9780429318948"
+      "isbns": [
+        "9780367332662",
+        "9780429318948"
+      ]
     },
     {
       "label": "Business Communication Second Edition",
-      "isbn": null,
-      "eisbn": "9780190743482"
+      "isbns": [
+        "9780190743482"
+      ]
     },
     {
       "label": "Interculturele communicatie",
-      "isbn": "9789465070049",
-      "eisbn": "9789465070056"
+      "isbns": [
+        "9789465070049",
+        "9789465070056"
+      ]
     },
     {
       "label": "Communication Theory: Mapping a Diverse Field",
-      "isbn": "9781804413753",
-      "eisbn": "9781804413760"
+      "isbns": [
+        "9781804413753",
+        "9781804413760"
+      ]
     },
     {
       "label": "Podcast Studies",
-      "isbn": "9781771126434",
-      "eisbn": "9781771126458"
+      "isbns": [
+        "9781771126434",
+        "9781771126458"
+      ]
     },
     {
       "label": "Manufacturing Consensus",
-      "isbn": "9780300251234",
-      "eisbn": "9780300269154"
+      "isbns": [
+        "9780300251234",
+        "9780300269154"
+      ]
     },
     {
       "label": "Introduction to AAC",
-      "isbn": "9781635507799",
-      "eisbn": "9781635505078"
+      "isbns": [
+        "9781635507799",
+        "9781635505078"
+      ]
     },
     {
       "label": "Intercultural sensitivity",
-      "isbn": "9789465070063",
-      "eisbn": "9789465070070"
+      "isbns": [
+        "9789465070063",
+        "9789465070070"
+      ]
     },
     {
       "label": "Communicating Resiliency and Efficacy in a Digital Age",
-      "isbn": "9781837978120",
-      "eisbn": "9781837978113"
+      "isbns": [
+        "9781837978120",
+        "9781837978113"
+      ]
     },
     {
       "label": "Communication Strategies for People with Severe Disabilities",
-      "isbn": "9783031838064",
-      "eisbn": "9783031838071"
+      "isbns": [
+        "9783031838064",
+        "9783031838071"
+      ]
     },
     {
       "label": "How To Talk To Absolutely Anyone",
-      "isbn": "9781907312649",
-      "eisbn": "9781907312663"
+      "isbns": [
+        "9781907312649",
+        "9781907312663"
+      ]
     },
     {
       "label": "The Routledge Handbook of Organizational Leadership Communication",
-      "isbn": "9781032461076",
-      "eisbn": "9781040340189"
+      "isbns": [
+        "9781032461076",
+        "9781040340189"
+      ]
     },
     {
       "label": "Karl Jaspers on Truth and Dialogue",
-      "isbn": "9781793649126",
-      "eisbn": "9781793649133"
+      "isbns": [
+        "9781793649126",
+        "9781793649133"
+      ]
     },
     {
       "label": "Ping",
-      "isbn": "9781668055243",
-      "eisbn": "9781668055267"
+      "isbns": [
+        "9781668055243",
+        "9781668055267"
+      ]
     },
     {
       "label": "Why We Believe Disinformation: An Argument for Strategic Communication",
-      "isbn": "9781804416358",
-      "eisbn": "9781804416365"
+      "isbns": [
+        "9781804416358",
+        "9781804416365"
+      ]
     },
     {
       "label": "Constant Disconnection",
-      "isbn": "9781503632356",
-      "eisbn": "9781503639805"
+      "isbns": [
+        "9781503632356",
+        "9781503639805"
+      ]
     },
     {
       "label": "Rhetorical Democracy",
-      "isbn": "9781666961935",
-      "eisbn": "9781666961942"
+      "isbns": [
+        "9781666961935",
+        "9781666961942"
+      ]
     },
     {
       "label": "Immersive Journalism",
-      "isbn": "9781666938609",
-      "eisbn": "9781666938616"
+      "isbns": [
+        "9781666938609",
+        "9781666938616"
+      ]
     },
     {
       "label": "Algorithmic Audience in the Age of Artificial Intelligence",
-      "isbn": "9781433173585",
-      "eisbn": "9781433173608"
+      "isbns": [
+        "9781433173585",
+        "9781433173608"
+      ]
     },
     {
       "label": "The Perfect Story",
-      "isbn": "9781400333837",
-      "eisbn": "9781400333844"
+      "isbns": [
+        "9781400333837",
+        "9781400333844"
+      ]
     },
     {
       "label": "The Art of Orality",
-      "isbn": "9783031854309",
-      "eisbn": "9783031854316"
+      "isbns": [
+        "9783031854309",
+        "9783031854316"
+      ]
     },
     {
       "label": "The Sage Handbook of Intercultural Communication",
-      "isbn": "9781529626391",
-      "eisbn": "9781036202453"
+      "isbns": [
+        "9781529626391",
+        "9781036202453"
+      ]
     },
     {
       "label": "Computer-Mediated Communication",
-      "isbn": "9781538186473",
-      "eisbn": "9781538191019"
+      "isbns": [
+        "9781538186473",
+        "9781538191019"
+      ]
     },
     {
       "label": "Ethics in Contact Rhetoric",
-      "isbn": "9781666934731",
-      "eisbn": "9781666934748"
+      "isbns": [
+        "9781666934731",
+        "9781666934748"
+      ]
     },
     {
       "label": "Not My Words",
-      "isbn": "9789819797882",
-      "eisbn": "9789819797899"
+      "isbns": [
+        "9789819797882",
+        "9789819797899"
+      ]
     },
     {
       "label": "Journalism in the Generation Z Age",
-      "isbn": "9781793639943",
-      "eisbn": "9781793639950"
+      "isbns": [
+        "9781793639943",
+        "9781793639950"
+      ]
     },
     {
       "label": "Science V. Story",
-      "isbn": "9780520380813",
-      "eisbn": "9780520380837"
+      "isbns": [
+        "9780520380813",
+        "9780520380837"
+      ]
     },
     {
       "label": "Automated Journalism at the Intersection of Politics and Black Culture",
-      "isbn": "9781666913330",
-      "eisbn": "9781666913347"
+      "isbns": [
+        "9781666913330",
+        "9781666913347"
+      ]
     },
     {
       "label": "Eight Words That Changed The World",
-      "isbn": "9781785909047",
-      "eisbn": "9781785909184"
+      "isbns": [
+        "9781785909047",
+        "9781785909184"
+      ]
     },
     {
       "label": "Careers in Mass Communication",
-      "isbn": "9798891793767",
-      "eisbn": "9798891793774"
+      "isbns": [
+        "9798891793767",
+        "9798891793774"
+      ]
     },
     {
       "label": "Reasons and Feelings",
-      "isbn": "9780226832036",
-      "eisbn": "9780226843612"
+      "isbns": [
+        "9780226832036",
+        "9780226843612"
+      ]
     },
     {
       "label": "Disinformation in Central Europe",
-      "isbn": "9783031768705",
-      "eisbn": "9783031768712"
+      "isbns": [
+        "9783031768705",
+        "9783031768712"
+      ]
     },
     {
       "label": "How Social Media Has Transformed Journalism",
-      "isbn": "9783031875137",
-      "eisbn": "9783031875144"
+      "isbns": [
+        "9783031875137",
+        "9783031875144"
+      ]
     },
     {
       "label": "Learning to Listen and Listening to Learn",
-      "isbn": "9781071973578",
-      "eisbn": "9781071973592"
+      "isbns": [
+        "9781071973578",
+        "9781071973592"
+      ]
     },
     {
       "label": "Literary Sports Journalism: Beyond the Boundaries",
-      "isbn": "9783031767531",
-      "eisbn": "9783031767548"
+      "isbns": [
+        "9783031767531",
+        "9783031767548"
+      ]
     },
     {
       "label": "Basisboek journalistiek schrijven",
-      "isbn": "9789001038649",
-      "eisbn": "9789001038663"
+      "isbns": [
+        "9789001038649",
+        "9789001038663"
+      ]
     },
     {
       "label": "Otherness in Communication Research",
-      "isbn": "9783031737879",
-      "eisbn": "9783031737886"
+      "isbns": [
+        "9783031737879",
+        "9783031737886"
+      ]
     },
     {
       "label": "Disconnected",
-      "isbn": "9781637427460",
-      "eisbn": "9781637427477"
+      "isbns": [
+        "9781637427460",
+        "9781637427477"
+      ]
     },
     {
       "label": "Social Media",
-      "isbn": "9780367897802",
-      "eisbn": "9781003021100"
+      "isbns": [
+        "9780367897802",
+        "9781003021100"
+      ]
     },
     {
       "label": "Censorship, Digital Media, and the Global Crackdown on Freedom of Expression",
-      "isbn": "9781433199752",
-      "eisbn": "9781433199738"
+      "isbns": [
+        "9781433199752",
+        "9781433199738"
+      ]
     },
     {
       "label": "Avoiding the News",
-      "isbn": null,
-      "eisbn": "9780231555883"
+      "isbns": [
+        "9780231555883"
+      ]
     },
     {
       "label": "Communication and Organizational Changemaking for Diversity, Equity, and Inclusion",
-      "isbn": "9781032367774",
-      "eisbn": "9781000992908"
+      "isbns": [
+        "9781032367774",
+        "9781000992908"
+      ]
     },
     {
       "label": "Democracy's News",
-      "isbn": "9780472055845",
-      "eisbn": "9780472221073"
+      "isbns": [
+        "9780472055845",
+        "9780472221073"
+      ]
     },
     {
       "label": "Parties and Prejudice",
-      "isbn": "9780226842387",
-      "eisbn": "9780226842394"
+      "isbns": [
+        "9780226842387",
+        "9780226842394"
+      ]
     },
     {
       "label": "How to Improve Your Communication Skills",
-      "isbn": "9781398621121",
-      "eisbn": "9781398621138"
+      "isbns": [
+        "9781398621121",
+        "9781398621138"
+      ]
     },
     {
       "label": "The Handbook of International Crisis and Risk Communication Research",
-      "isbn": "9781394180806",
-      "eisbn": "9781394180820"
+      "isbns": [
+        "9781394180806",
+        "9781394180820"
+      ]
     },
     {
       "label": "On Bullshit",
-      "isbn": "9780691276786",
-      "eisbn": "9780691276793"
+      "isbns": [
+        "9780691276786",
+        "9780691276793"
+      ]
     },
     {
       "label": "All You Need To Know About Public Relations",
-      "isbn": "9781836088417",
-      "eisbn": "9781836088387"
+      "isbns": [
+        "9781836088417",
+        "9781836088387"
+      ]
     },
     {
       "label": "Tactical Approaches to Technical Communication",
-      "isbn": "9798855802054",
-      "eisbn": "9798855802078"
+      "isbns": [
+        "9798855802054",
+        "9798855802078"
+      ]
     },
     {
       "label": "Misguided",
-      "isbn": null,
-      "eisbn": "9780231555814"
+      "isbns": [
+        "9780231555814"
+      ]
     },
     {
       "label": "The Palgrave Handbook of Global Digital Journalism",
-      "isbn": "9783031593789",
-      "eisbn": "9783031593796"
+      "isbns": [
+        "9783031593789",
+        "9783031593796"
+      ]
     },
     {
       "label": "Strategic Communication Research in the Age of AI",
-      "isbn": "9781538197868",
-      "eisbn": "9781538197882"
+      "isbns": [
+        "9781538197868",
+        "9781538197882"
+      ]
     },
     {
       "label": "Normalizing the Sports Journalism Niche",
-      "isbn": "9781636678290",
-      "eisbn": "9781636678368"
+      "isbns": [
+        "9781636678290",
+        "9781636678368"
+      ]
     },
     {
       "label": "Public Scholarship in Communication Studies",
-      "isbn": "9780252045691",
-      "eisbn": "9780252056550"
+      "isbns": [
+        "9780252045691",
+        "9780252056550"
+      ]
     }
   ]
 }
