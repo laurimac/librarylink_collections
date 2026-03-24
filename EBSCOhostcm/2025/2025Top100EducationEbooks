@@ -4,503 +4,702 @@
   "list": [
     {
       "label": "The Opposite of Cheating",
-      "isbn": "9780806194950",
-      "eisbn": "9780806195698"
+      "isbns": [
+        "9780806194950",
+        "9780806195698"
+      ]
     },
     {
       "label": "Qualitative Research",
-      "isbn": "9781394266449",
-      "eisbn": "9781394266456"
+      "isbns": [
+        "9781394266449",
+        "9781394266456"
+      ]
     },
     {
       "label": "The Caring University",
-      "isbn": "9781421451947",
-      "eisbn": "9781421451954"
+      "isbns": [
+        "9781421451947",
+        "9781421451954"
+      ]
     },
     {
       "label": "Original Sins",
-      "isbn": "9780593243701",
-      "eisbn": "9780593243718"
+      "isbns": [
+        "9780593243701",
+        "9780593243718"
+      ]
     },
     {
       "label": "Hacking College",
-      "isbn": "9781421450759",
-      "eisbn": "9781421450766"
+      "isbns": [
+        "9781421450759",
+        "9781421450766"
+      ]
     },
     {
       "label": "How Do We Learn?",
-      "isbn": "9781394230518",
-      "eisbn": "9781394230525"
+      "isbns": [
+        "9781394230518",
+        "9781394230525"
+      ]
     },
     {
       "label": "A Pedagogy of Kindness",
-      "isbn": "9780806193847",
-      "eisbn": "9780806194332"
+      "isbns": [
+        "9780806193847",
+        "9780806194332"
+      ]
     },
     {
       "label": "Understanding Academic Freedom",
-      "isbn": "9781421450940",
-      "eisbn": "9781421450957"
+      "isbns": [
+        "9781421450940",
+        "9781421450957"
+      ]
     },
     {
       "label": "How Learning Works",
-      "isbn": "9781119861690",
-      "eisbn": "9781119860143"
+      "isbns": [
+        "9781119861690",
+        "9781119860143"
+      ]
     },
     {
       "label": "The New Meaning of Educational Change",
-      "isbn": "9780807786727",
-      "eisbn": "9780807782897"
+      "isbns": [
+        "9780807786727",
+        "9780807782897"
+      ]
     },
     {
       "label": "How to Mentor Anyone in Academia",
-      "isbn": "9780691248707",
-      "eisbn": "9780691248721"
+      "isbns": [
+        "9780691248707",
+        "9780691248721"
+      ]
     },
     {
       "label": "Unraveling Dyslexia",
-      "isbn": "9781538170236",
-      "eisbn": "9781538170250"
+      "isbns": [
+        "9781538170236",
+        "9781538170250"
+      ]
     },
     {
       "label": "Of Many Minds",
-      "isbn": "9781421452524",
-      "eisbn": "9781421452531"
+      "isbns": [
+        "9781421452524",
+        "9781421452531"
+      ]
     },
     {
       "label": "Classroom Assessment Techniques",
-      "isbn": "9781119860167",
-      "eisbn": "9781119860174"
+      "isbns": [
+        "9781119860167",
+        "9781119860174"
+      ]
     },
     {
       "label": "Grading for Equity",
-      "isbn": "9781071876602",
-      "eisbn": "9781071876572"
+      "isbns": [
+        "9781071876602",
+        "9781071876572"
+      ]
     },
     {
       "label": "Generative AI and Education",
-      "isbn": "9783031679902",
-      "eisbn": "9783031679919"
+      "isbns": [
+        "9783031679902",
+        "9783031679919"
+      ]
     },
     {
       "label": "Learning in a Time of Abundance",
-      "isbn": "9781421447797",
-      "eisbn": "9781421447803"
+      "isbns": [
+        "9781421447797",
+        "9781421447803"
+      ]
     },
     {
       "label": "Small Teaching",
-      "isbn": "9781119755548",
-      "eisbn": "9781119755562"
+      "isbns": [
+        "9781119755548",
+        "9781119755562"
+      ]
     },
     {
       "label": "Be the Architect of Your Inclusive Classroom: Building Communities for Learning",
-      "isbn": "9780807786963",
-      "eisbn": "9780807783016"
+      "isbns": [
+        "9780807786963",
+        "9780807783016"
+      ]
     },
     {
       "label": "The American Private School",
-      "isbn": "9798881803780",
-      "eisbn": "9798881803797"
+      "isbns": [
+        "9798881803780",
+        "9798881803797"
+      ]
     },
     {
       "label": "Inclusive Strategies for Teaching Students with High Incidence Disabilities",
-      "isbn": "9781538162736",
-      "eisbn": "9781538162750"
+      "isbns": [
+        "9781538162736",
+        "9781538162750"
+      ]
     },
     {
       "label": "Effective Practices in AI Literacy Education",
-      "isbn": "9781836088530",
-      "eisbn": "9781836088523"
+      "isbns": [
+        "9781836088530",
+        "9781836088523"
+      ]
     },
     {
       "label": "Teach Truth",
-      "isbn": "9798888902516",
-      "eisbn": "9798888902745"
+      "isbns": [
+        "9798888902516",
+        "9798888902745"
+      ]
     },
     {
       "label": "The Daycare Myth: What We Get Wrong About Early Care and Education (and What We Should Do About It)",
-      "isbn": "9780807786482",
-      "eisbn": "9780807782781"
+      "isbns": [
+        "9780807786482",
+        "9780807782781"
+      ]
     },
     {
       "label": "We Want to Do More Than Survive",
-      "isbn": "9780807069158",
-      "eisbn": "9780807069165"
+      "isbns": [
+        "9780807069158",
+        "9780807069165"
+      ]
     },
     {
       "label": "Shifting the Lens in History Education",
-      "isbn": "9781682539668",
-      "eisbn": "9781682539651"
+      "isbns": [
+        "9781682539668",
+        "9781682539651"
+      ]
     },
     {
       "label": "College Student Mental Health and Wellness",
-      "isbn": "9781835491973",
-      "eisbn": "9781835491942"
+      "isbns": [
+        "9781835491973",
+        "9781835491942"
+      ]
     },
     {
       "label": "High-Impact Design for Online Courses",
-      "isbn": "9781032577951",
-      "eisbn": "9781003442370"
+      "isbns": [
+        "9781032577951",
+        "9781003442370"
+      ]
     },
     {
       "label": "Religion and the American University",
-      "isbn": "9781421451732",
-      "eisbn": "9781421451749"
+      "isbns": [
+        "9781421451732",
+        "9781421451749"
+      ]
     },
     {
       "label": "Liberating the Classroom",
-      "isbn": "9781421450674",
-      "eisbn": "9781421450681"
+      "isbns": [
+        "9781421450674",
+        "9781421450681"
+      ]
     },
     {
       "label": "AI in Social Studies Education: Tools for Thoughtful Practice With Generative Artificial Intelligence",
-      "isbn": "9780807786680",
-      "eisbn": "9780807782873"
+      "isbns": [
+        "9780807786680",
+        "9780807782873"
+      ]
     },
     {
       "label": "Multiplicity, Belonging, and Free Speech in US Higher Education",
-      "isbn": "9798881805142",
-      "eisbn": "9798881805166"
+      "isbns": [
+        "9798881805142",
+        "9798881805166"
+      ]
     },
     {
       "label": "Terms of Respect",
-      "isbn": "9781541607453",
-      "eisbn": "9781541607460"
+      "isbns": [
+        "9781541607453",
+        "9781541607460"
+      ]
     },
     {
       "label": "Future-Ready Teaching With AI",
-      "isbn": "9781071949641",
-      "eisbn": "9781071973776"
+      "isbns": [
+        "9781071949641",
+        "9781071973776"
+      ]
     },
     {
       "label": "Why Fascists Fear Teachers",
-      "isbn": "9798217045419",
-      "eisbn": "9798217045426"
+      "isbns": [
+        "9798217045419",
+        "9798217045426"
+      ]
     },
     {
       "label": "The Guide to LGBTQ+ Research",
-      "isbn": "9781835499696",
-      "eisbn": "9781835499665"
+      "isbns": [
+        "9781835499696",
+        "9781835499665"
+      ]
     },
     {
       "label": "Starving the Dream",
-      "isbn": "9781421450902",
-      "eisbn": "9781421450919"
+      "isbns": [
+        "9781421450902",
+        "9781421450919"
+      ]
     },
     {
       "label": "Teaching and Learning STEM",
-      "isbn": "9781394196340",
-      "eisbn": "9781394196357"
+      "isbns": [
+        "9781394196340",
+        "9781394196357"
+      ]
     },
     {
       "label": "The Dissertation Journey",
-      "isbn": "9781071891285",
-      "eisbn": "9781071891292"
+      "isbns": [
+        "9781071891285",
+        "9781071891292"
+      ]
     },
     {
       "label": "Culturally Responsive Teaching and The Brain",
-      "isbn": "9781483308012",
-      "eisbn": "9781483307985"
+      "isbns": [
+        "9781483308012",
+        "9781483307985"
+      ]
     },
     {
       "label": "Policy Documents and Reports",
-      "isbn": "9781421451879",
-      "eisbn": "9781421451893"
+      "isbns": [
+        "9781421451879",
+        "9781421451893"
+      ]
     },
     {
       "label": "The Impact of ChatGPT on Higher Education",
-      "isbn": "9781837976485",
-      "eisbn": "9781837976478"
+      "isbns": [
+        "9781837976485",
+        "9781837976478"
+      ]
     },
     {
       "label": "Handbook of Writing Research",
-      "isbn": "9781462557288",
-      "eisbn": "9781462557318"
+      "isbns": [
+        "9781462557288",
+        "9781462557318"
+      ]
     },
     {
       "label": "Who Needs College Anymore?",
-      "isbn": "9781682539521",
-      "eisbn": "9781682539538"
+      "isbns": [
+        "9781682539521",
+        "9781682539538"
+      ]
     },
     {
       "label": "The AI Assist",
-      "isbn": "9781416633334",
-      "eisbn": "9781416633341"
+      "isbns": [
+        "9781416633334",
+        "9781416633341"
+      ]
     },
     {
       "label": "Using Generative AI Effectively in Higher Education",
-      "isbn": "9781032773988",
-      "eisbn": "9781003482918"
+      "isbns": [
+        "9781032773988",
+        "9781003482918"
+      ]
     },
     {
       "label": "Rethinking Chronic Absenteeism",
-      "isbn": "9781682539637",
-      "eisbn": "9781682539620"
+      "isbns": [
+        "9781682539637",
+        "9781682539620"
+      ]
     },
     {
       "label": "AI with Intention",
-      "isbn": "9781416633624",
-      "eisbn": "9781416633631"
+      "isbns": [
+        "9781416633624",
+        "9781416633631"
+      ]
     },
     {
       "label": "The Fight for Sex Ed",
-      "isbn": "9780807008065",
-      "eisbn": "9780807008058"
+      "isbns": [
+        "9780807008065",
+        "9780807008058"
+      ]
     },
     {
       "label": "Hidden in Blackness: Being Black and Being an Immigrant in U.S. Schools and Colleges",
-      "isbn": "9780807786925",
-      "eisbn": "9780807782996"
+      "isbns": [
+        "9780807786925",
+        "9780807782996"
+      ]
     },
     {
       "label": "Using Technology in a Differentiated Classroom",
-      "isbn": "9781416633211",
-      "eisbn": "9781416633228"
+      "isbns": [
+        "9781416633211",
+        "9781416633228"
+      ]
     },
     {
       "label": "An Abundance of Caution",
-      "isbn": "9780262549158",
-      "eisbn": "9780262380034"
+      "isbns": [
+        "9780262549158",
+        "9780262380034"
+      ]
     },
     {
       "label": "Handbook of Social and Emotional Learning",
-      "isbn": "9781462555628",
-      "eisbn": "9781462555659"
+      "isbns": [
+        "9781462555628",
+        "9781462555659"
+      ]
     },
     {
       "label": "The American Community College",
-      "isbn": "9781394180943",
-      "eisbn": "9781394180950"
+      "isbns": [
+        "9781394180943",
+        "9781394180950"
+      ]
     },
     {
       "label": "Critical Theory, Methods, and Design in Educational Research: Bearing Witness in Times of Deepening Inequalities",
-      "isbn": "9780807787809",
-      "eisbn": "9780807783450"
+      "isbns": [
+        "9780807787809",
+        "9780807783450"
+      ]
     },
     {
       "label": "You Are Not a Kinesthetic Learner",
-      "isbn": "9780226841366",
-      "eisbn": "9780226841373"
+      "isbns": [
+        "9780226841366",
+        "9780226841373"
+      ]
     },
     {
       "label": "Youth Participatory Action Research in Your Classroom: Teaching and Learning for Active Citizenship",
-      "isbn": "9780807787045",
-      "eisbn": "9780807783054"
+      "isbns": [
+        "9780807787045",
+        "9780807783054"
+      ]
     },
     {
       "label": "Young Childrenâ€™s Amazing Math: A Guide to Understanding and Supporting Early Learning",
-      "isbn": "9780807786512",
-      "eisbn": "9780807782798"
+      "isbns": [
+        "9780807786512",
+        "9780807782798"
+      ]
     },
     {
       "label": "College Success for Students of Color: A Culturally Empowered, Assets-Based Approach",
-      "isbn": "9780807786222",
-      "eisbn": "9780807782651"
+      "isbns": [
+        "9780807786222",
+        "9780807782651"
+      ]
     },
     {
       "label": "Why Play?: How to Make Play an Essential Part of Early Education",
-      "isbn": "9780807786208",
-      "eisbn": "9780807782644"
+      "isbns": [
+        "9780807786208",
+        "9780807782644"
+      ]
     },
     {
       "label": "The Magnitude of Us: An Educatorâ€™s Guide to Creating Culturally Responsive Classrooms",
-      "isbn": "9780807769881",
-      "eisbn": "9780807782484"
+      "isbns": [
+        "9780807769881",
+        "9780807782484"
+      ]
     },
     {
       "label": "Introduction to Research 4/e",
-      "isbn": "9780627038952",
-      "eisbn": "9780627038969"
+      "isbns": [
+        "9780627038952",
+        "9780627038969"
+      ]
     },
     {
       "label": "Making Algebra Meaningful: A Visual Approach to Math Literacy for All",
-      "isbn": "9780807769966",
-      "eisbn": "9780807782521"
+      "isbns": [
+        "9780807769966",
+        "9780807782521"
+      ]
     },
     {
       "label": "More Essential Than Ever",
-      "isbn": "9781682539910",
-      "eisbn": "9781682539927"
+      "isbns": [
+        "9781682539910",
+        "9781682539927"
+      ]
     },
     {
       "label": "Teaching with AI",
-      "isbn": "9781421453392",
-      "eisbn": "9781421453408"
+      "isbns": [
+        "9781421453392",
+        "9781421453408"
+      ]
     },
     {
       "label": "The Reflective Educatorâ€²s Guide to Practitioner Inquiry",
-      "isbn": "9781071966655",
-      "eisbn": "9781071966679"
+      "isbns": [
+        "9781071966655",
+        "9781071966679"
+      ]
     },
     {
       "label": "(Re)Imagining Inclusion for Children of Color with Disabilities",
-      "isbn": "9781682539606",
-      "eisbn": "9781682539590"
+      "isbns": [
+        "9781682539606",
+        "9781682539590"
+      ]
     },
     {
       "label": "Beyond the Science of Reading",
-      "isbn": "9781416633563",
-      "eisbn": "9781416633570"
+      "isbns": [
+        "9781416633563",
+        "9781416633570"
+      ]
     },
     {
       "label": "Queer Justice at School: A Guide for Youth Activists, Allies, and Their Teachers",
-      "isbn": "9780807786888",
-      "eisbn": "9780807782972"
+      "isbns": [
+        "9780807786888",
+        "9780807782972"
+      ]
     },
     {
       "label": "Making Writing Meaningful",
-      "isbn": "9780806195339",
-      "eisbn": "9780806195711"
+      "isbns": [
+        "9780806195339",
+        "9780806195711"
+      ]
     },
     {
       "label": "On Close Reading",
-      "isbn": "9780226837420",
-      "eisbn": "9780226837444"
+      "isbns": [
+        "9780226837420",
+        "9780226837444"
+      ]
     },
     {
       "label": "Deliberative Policymaking",
-      "isbn": "9781682538838",
-      "eisbn": "9781682538845"
+      "isbns": [
+        "9781682538838",
+        "9781682538845"
+      ]
     },
     {
       "label": "Against School",
-      "isbn": "9783031804144",
-      "eisbn": "9783031804151"
+      "isbns": [
+        "9783031804144",
+        "9783031804151"
+      ]
     },
     {
       "label": "Peril and Promise",
-      "isbn": "9781541606616",
-      "eisbn": "9781541606623"
+      "isbns": [
+        "9781541606616",
+        "9781541606623"
+      ]
     },
     {
       "label": "The Lecturer's Toolkit",
-      "isbn": "9781032738345",
-      "eisbn": "9781040330869"
+      "isbns": [
+        "9781032738345",
+        "9781040330869"
+      ]
     },
     {
       "label": "Applying Depth of Knowledge and Cognitive Rigor: An Educatorâ€™s Guide to Supporting Deeper Learning",
-      "isbn": "9780807786765",
-      "eisbn": "9780807782910"
+      "isbns": [
+        "9780807786765",
+        "9780807782910"
+      ]
     },
     {
       "label": "Academic Identity in the Age of AI",
-      "isbn": "9781835498675",
-      "eisbn": "9781835498668"
+      "isbns": [
+        "9781835498675",
+        "9781835498668"
+      ]
     },
     {
       "label": "John Dewey",
-      "isbn": "9798855801392",
-      "eisbn": "9798855801415"
+      "isbns": [
+        "9798855801392",
+        "9798855801415"
+      ]
     },
     {
       "label": "Adult Education and Lifelong Learning",
-      "isbn": "9781032878324",
-      "eisbn": "9781003540892"
+      "isbns": [
+        "9781032878324",
+        "9781003540892"
+      ]
     },
     {
       "label": "Democracy and Reform in Public Schools",
-      "isbn": "9781682538500",
-      "eisbn": "9781682538531"
+      "isbns": [
+        "9781682538500",
+        "9781682538531"
+      ]
     },
     {
       "label": "Indigenous Methodologies",
-      "isbn": "9781487508036",
-      "eisbn": "9781487537418"
+      "isbns": [
+        "9781487508036",
+        "9781487537418"
+      ]
     },
     {
       "label": "Building Thinking Classrooms in Mathematics, Grades K-12",
-      "isbn": "9781544374833",
-      "eisbn": "9781544374840"
+      "isbns": [
+        "9781544374833",
+        "9781544374840"
+      ]
     },
     {
       "label": "Anti-Bias Education for Young Children and Ourselves, Second Edition",
-      "isbn": null,
-      "eisbn": "9781938113581"
+      "isbns": [
+        "9781938113581"
+      ]
     },
     {
       "label": "Pedagogy of the Oppressed",
-      "isbn": "9781501314131",
-      "eisbn": "9781501314155"
+      "isbns": [
+        "9781501314131",
+        "9781501314155"
+      ]
     },
     {
       "label": "Major Trade-Offs",
-      "isbn": "9780226840208",
-      "eisbn": "9780226840215"
+      "isbns": [
+        "9780226840208",
+        "9780226840215"
+      ]
     },
     {
       "label": "Building and Leading New Academic Programs in Higher Education",
-      "isbn": "9781475866032",
-      "eisbn": "9781475866056"
+      "isbns": [
+        "9781475866032",
+        "9781475866056"
+      ]
     },
     {
       "label": "Facilitating Virtual Learning Communities: Using Protocols to Improve Educator Practice",
-      "isbn": "9780807786901",
-      "eisbn": "9780807782989"
+      "isbns": [
+        "9780807786901",
+        "9780807782989"
+      ]
     },
     {
       "label": "Love to Learn",
-      "isbn": "9781541703773",
-      "eisbn": "9781541703797"
+      "isbns": [
+        "9781541703773",
+        "9781541703797"
+      ]
     },
     {
       "label": "Community and Public Health Education Methods: A Practical Guide",
-      "isbn": "9781284262056",
-      "eisbn": "9781284262063"
+      "isbns": [
+        "9781284262056",
+        "9781284262063"
+      ]
     },
     {
       "label": "Assistive Technology and Universal Design for Learning: Toolkits for Inclusive Instruction",
-      "isbn": "9781635507522",
-      "eisbn": "9781635504750"
+      "isbns": [
+        "9781635507522",
+        "9781635504750"
+      ]
     },
     {
       "label": "Embracing Chatbots in Higher Education",
-      "isbn": "9781032685977",
-      "eisbn": "9781032686028"
+      "isbns": [
+        "9781032685977",
+        "9781032686028"
+      ]
     },
     {
       "label": "The Present Professor",
-      "isbn": "9780806194684",
-      "eisbn": "9780806195186"
+      "isbns": [
+        "9780806194684",
+        "9780806195186"
+      ]
     },
     {
       "label": "Class Dismissed",
-      "isbn": "9780691237466",
-      "eisbn": "9780691237473"
+      "isbns": [
+        "9780691237466",
+        "9780691237473"
+      ]
     },
     {
       "label": "Universal Design for Learning in the Classroom",
-      "isbn": "9781462553976",
-      "eisbn": "9781462554003"
+      "isbns": [
+        "9781462553976",
+        "9781462554003"
+      ]
     },
     {
       "label": "Teacher Well-Being in Early Childhood: A Resource for Early Care and Education Professionals",
-      "isbn": "9780807769126",
-      "eisbn": "9780807782101"
+      "isbns": [
+        "9780807769126",
+        "9780807782101"
+      ]
     },
     {
       "label": "Enacting Praxis: How Educators Embody Curriculum Studies",
-      "isbn": "9780807769065",
-      "eisbn": "9780807782071"
+      "isbns": [
+        "9780807769065",
+        "9780807782071"
+      ]
     },
     {
       "label": "Developmentally Appropriate Practice in Early Childhood Programs Serving Children From Birth Through Age 8, Fourth Edition (Fully Revised and Updated)",
-      "isbn": "9781938113956",
-      "eisbn": "9781938113963"
+      "isbns": [
+        "9781938113956",
+        "9781938113963"
+      ]
     },
     {
       "label": "Is Everyone Really Equal?: An Introduction to Key Concepts in Social Justice Education",
-      "isbn": "9780807758618",
-      "eisbn": "9780807776179"
+      "isbns": [
+        "9780807758618",
+        "9780807776179"
+      ]
     },
     {
       "label": "Teaching AI Literacy Across the Curriculum",
-      "isbn": "9781071964712",
-      "eisbn": "9781071895016"
+      "isbns": [
+        "9781071964712",
+        "9781071895016"
+      ]
     },
     {
       "label": "Leading Toward Liberation",
-      "isbn": "9781421451336",
-      "eisbn": "9781421451343"
+      "isbns": [
+        "9781421451336",
+        "9781421451343"
+      ]
     }
   ]
 }
